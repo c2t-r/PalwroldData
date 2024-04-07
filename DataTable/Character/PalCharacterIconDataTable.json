@@ -892,5 +892,17 @@
             "AssetPathName": "/Game/Pal/Texture/PalIcon/Normal/T_CommonHuman_icon_normal.T_CommonHuman_icon_normal",
             "SubPathString": ""
         }
+    },
+    "NightLady": {
+        "Icon": {
+            "AssetPathName": "/Game/Pal/Texture/PalIcon/Normal/T_NightLady_icon_normal.T_NightLady_icon_normal",
+            "SubPathString": ""
+        }
+    },
+    "NightLady_Dark": {
+        "Icon": {
+            "AssetPathName": "/Game/Pal/Texture/PalIcon/Normal/T_NightLady_Dark_icon_normal.T_NightLady_Dark_icon_normal",
+            "SubPathString": ""
+        }
     }
 }

@@ -511,5 +511,221 @@
         "NPCSpawnData": null,
         "ExcludeOtherPal": true,
         "action": null
+    },
+    "BadPoliceDrugSeller": {
+        "MonsterSpawnData": null,
+        "NPCSpawnData": {
+            "ObjectName": "DataTable'DT_RandomIncidentNPC_BadPolice'",
+            "ObjectPath": "Pal/Content/Pal/DataTable/Incident/RandomIncident_NPC/DT_RandomIncidentNPC_BadPolice.0"
+        },
+        "ExcludeOtherPal": true,
+        "action": null
+    },
+    "PalBattle_1": {
+        "MonsterSpawnData": null,
+        "NPCSpawnData": {
+            "ObjectName": "DataTable'DT_RandomIncidentNPC_PalBattle_1'",
+            "ObjectPath": "Pal/Content/Pal/DataTable/Incident/RandomIncident_NPC/DT_RandomIncidentNPC_PalBattle_1.0"
+        },
+        "ExcludeOtherPal": true,
+        "action": null
+    },
+    "PalBattle_2": {
+        "MonsterSpawnData": null,
+        "NPCSpawnData": {
+            "ObjectName": "DataTable'DT_RandomIncidentNPC_PalBattle_2'",
+            "ObjectPath": "Pal/Content/Pal/DataTable/Incident/RandomIncident_NPC/DT_RandomIncidentNPC_PalBattle_2.0"
+        },
+        "ExcludeOtherPal": true,
+        "action": null
+    },
+    "PalBattle_3": {
+        "MonsterSpawnData": null,
+        "NPCSpawnData": {
+            "ObjectName": "DataTable'DT_RandomIncidentNPC_PalBattle_3'",
+            "ObjectPath": "Pal/Content/Pal/DataTable/Incident/RandomIncident_NPC/DT_RandomIncidentNPC_PalBattle_3.0"
+        },
+        "ExcludeOtherPal": true,
+        "action": null
+    },
+    "PalBattle_4": {
+        "MonsterSpawnData": null,
+        "NPCSpawnData": {
+            "ObjectName": "DataTable'DT_RandomIncidentNPC_PalBattle_4'",
+            "ObjectPath": "Pal/Content/Pal/DataTable/Incident/RandomIncident_NPC/DT_RandomIncidentNPC_PalBattle_4.0"
+        },
+        "ExcludeOtherPal": true,
+        "action": null
+    },
+    "PalBattle_5": {
+        "MonsterSpawnData": null,
+        "NPCSpawnData": {
+            "ObjectName": "DataTable'DT_RandomIncidentNPC_PalBattle_5'",
+            "ObjectPath": "Pal/Content/Pal/DataTable/Incident/RandomIncident_NPC/DT_RandomIncidentNPC_PalBattle_5.0"
+        },
+        "ExcludeOtherPal": true,
+        "action": null
+    },
+    "PalBattle_6": {
+        "MonsterSpawnData": null,
+        "NPCSpawnData": {
+            "ObjectName": "DataTable'DT_RandomIncidentNPC_PalBattle_6'",
+            "ObjectPath": "Pal/Content/Pal/DataTable/Incident/RandomIncident_NPC/DT_RandomIncidentNPC_PalBattle_6.0"
+        },
+        "ExcludeOtherPal": true,
+        "action": null
+    },
+    "PalBattle_7": {
+        "MonsterSpawnData": null,
+        "NPCSpawnData": {
+            "ObjectName": "DataTable'DT_RandomIncidentNPC_PalBattle_7'",
+            "ObjectPath": "Pal/Content/Pal/DataTable/Incident/RandomIncident_NPC/DT_RandomIncidentNPC_PalBattle_7.0"
+        },
+        "ExcludeOtherPal": true,
+        "action": null
+    },
+    "PalBattle_8": {
+        "MonsterSpawnData": null,
+        "NPCSpawnData": {
+            "ObjectName": "DataTable'DT_RandomIncidentNPC_PalBattle_8'",
+            "ObjectPath": "Pal/Content/Pal/DataTable/Incident/RandomIncident_NPC/DT_RandomIncidentNPC_PalBattle_8.0"
+        },
+        "ExcludeOtherPal": true,
+        "action": null
+    },
+    "PalBattle_9": {
+        "MonsterSpawnData": null,
+        "NPCSpawnData": {
+            "ObjectName": "DataTable'DT_RandomIncidentNPC_PalBattle_9'",
+            "ObjectPath": "Pal/Content/Pal/DataTable/Incident/RandomIncident_NPC/DT_RandomIncidentNPC_PalBattle_9.0"
+        },
+        "ExcludeOtherPal": true,
+        "action": null
+    },
+    "PalBattle_10": {
+        "MonsterSpawnData": null,
+        "NPCSpawnData": {
+            "ObjectName": "DataTable'DT_RandomIncidentNPC_PalBattle_10'",
+            "ObjectPath": "Pal/Content/Pal/DataTable/Incident/RandomIncident_NPC/DT_RandomIncidentNPC_PalBattle_10.0"
+        },
+        "ExcludeOtherPal": true,
+        "action": null
+    },
+    "PalBattle_11": {
+        "MonsterSpawnData": null,
+        "NPCSpawnData": {
+            "ObjectName": "DataTable'DT_RandomIncidentNPC_PalBattle_11'",
+            "ObjectPath": "Pal/Content/Pal/DataTable/Incident/RandomIncident_NPC/DT_RandomIncidentNPC_PalBattle_11.0"
+        },
+        "ExcludeOtherPal": true,
+        "action": null
+    },
+    "PalBattle_12": {
+        "MonsterSpawnData": null,
+        "NPCSpawnData": {
+            "ObjectName": "DataTable'DT_RandomIncidentNPC_PalBattle_12'",
+            "ObjectPath": "Pal/Content/Pal/DataTable/Incident/RandomIncident_NPC/DT_RandomIncidentNPC_PalBattle_12.0"
+        },
+        "ExcludeOtherPal": true,
+        "action": null
+    },
+    "PalBattle_13": {
+        "MonsterSpawnData": null,
+        "NPCSpawnData": {
+            "ObjectName": "DataTable'DT_RandomIncidentNPC_PalBattle_13'",
+            "ObjectPath": "Pal/Content/Pal/DataTable/Incident/RandomIncident_NPC/DT_RandomIncidentNPC_PalBattle_13.0"
+        },
+        "ExcludeOtherPal": true,
+        "action": null
+    },
+    "PalBattle_14": {
+        "MonsterSpawnData": null,
+        "NPCSpawnData": {
+            "ObjectName": "DataTable'DT_RandomIncidentNPC_PalBattle_14'",
+            "ObjectPath": "Pal/Content/Pal/DataTable/Incident/RandomIncident_NPC/DT_RandomIncidentNPC_PalBattle_14.0"
+        },
+        "ExcludeOtherPal": true,
+        "action": null
+    },
+    "PalBattle_15": {
+        "MonsterSpawnData": null,
+        "NPCSpawnData": {
+            "ObjectName": "DataTable'DT_RandomIncidentNPC_PalBattle_15'",
+            "ObjectPath": "Pal/Content/Pal/DataTable/Incident/RandomIncident_NPC/DT_RandomIncidentNPC_PalBattle_15.0"
+        },
+        "ExcludeOtherPal": true,
+        "action": null
+    },
+    "PalBattle_16": {
+        "MonsterSpawnData": null,
+        "NPCSpawnData": {
+            "ObjectName": "DataTable'DT_RandomIncidentNPC_PalBattle_16'",
+            "ObjectPath": "Pal/Content/Pal/DataTable/Incident/RandomIncident_NPC/DT_RandomIncidentNPC_PalBattle_16.0"
+        },
+        "ExcludeOtherPal": true,
+        "action": null
+    },
+    "PalBattle_17": {
+        "MonsterSpawnData": null,
+        "NPCSpawnData": {
+            "ObjectName": "DataTable'DT_RandomIncidentNPC_PalBattle_17'",
+            "ObjectPath": "Pal/Content/Pal/DataTable/Incident/RandomIncident_NPC/DT_RandomIncidentNPC_PalBattle_17.0"
+        },
+        "ExcludeOtherPal": true,
+        "action": null
+    },
+    "PalBattle_18": {
+        "MonsterSpawnData": null,
+        "NPCSpawnData": {
+            "ObjectName": "DataTable'DT_RandomIncidentNPC_PalBattle_18'",
+            "ObjectPath": "Pal/Content/Pal/DataTable/Incident/RandomIncident_NPC/DT_RandomIncidentNPC_PalBattle_18.0"
+        },
+        "ExcludeOtherPal": true,
+        "action": null
+    },
+    "MerchantwithPAL": {
+        "MonsterSpawnData": {
+            "ObjectName": "DataTable'DT_RandomIncidentMonster_MarchantwithPAL'",
+            "ObjectPath": "Pal/Content/Pal/DataTable/Incident/RandomIncident_Monster/DT_RandomIncidentMonster_MarchantwithPAL.0"
+        },
+        "NPCSpawnData": {
+            "ObjectName": "DataTable'DT_RandomIncidentNPC_MarchantwithPAL'",
+            "ObjectPath": "Pal/Content/Pal/DataTable/Incident/RandomIncident_NPC/DT_RandomIncidentNPC_MarchantwithPAL.0"
+        },
+        "ExcludeOtherPal": true,
+        "action": {
+            "ObjectName": "BlueprintGeneratedClass'BP_PalIncidentRandomActionMerchantwithPAL_C'",
+            "ObjectPath": "Pal/Content/Pal/Blueprint/Incident/Random/Action/BP_PalIncidentRandomActionMerchantwithPAL.0"
+        }
+    },
+    "MerchantwithPAL_2": {
+        "MonsterSpawnData": {
+            "ObjectName": "DataTable'DT_RandomIncidentMonster_MarchantwithPAL1'",
+            "ObjectPath": "Pal/Content/Pal/DataTable/Incident/RandomIncident_Monster/DT_RandomIncidentMonster_MarchantwithPAL1.0"
+        },
+        "NPCSpawnData": {
+            "ObjectName": "DataTable'DT_RandomIncidentNPC_MarchantwithPAL1'",
+            "ObjectPath": "Pal/Content/Pal/DataTable/Incident/RandomIncident_NPC/DT_RandomIncidentNPC_MarchantwithPAL1.0"
+        },
+        "ExcludeOtherPal": true,
+        "action": {
+            "ObjectName": "BlueprintGeneratedClass'BP_PalIncidentRandomActionMerchantwithPAL_C'",
+            "ObjectPath": "Pal/Content/Pal/Blueprint/Incident/Random/Action/BP_PalIncidentRandomActionMerchantwithPAL.0"
+        }
+    },
+    "MerchantwithPAL_3": {
+        "MonsterSpawnData": {
+            "ObjectName": "DataTable'DT_RandomIncidentMonster_MarchantwithPAL2'",
+            "ObjectPath": "Pal/Content/Pal/DataTable/Incident/RandomIncident_Monster/DT_RandomIncidentMonster_MarchantwithPAL2.0"
+        },
+        "NPCSpawnData": {
+            "ObjectName": "DataTable'DT_RandomIncidentNPC_MarchantwithPAL2'",
+            "ObjectPath": "Pal/Content/Pal/DataTable/Incident/RandomIncident_NPC/DT_RandomIncidentNPC_MarchantwithPAL2.0"
+        },
+        "ExcludeOtherPal": true,
+        "action": {
+            "ObjectName": "BlueprintGeneratedClass'BP_PalIncidentRandomActionMerchantwithPAL_C'",
+            "ObjectPath": "Pal/Content/Pal/Blueprint/Incident/Random/Action/BP_PalIncidentRandomActionMerchantwithPAL.0"
+        }
     }
 }

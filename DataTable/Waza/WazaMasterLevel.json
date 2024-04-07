@@ -1796,7 +1796,7 @@
     },
     "CaptainPenguin015": {
         "PalID": "CaptainPenguin",
-        "WazaID": "EPalWazaID::Unique_CaptainPenguin_BodySlide",
+        "WazaID": "EPalWazaID::Unique_WeaselDragon_FlyingTackle",
         "Level": 15
     },
     "CaptainPenguin022": {
@@ -1831,7 +1831,7 @@
     },
     "BOSS_CaptainPenguin015": {
         "PalID": "BOSS_CaptainPenguin",
-        "WazaID": "EPalWazaID::Unique_CaptainPenguin_BodySlide",
+        "WazaID": "EPalWazaID::Unique_WeaselDragon_FlyingTackle",
         "Level": 15
     },
     "BOSS_CaptainPenguin022": {
@@ -2926,7 +2926,7 @@
     },
     "FireKirin_Dark030": {
         "PalID": "FireKirin_Dark",
-        "WazaID": "EPalWazaID::Unique_FireKirin_Dark_DarkTossin",
+        "WazaID": "EPalWazaID::Reserve",
         "Level": 30
     },
     "FireKirin_Dark040": {
@@ -2961,7 +2961,7 @@
     },
     "BOSS_FireKirin_Dark030": {
         "PalID": "BOSS_FireKirin_Dark",
-        "WazaID": "EPalWazaID::Unique_FireKirin_Dark_DarkTossin",
+        "WazaID": "EPalWazaID::Reserve",
         "Level": 30
     },
     "BOSS_FireKirin_Dark040": {
@@ -3696,7 +3696,7 @@
     },
     "VolcanicMonster_Ice030": {
         "PalID": "VolcanicMonster_Ice",
-        "WazaID": "EPalWazaID::Unique_VolcanicMonster_Ice_IceAttack",
+        "WazaID": "EPalWazaID::Reserve",
         "Level": 30
     },
     "VolcanicMonster_Ice040": {
@@ -3731,7 +3731,7 @@
     },
     "BOSS_VolcanicMonster_Ice030": {
         "PalID": "BOSS_VolcanicMonster_Ice",
-        "WazaID": "EPalWazaID::Unique_VolcanicMonster_Ice_IceAttack",
+        "WazaID": "EPalWazaID::Reserve",
         "Level": 30
     },
     "BOSS_VolcanicMonster_Ice040": {
@@ -5226,7 +5226,7 @@
     },
     "SakuraSaurus015": {
         "PalID": "SakuraSaurus",
-        "WazaID": "EPalWazaID::Unique_SakuraSaurus_SideTackle",
+        "WazaID": "EPalWazaID::Unique_GrassRabbitMan_GrassRoundKick",
         "Level": 15
     },
     "SakuraSaurus022": {
@@ -5261,7 +5261,7 @@
     },
     "BOSS_SakuraSaurus015": {
         "PalID": "BOSS_SakuraSaurus",
-        "WazaID": "EPalWazaID::Unique_SakuraSaurus_SideTackle",
+        "WazaID": "EPalWazaID::Unique_GrassRabbitMan_GrassRoundKick",
         "Level": 15
     },
     "BOSS_SakuraSaurus022": {
@@ -5296,7 +5296,7 @@
     },
     "SakuraSaurus_Water015": {
         "PalID": "SakuraSaurus_Water",
-        "WazaID": "EPalWazaID::Unique_SakuraSaurus_SideTackle",
+        "WazaID": "EPalWazaID::Unique_GrassRabbitMan_GrassRoundKick",
         "Level": 15
     },
     "SakuraSaurus_Water022": {
@@ -5331,7 +5331,7 @@
     },
     "BOSS_SakuraSaurus_Water015": {
         "PalID": "BOSS_SakuraSaurus_Water",
-        "WazaID": "EPalWazaID::Unique_SakuraSaurus_SideTackle",
+        "WazaID": "EPalWazaID::Unique_GrassRabbitMan_GrassRoundKick",
         "Level": 15
     },
     "BOSS_SakuraSaurus_Water022": {
@@ -5636,7 +5636,7 @@
     },
     "IceDeer022": {
         "PalID": "IceDeer",
-        "WazaID": "EPalWazaID::Unique_IceDeer_IceHorn",
+        "WazaID": "EPalWazaID::Unique_BlackCentaur_TwoSpearRushes",
         "Level": 22
     },
     "IceDeer030": {
@@ -5671,7 +5671,7 @@
     },
     "BOSS_IceDeer022": {
         "PalID": "BOSS_IceDeer",
-        "WazaID": "EPalWazaID::Unique_IceDeer_IceHorn",
+        "WazaID": "EPalWazaID::Unique_BlackCentaur_TwoSpearRushes",
         "Level": 22
     },
     "BOSS_IceDeer030": {
@@ -5716,7 +5716,7 @@
     },
     "BlackGriffon040": {
         "PalID": "BlackGriffon",
-        "WazaID": "EPalWazaID::Unique_BlackGriffon_TackleLaser",
+        "WazaID": "EPalWazaID::Unique_Ronin_Iai",
         "Level": 40
     },
     "BlackGriffon050": {
@@ -5751,7 +5751,7 @@
     },
     "BOSS_BlackGriffon040": {
         "PalID": "BOSS_BlackGriffon",
-        "WazaID": "EPalWazaID::Unique_BlackGriffon_TackleLaser",
+        "WazaID": "EPalWazaID::Unique_Ronin_Iai",
         "Level": 40
     },
     "BOSS_BlackGriffon050": {
@@ -5761,7 +5761,7 @@
     },
     "GYM_BlackGriffon001": {
         "PalID": "GYM_BlackGriffon",
-        "WazaID": "EPalWazaID::Unique_BlackGriffon_TackleLaser",
+        "WazaID": "EPalWazaID::Unique_Ronin_Iai",
         "Level": 1
     },
     "GYM_BlackGriffon002": {
@@ -6391,7 +6391,7 @@
     },
     "GrassPanda_Electric022": {
         "PalID": "GrassPanda_Electric",
-        "WazaID": "EPalWazaID::Unique_GrassPanda_Electric_ElectricPunch",
+        "WazaID": "EPalWazaID::Reserve",
         "Level": 22
     },
     "GrassPanda_Electric030": {
@@ -6426,7 +6426,7 @@
     },
     "BOSS_GrassPanda_Electric022": {
         "PalID": "BOSS_GrassPanda_Electric",
-        "WazaID": "EPalWazaID::Unique_GrassPanda_Electric_ElectricPunch",
+        "WazaID": "EPalWazaID::Reserve",
         "Level": 22
     },
     "BOSS_GrassPanda_Electric030": {
@@ -8251,7 +8251,7 @@
     },
     "JetDragon030": {
         "PalID": "JetDragon",
-        "WazaID": "EPalWazaID::Unique_JetDragon_JumpBeam",
+        "WazaID": "EPalWazaID::Unique_KingBahamut_AirCrash",
         "Level": 30
     },
     "JetDragon040": {
@@ -8286,7 +8286,7 @@
     },
     "BOSS_JetDragon030": {
         "PalID": "BOSS_JetDragon",
-        "WazaID": "EPalWazaID::Unique_JetDragon_JumpBeam",
+        "WazaID": "EPalWazaID::Unique_KingBahamut_AirCrash",
         "Level": 30
     },
     "BOSS_JetDragon040": {
@@ -8466,7 +8466,7 @@
     },
     "SaintCentaur040": {
         "PalID": "SaintCentaur",
-        "WazaID": "EPalWazaID::Unique_SaintCentaur_OneSpearRushes",
+        "WazaID": "EPalWazaID::Unique_BirdDragon_Ice_IceBreath",
         "Level": 40
     },
     "SaintCentaur050": {
@@ -8501,7 +8501,7 @@
     },
     "BOSS_SaintCentaur040": {
         "PalID": "BOSS_SaintCentaur",
-        "WazaID": "EPalWazaID::Unique_SaintCentaur_OneSpearRushes",
+        "WazaID": "EPalWazaID::Unique_BirdDragon_Ice_IceBreath",
         "Level": 40
     },
     "BOSS_SaintCentaur050": {
@@ -8876,7 +8876,7 @@
     },
     "Ronin022": {
         "PalID": "Ronin",
-        "WazaID": "EPalWazaID::Unique_Ronin_Iai",
+        "WazaID": "EPalWazaID::Unique_WhiteTiger_IceScratch",
         "Level": 22
     },
     "Ronin030": {
@@ -8911,7 +8911,7 @@
     },
     "BOSS_Ronin022": {
         "PalID": "BOSS_Ronin",
-        "WazaID": "EPalWazaID::Unique_Ronin_Iai",
+        "WazaID": "EPalWazaID::Unique_WhiteTiger_IceScratch",
         "Level": 22
     },
     "BOSS_Ronin030": {
@@ -9026,7 +9026,7 @@
     },
     "BlackCentaur040": {
         "PalID": "BlackCentaur",
-        "WazaID": "EPalWazaID::Unique_BlackCentaur_TwoSpearRushes",
+        "WazaID": "EPalWazaID::Unique_CaptainPenguin_BodySlide",
         "Level": 40
     },
     "BlackCentaur050": {
@@ -9061,7 +9061,7 @@
     },
     "BOSS_BlackCentaur040": {
         "PalID": "BOSS_BlackCentaur",
-        "WazaID": "EPalWazaID::Unique_BlackCentaur_TwoSpearRushes",
+        "WazaID": "EPalWazaID::Unique_CaptainPenguin_BodySlide",
         "Level": 40
     },
     "BOSS_BlackCentaur050": {
@@ -9151,7 +9151,7 @@
     },
     "NaughtyCat015": {
         "PalID": "NaughtyCat",
-        "WazaID": "EPalWazaID::Unique_NaughtyCat_CatPress",
+        "WazaID": "EPalWazaID::Unique_ThunderDog_InazumaShorai",
         "Level": 15
     },
     "NaughtyCat022": {
@@ -9186,7 +9186,7 @@
     },
     "BOSS_NaughtyCat015": {
         "PalID": "BOSS_NaughtyCat",
-        "WazaID": "EPalWazaID::Unique_NaughtyCat_CatPress",
+        "WazaID": "EPalWazaID::Unique_ThunderDog_InazumaShorai",
         "Level": 15
     },
     "BOSS_NaughtyCat022": {
@@ -9351,7 +9351,7 @@
     },
     "ThunderDragonMan001": {
         "PalID": "ThunderDragonMan",
-        "WazaID": "EPalWazaID::Unique_ThunderDragonMan_ThunderSwordAttack",
+        "WazaID": "EPalWazaID::Unique_SaintCentaur_OneSpearRushes",
         "Level": 1
     },
     "ThunderDragonMan007": {
@@ -9386,7 +9386,7 @@
     },
     "BOSS_ThunderDragonMan001": {
         "PalID": "BOSS_ThunderDragonMan",
-        "WazaID": "EPalWazaID::Unique_ThunderDragonMan_ThunderSwordAttack",
+        "WazaID": "EPalWazaID::Unique_SaintCentaur_OneSpearRushes",
         "Level": 1
     },
     "BOSS_ThunderDragonMan007": {
@@ -9421,7 +9421,7 @@
     },
     "GYM_ThunderDragonMan001": {
         "PalID": "GYM_ThunderDragonMan",
-        "WazaID": "EPalWazaID::Unique_ThunderDragonMan_ThunderSwordAttack",
+        "WazaID": "EPalWazaID::Unique_SaintCentaur_OneSpearRushes",
         "Level": 1
     },
     "GYM_ThunderDragonMan002": {
@@ -9883,5 +9883,275 @@
         "PalID": "Boss_IceFox",
         "WazaID": "EPalWazaID::IcicleThrow",
         "Level": 50
+    },
+    "NightLady001": {
+        "PalID": "NightLady",
+        "WazaID": "EPalWazaID::Unique_BirdDragon_FireBreath",
+        "Level": 1
+    },
+    "NightLady007": {
+        "PalID": "NightLady",
+        "WazaID": "EPalWazaID::Unique_DarkScorpion_Pierce",
+        "Level": 7
+    },
+    "NightLady015": {
+        "PalID": "NightLady",
+        "WazaID": "EPalWazaID::Unique_BlackMetalDragon_FirePunch",
+        "Level": 15
+    },
+    "NightLady022": {
+        "PalID": "NightLady",
+        "WazaID": "EPalWazaID::GhostFlame",
+        "Level": 22
+    },
+    "NightLady030": {
+        "PalID": "NightLady",
+        "WazaID": "EPalWazaID::ShadowBall",
+        "Level": 30
+    },
+    "NightLady040": {
+        "PalID": "NightLady",
+        "WazaID": "EPalWazaID::Unique_JetDragon_JumpBeam",
+        "Level": 40
+    },
+    "NightLady050": {
+        "PalID": "NightLady",
+        "WazaID": "EPalWazaID::Reserve",
+        "Level": 50
+    },
+    "BOSS_NightLady001": {
+        "PalID": "BOSS_NightLady",
+        "WazaID": "EPalWazaID::Unique_BirdDragon_FireBreath",
+        "Level": 1
+    },
+    "BOSS_NightLady007": {
+        "PalID": "BOSS_NightLady",
+        "WazaID": "EPalWazaID::Unique_DarkScorpion_Pierce",
+        "Level": 7
+    },
+    "BOSS_NightLady015": {
+        "PalID": "BOSS_NightLady",
+        "WazaID": "EPalWazaID::Unique_BlackMetalDragon_FirePunch",
+        "Level": 15
+    },
+    "BOSS_NightLady022": {
+        "PalID": "BOSS_NightLady",
+        "WazaID": "EPalWazaID::GhostFlame",
+        "Level": 22
+    },
+    "BOSS_NightLady030": {
+        "PalID": "BOSS_NightLady",
+        "WazaID": "EPalWazaID::ShadowBall",
+        "Level": 30
+    },
+    "BOSS_NightLady040": {
+        "PalID": "BOSS_NightLady",
+        "WazaID": "EPalWazaID::Unique_JetDragon_JumpBeam",
+        "Level": 40
+    },
+    "BOSS_NightLady050": {
+        "PalID": "BOSS_NightLady",
+        "WazaID": "EPalWazaID::Reserve",
+        "Level": 50
+    },
+    "NightLady_Dark001": {
+        "PalID": "NightLady_Dark",
+        "WazaID": "EPalWazaID::Unique_BirdDragon_FireBreath",
+        "Level": 1
+    },
+    "NightLady_Dark007": {
+        "PalID": "NightLady_Dark",
+        "WazaID": "EPalWazaID::Unique_DarkScorpion_Pierce",
+        "Level": 7
+    },
+    "NightLady_Dark015": {
+        "PalID": "NightLady_Dark",
+        "WazaID": "EPalWazaID::Unique_BlackMetalDragon_FirePunch",
+        "Level": 15
+    },
+    "NightLady_Dark022": {
+        "PalID": "NightLady_Dark",
+        "WazaID": "EPalWazaID::ShadowBall",
+        "Level": 22
+    },
+    "NightLady_Dark030": {
+        "PalID": "NightLady_Dark",
+        "WazaID": "EPalWazaID::Unique_JetDragon_JumpBeam",
+        "Level": 30
+    },
+    "NightLady_Dark040": {
+        "PalID": "NightLady_Dark",
+        "WazaID": "EPalWazaID::Reserve",
+        "Level": 40
+    },
+    "NightLady_Dark050": {
+        "PalID": "NightLady_Dark",
+        "WazaID": "EPalWazaID::Reserve",
+        "Level": 50
+    },
+    "BOSS_NightLady_Dark001": {
+        "PalID": "BOSS_NightLady_Dark",
+        "WazaID": "EPalWazaID::Unique_BirdDragon_FireBreath",
+        "Level": 1
+    },
+    "BOSS_NightLady_Dark007": {
+        "PalID": "BOSS_NightLady_Dark",
+        "WazaID": "EPalWazaID::Unique_DarkScorpion_Pierce",
+        "Level": 7
+    },
+    "BOSS_NightLady_Dark015": {
+        "PalID": "BOSS_NightLady_Dark",
+        "WazaID": "EPalWazaID::Unique_BlackMetalDragon_FirePunch",
+        "Level": 15
+    },
+    "BOSS_NightLady_Dark022": {
+        "PalID": "BOSS_NightLady_Dark",
+        "WazaID": "EPalWazaID::ShadowBall",
+        "Level": 22
+    },
+    "BOSS_NightLady_Dark030": {
+        "PalID": "BOSS_NightLady_Dark",
+        "WazaID": "EPalWazaID::Unique_JetDragon_JumpBeam",
+        "Level": 30
+    },
+    "BOSS_NightLady_Dark040": {
+        "PalID": "BOSS_NightLady_Dark",
+        "WazaID": "EPalWazaID::Reserve",
+        "Level": 40
+    },
+    "BOSS_NightLady_Dark050": {
+        "PalID": "BOSS_NightLady_Dark",
+        "WazaID": "EPalWazaID::Reserve",
+        "Level": 50
+    },
+    "RAID_NightLady001": {
+        "PalID": "RAID_NightLady",
+        "WazaID": "EPalWazaID::GhostFlame",
+        "Level": 1
+    },
+    "RAID_NightLady002": {
+        "PalID": "RAID_NightLady",
+        "WazaID": "EPalWazaID::Unique_DarkScorpion_Pierce",
+        "Level": 2
+    },
+    "RAID_NightLady003": {
+        "PalID": "RAID_NightLady",
+        "WazaID": "EPalWazaID::ShadowBall",
+        "Level": 3
+    },
+    "RAID_NightLady004": {
+        "PalID": "RAID_NightLady",
+        "WazaID": "EPalWazaID::DarkLaser",
+        "Level": 4
+    },
+    "RAID_NightLady005": {
+        "PalID": "RAID_NightLady",
+        "WazaID": "EPalWazaID::Unique_BirdDragon_FireBreath",
+        "Level": 5
+    },
+    "RAID_NightLady006": {
+        "PalID": "RAID_NightLady",
+        "WazaID": "EPalWazaID::Unique_BlackMetalDragon_FirePunch",
+        "Level": 6
+    },
+    "RAID_NightLady007": {
+        "PalID": "RAID_NightLady",
+        "WazaID": "EPalWazaID::Unique_JetDragon_JumpBeam",
+        "Level": 7
+    },
+    "RAID_NightLady008": {
+        "PalID": "RAID_NightLady",
+        "WazaID": "EPalWazaID::Reserve",
+        "Level": 8
+    },
+    "RAID_NightLady_Dark001": {
+        "PalID": "RAID_NightLady_Dark",
+        "WazaID": "EPalWazaID::Unique_DarkScorpion_Pierce",
+        "Level": 1
+    },
+    "RAID_NightLady_Dark002": {
+        "PalID": "RAID_NightLady_Dark",
+        "WazaID": "EPalWazaID::ShadowBall",
+        "Level": 2
+    },
+    "RAID_NightLady_Dark003": {
+        "PalID": "RAID_NightLady_Dark",
+        "WazaID": "EPalWazaID::DarkLaser",
+        "Level": 3
+    },
+    "RAID_NightLady_Dark004": {
+        "PalID": "RAID_NightLady_Dark",
+        "WazaID": "EPalWazaID::Unique_BirdDragon_FireBreath",
+        "Level": 4
+    },
+    "RAID_NightLady_Dark005": {
+        "PalID": "RAID_NightLady_Dark",
+        "WazaID": "EPalWazaID::DarkLegion",
+        "Level": 5
+    },
+    "RAID_NightLady_Dark006": {
+        "PalID": "RAID_NightLady_Dark",
+        "WazaID": "EPalWazaID::Unique_BlackMetalDragon_FirePunch",
+        "Level": 6
+    },
+    "RAID_NightLady_Dark007": {
+        "PalID": "RAID_NightLady_Dark",
+        "WazaID": "EPalWazaID::Unique_JetDragon_JumpBeam",
+        "Level": 7
+    },
+    "RAID_NightLady_Dark008": {
+        "PalID": "RAID_NightLady_Dark",
+        "WazaID": "EPalWazaID::Reserve",
+        "Level": 8
+    },
+    "RAID_NightLady_Dark009": {
+        "PalID": "RAID_NightLady_Dark",
+        "WazaID": "EPalWazaID::Reserve",
+        "Level": 9
+    },
+    "RAID_NightLady_Dark_2001": {
+        "PalID": "RAID_NightLady_Dark_2",
+        "WazaID": "EPalWazaID::Unique_DarkScorpion_Pierce",
+        "Level": 1
+    },
+    "RAID_NightLady_Dark_2002": {
+        "PalID": "RAID_NightLady_Dark_2",
+        "WazaID": "EPalWazaID::ShadowBall",
+        "Level": 2
+    },
+    "RAID_NightLady_Dark_2003": {
+        "PalID": "RAID_NightLady_Dark_2",
+        "WazaID": "EPalWazaID::DarkLaser",
+        "Level": 3
+    },
+    "RAID_NightLady_Dark_2004": {
+        "PalID": "RAID_NightLady_Dark_2",
+        "WazaID": "EPalWazaID::Unique_BirdDragon_FireBreath",
+        "Level": 4
+    },
+    "RAID_NightLady_Dark_2005": {
+        "PalID": "RAID_NightLady_Dark_2",
+        "WazaID": "EPalWazaID::DarkLegion",
+        "Level": 5
+    },
+    "RAID_NightLady_Dark_2006": {
+        "PalID": "RAID_NightLady_Dark_2",
+        "WazaID": "EPalWazaID::Unique_BlackMetalDragon_FirePunch",
+        "Level": 6
+    },
+    "RAID_NightLady_Dark_2007": {
+        "PalID": "RAID_NightLady_Dark_2",
+        "WazaID": "EPalWazaID::Unique_JetDragon_JumpBeam",
+        "Level": 7
+    },
+    "RAID_NightLady_Dark_2008": {
+        "PalID": "RAID_NightLady_Dark_2",
+        "WazaID": "EPalWazaID::Reserve",
+        "Level": 8
+    },
+    "RAID_NightLady_Dark_2009": {
+        "PalID": "RAID_NightLady_Dark_2",
+        "WazaID": "EPalWazaID::Reserve",
+        "Level": 9
     }
 }

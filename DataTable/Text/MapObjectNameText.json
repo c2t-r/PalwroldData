@@ -2531,8 +2531,240 @@
         "TextData": {
             "Namespace": "DT_MapObjectNameText",
             "Key": "MAPOBJECT_NAME_Altar_TextData",
-            "SourceString": "パル召喚台",
-            "LocalizedString": "パル召喚台"
+            "SourceString": "召喚の祭壇",
+            "LocalizedString": "召喚の祭壇"
+        }
+    },
+    "MAPOBJECT_NAME_CopperPit": {
+        "TextData": {
+            "Namespace": "DT_MapObjectNameText",
+            "Key": "MAPOBJECT_NAME_CopperPit_TextData",
+            "SourceString": "金属採掘場",
+            "LocalizedString": "金属採掘場"
+        }
+    },
+    "MAPOBJECT_NAME_CopperPit_2": {
+        "TextData": {
+            "Namespace": "DT_MapObjectNameText",
+            "Key": "MAPOBJECT_NAME_CopperPit_2_TextData",
+            "SourceString": "金属採掘場Ⅱ",
+            "LocalizedString": "金属採掘場Ⅱ"
+        }
+    },
+    "MAPOBJECT_NAME_ElectricHatchingPalEgg": {
+        "TextData": {
+            "Namespace": "DT_MapObjectNameText",
+            "Key": "MAPOBJECT_NAME_ElectricHatchingPalEgg_TextData",
+            "SourceString": "電動タマゴ孵化器",
+            "LocalizedString": "電動タマゴ孵化器"
+        }
+    },
+    "MAPOBJECT_NAME_PickupItem_CaveMushroom": {
+        "TextData": {
+            "Namespace": "DT_MapObjectNameText",
+            "Key": "MAPOBJECT_NAME_PickupItem_CaveMushroom_TextData",
+            "SourceString": "洞窟キノコ",
+            "LocalizedString": "洞窟キノコ"
+        }
+    },
+    "MAPOBJECT_NAME_CoolerPalFoodBox": {
+        "TextData": {
+            "Namespace": "DT_MapObjectNameText",
+            "Key": "MAPOBJECT_NAME_CoolerPalFoodBox_TextData",
+            "SourceString": "冷却餌箱",
+            "LocalizedString": "冷却餌箱"
+        }
+    },
+    "MAPOBJECT_NAME_AntiAircraft_LaserTower": {
+        "TextData": {
+            "Namespace": "DT_MapObjectNameText",
+            "Key": "MAPOBJECT_NAME_AntiAircraft_LaserTower_TextData",
+            "SourceString": "対空レーザー塔",
+            "LocalizedString": "対空レーザー塔"
+        }
+    },
+    "MAPOBJECT_NAME_AntiAircraft_MachineGun": {
+        "TextData": {
+            "Namespace": "DT_MapObjectNameText",
+            "Key": "MAPOBJECT_NAME_AntiAircraft_MachineGun_TextData",
+            "SourceString": "対空機銃",
+            "LocalizedString": "対空機銃"
+        }
+    },
+    "MAPOBJECT_NAME_TreasureBox_Oilrig": {
+        "TextData": {
+            "Namespace": "DT_MapObjectNameText",
+            "Key": "MAPOBJECT_NAME_TreasureBox_Oilrig_TextData",
+            "SourceString": "オイルリグ宝箱",
+            "LocalizedString": "オイルリグ宝箱"
+        }
+    },
+    "MAPOBJECT_NAME_OilRig": {
+        "TextData": {
+            "Namespace": "DT_MapObjectNameText",
+            "Key": "MAPOBJECT_NAME_OilRig_TextData",
+            "SourceString": "原油採掘場",
+            "LocalizedString": "原油採掘場"
+        }
+    },
+    "MAPOBJECT_NAME_SulfurPit": {
+        "TextData": {
+            "Namespace": "DT_MapObjectNameText",
+            "Key": "MAPOBJECT_NAME_SulfurPit_TextData",
+            "SourceString": "硫黄採掘場",
+            "LocalizedString": "硫黄採掘場"
+        }
+    },
+    "MAPOBJECT_NAME_CoalPit": {
+        "TextData": {
+            "Namespace": "DT_MapObjectNameText",
+            "Key": "MAPOBJECT_NAME_CoalPit_TextData",
+            "SourceString": "石炭採掘場",
+            "LocalizedString": "石炭採掘場"
+        }
+    },
+    "MAPOBJECT_NAME_IceCrusher": {
+        "TextData": {
+            "Namespace": "DT_MapObjectNameText",
+            "Key": "MAPOBJECT_NAME_IceCrusher_TextData",
+            "SourceString": "冷却破砕機",
+            "LocalizedString": "冷却破砕機"
+        }
+    },
+    "MAPOBJECT_NAME_DismantlingConveyor": {
+        "TextData": {
+            "Namespace": "DT_MapObjectNameText",
+            "Key": "MAPOBJECT_NAME_DismantlingConveyor_TextData",
+            "SourceString": "パル解体コンベア",
+            "LocalizedString": "パル解体コンベア"
+        }
+    },
+    "MAPOBJECT_NAME_WallSignboard": {
+        "TextData": {
+            "Namespace": "DT_MapObjectNameText",
+            "Key": "MAPOBJECT_NAME_WallSignboard_TextData",
+            "SourceString": "壁掛け看板",
+            "LocalizedString": "壁掛け看板"
+        }
+    },
+    "MAPOBJECT_NAME_TreasureBox_Electric": {
+        "TextData": {
+            "Namespace": "DT_MapObjectNameText",
+            "Key": "MAPOBJECT_NAME_TreasureBox_Electric_TextData",
+            "SourceString": "属性宝箱（電気）",
+            "LocalizedString": "属性宝箱（電気）"
+        }
+    },
+    "MAPOBJECT_NAME_TreasureBox_Ivy": {
+        "TextData": {
+            "Namespace": "DT_MapObjectNameText",
+            "Key": "MAPOBJECT_NAME_TreasureBox_Ivy_TextData",
+            "SourceString": "属性宝箱（草）",
+            "LocalizedString": "属性宝箱（草）"
+        }
+    },
+    "MAPOBJECT_NAME_TreasureBox_Ice": {
+        "TextData": {
+            "Namespace": "DT_MapObjectNameText",
+            "Key": "MAPOBJECT_NAME_TreasureBox_Ice_TextData",
+            "SourceString": "属性宝箱（氷）",
+            "LocalizedString": "属性宝箱（氷）"
+        }
+    },
+    "MAPOBJECT_NAME_Glass_foundation": {
+        "TextData": {
+            "Namespace": "DT_MapObjectNameText",
+            "Key": "MAPOBJECT_NAME_Glass_foundation_TextData",
+            "SourceString": "ガラスの土台",
+            "LocalizedString": "ガラスの土台"
+        }
+    },
+    "MAPOBJECT_NAME_Glass_wall": {
+        "TextData": {
+            "Namespace": "DT_MapObjectNameText",
+            "Key": "MAPOBJECT_NAME_Glass_wall_TextData",
+            "SourceString": "ガラスの壁",
+            "LocalizedString": "ガラスの壁"
+        }
+    },
+    "MAPOBJECT_NAME_Glass_roof": {
+        "TextData": {
+            "Namespace": "DT_MapObjectNameText",
+            "Key": "MAPOBJECT_NAME_Glass_roof_TextData",
+            "SourceString": "ガラスの屋根",
+            "LocalizedString": "ガラスの屋根"
+        }
+    },
+    "MAPOBJECT_NAME_Glass_stair": {
+        "TextData": {
+            "Namespace": "DT_MapObjectNameText",
+            "Key": "MAPOBJECT_NAME_Glass_stair_TextData",
+            "SourceString": "ガラスの階段",
+            "LocalizedString": "ガラスの階段"
+        }
+    },
+    "MAPOBJECT_NAME_Glass_DoorWall": {
+        "TextData": {
+            "Namespace": "DT_MapObjectNameText",
+            "Key": "MAPOBJECT_NAME_Glass_DoorWall_TextData",
+            "SourceString": "ガラスのドア付き壁",
+            "LocalizedString": "ガラスのドア付き壁"
+        }
+    },
+    "MAPOBJECT_NAME_Glass_TriangleWall": {
+        "TextData": {
+            "Namespace": "DT_MapObjectNameText",
+            "Key": "MAPOBJECT_NAME_Glass_TriangleWall_TextData",
+            "SourceString": "ガラスの三角壁",
+            "LocalizedString": "ガラスの三角壁"
+        }
+    },
+    "MAPOBJECT_NAME_Glass_SlantedRoof": {
+        "TextData": {
+            "Namespace": "DT_MapObjectNameText",
+            "Key": "MAPOBJECT_NAME_Glass_SlantedRoof_TextData",
+            "SourceString": "ガラスの斜め屋根",
+            "LocalizedString": "ガラスの斜め屋根"
+        }
+    },
+    "MAPOBJECT_NAME_Glass_WindowWall": {
+        "TextData": {
+            "Namespace": "DT_MapObjectNameText",
+            "Key": "MAPOBJECT_NAME_Glass_WindowWall_TextData",
+            "SourceString": "ガラスの窓付き壁",
+            "LocalizedString": "ガラスの窓付き壁"
+        }
+    },
+    "MAPOBJECT_NAME_Wooden_Pillar": {
+        "TextData": {
+            "Namespace": "DT_MapObjectNameText",
+            "Key": "MAPOBJECT_NAME_Wooden_Pillar_TextData",
+            "SourceString": "木の柱",
+            "LocalizedString": "木の柱"
+        }
+    },
+    "MAPOBJECT_NAME_Stone_Pillar": {
+        "TextData": {
+            "Namespace": "DT_MapObjectNameText",
+            "Key": "MAPOBJECT_NAME_Stone_Pillar_TextData",
+            "SourceString": "石の柱",
+            "LocalizedString": "石の柱"
+        }
+    },
+    "MAPOBJECT_NAME_Metal_Pillars": {
+        "TextData": {
+            "Namespace": "DT_MapObjectNameText",
+            "Key": "MAPOBJECT_NAME_Metal_Pillars_TextData",
+            "SourceString": "金属の柱",
+            "LocalizedString": "金属の柱"
+        }
+    },
+    "MAPOBJECT_NAME_Glass_Pillars": {
+        "TextData": {
+            "Namespace": "DT_MapObjectNameText",
+            "Key": "MAPOBJECT_NAME_Glass_Pillars_TextData",
+            "SourceString": "ガラスの柱",
+            "LocalizedString": "ガラスの柱"
         }
     }
 }

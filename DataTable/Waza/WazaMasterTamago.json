@@ -259,10 +259,6 @@
         "PalID": "BOSS_DrillGame",
         "WazaID": "EPalWazaID::HyperBeam"
     },
-    "72": {
-        "PalID": "BOSS_DrillGame",
-        "WazaID": "EPalWazaID::WaterBall"
-    },
     "73": {
         "PalID": "BOSS_DrillGame",
         "WazaID": "EPalWazaID::DragonBreath"
@@ -3475,10 +3471,6 @@
         "PalID": "BOSS_FlowerDinosaur",
         "WazaID": "EPalWazaID::WaterBall"
     },
-    "970": {
-        "PalID": "BOSS_FlowerDinosaur",
-        "WazaID": "EPalWazaID::DragonBreath"
-    },
     "971": {
         "PalID": "BOSS_FlowerDinosaur",
         "WazaID": "EPalWazaID::Flamethrower"
@@ -3539,10 +3531,6 @@
         "PalID": "BOSS_FlowerDinosaur_Electric",
         "WazaID": "EPalWazaID::WaterBall"
     },
-    "987": {
-        "PalID": "BOSS_FlowerDinosaur_Electric",
-        "WazaID": "EPalWazaID::DragonBreath"
-    },
     "988": {
         "PalID": "BOSS_FlowerDinosaur_Electric",
         "WazaID": "EPalWazaID::Flamethrower"
@@ -3566,10 +3554,6 @@
     "995": {
         "PalID": "BOSS_FlowerDinosaur_Electric",
         "WazaID": "EPalWazaID::Inferno"
-    },
-    "996": {
-        "PalID": "BOSS_FlowerDinosaur_Electric",
-        "WazaID": "EPalWazaID::ThreeThunder"
     },
     "997": {
         "PalID": "BOSS_FlowerDinosaur_Electric",
@@ -4302,10 +4286,6 @@
     "1206": {
         "PalID": "BOSS_WhiteMoth",
         "WazaID": "EPalWazaID::HyperBeam"
-    },
-    "1207": {
-        "PalID": "BOSS_WhiteMoth",
-        "WazaID": "EPalWazaID::WaterBall"
     },
     "1208": {
         "PalID": "BOSS_WhiteMoth",
@@ -5091,10 +5071,6 @@
         "PalID": "BOSS_Yeti_Grass",
         "WazaID": "EPalWazaID::HyperBeam"
     },
-    "1428": {
-        "PalID": "BOSS_Yeti_Grass",
-        "WazaID": "EPalWazaID::WaterBall"
-    },
     "1429": {
         "PalID": "BOSS_Yeti_Grass",
         "WazaID": "EPalWazaID::DragonBreath"
@@ -5739,10 +5715,6 @@
         "PalID": "BOSS_GrassPanda_Electric",
         "WazaID": "EPalWazaID::PowerBall"
     },
-    "1602": {
-        "PalID": "BOSS_GrassPanda_Electric",
-        "WazaID": "EPalWazaID::Thunderbolt"
-    },
     "1603": {
         "PalID": "BOSS_GrassPanda_Electric",
         "WazaID": "EPalWazaID::SolarBeam"
@@ -5751,10 +5723,6 @@
         "PalID": "BOSS_GrassPanda_Electric",
         "WazaID": "EPalWazaID::DragonCanon"
     },
-    "1605": {
-        "PalID": "BOSS_GrassPanda_Electric",
-        "WazaID": "EPalWazaID::SpreadPulse"
-    },
     "1606": {
         "PalID": "BOSS_GrassPanda_Electric",
         "WazaID": "EPalWazaID::LockonLaser"
@@ -5762,10 +5730,6 @@
     "1607": {
         "PalID": "BOSS_GrassPanda_Electric",
         "WazaID": "EPalWazaID::Inferno"
-    },
-    "1608": {
-        "PalID": "BOSS_GrassPanda_Electric",
-        "WazaID": "EPalWazaID::ThreeThunder"
     },
     "1609": {
         "PalID": "BOSS_GrassPanda_Electric",
@@ -6675,10 +6639,6 @@
         "PalID": "BOSS_SaintCentaur",
         "WazaID": "EPalWazaID::DarkLaser"
     },
-    "1919": {
-        "PalID": "BOSS_SaintCentaur",
-        "WazaID": "EPalWazaID::BlizzardLance"
-    },
     "1921": {
         "PalID": "BOSS_SaintCentaur",
         "WazaID": "EPalWazaID::WaterBall"
@@ -6730,10 +6690,6 @@
     "1951": {
         "PalID": "BOSS_NightFox",
         "WazaID": "EPalWazaID::HydroPump"
-    },
-    "1952": {
-        "PalID": "BOSS_NightFox",
-        "WazaID": "EPalWazaID::DarkLaser"
     },
     "1953": {
         "PalID": "BOSS_NightFox",
@@ -7038,10 +6994,6 @@
     "2126": {
         "PalID": "BOSS_Ronin",
         "WazaID": "EPalWazaID::DragonBreath"
-    },
-    "2127": {
-        "PalID": "BOSS_Ronin",
-        "WazaID": "EPalWazaID::Flamethrower"
     },
     "2129": {
         "PalID": "BOSS_Ronin",

@@ -403,7 +403,7 @@
         ],
         "Name": "NAME_RECIPE_BOW_FIRE",
         "Description": "DESC_RECIPE_BOW_FIRE",
-        "IconName": "Bow",
+        "IconName": "Bow_Fire",
         "RequireBossDefeatNum": 0,
         "RequireTechnology": "None",
         "IsBossTechnology": false,
@@ -418,7 +418,7 @@
         ],
         "Name": "NAME_RECIPE_ARROW_FIRE",
         "Description": "DESC_RECIPE_ARROW_FIRE",
-        "IconName": "Arrow",
+        "IconName": "Arrow_Fire",
         "RequireBossDefeatNum": 0,
         "RequireTechnology": "None",
         "IsBossTechnology": false,
@@ -628,7 +628,7 @@
         ],
         "Name": "NAME_RECIPE_BOW_POISON",
         "Description": "DESC_RECIPE_BOW_POISON",
-        "IconName": "Bow",
+        "IconName": "Bow_Poison",
         "RequireBossDefeatNum": 0,
         "RequireTechnology": "None",
         "IsBossTechnology": false,
@@ -643,7 +643,7 @@
         ],
         "Name": "NAME_RECIPE_ARROW_POISON",
         "Description": "DESC_RECIPE_ARROW_POISON",
-        "IconName": "Arrow",
+        "IconName": "Arrow_Poison",
         "RequireBossDefeatNum": 0,
         "RequireTechnology": "None",
         "IsBossTechnology": false,
@@ -1244,7 +1244,7 @@
         ],
         "Name": "NAME_RECIPE_BOWGUN_FIRE",
         "Description": "DESC_RECIPE_BOWGUN_FIRE",
-        "IconName": "BowGun",
+        "IconName": "BowGun_Fire",
         "RequireBossDefeatNum": 0,
         "RequireTechnology": "None",
         "IsBossTechnology": false,
@@ -1288,7 +1288,7 @@
         ],
         "UnlockItemRecipes": [],
         "Name": "NAME_RECIPE_BaseCampWorkHard",
-        "Description": "DESC_RECIPE_BaseCampWorkHard",
+        "Description": "BUILDOBJECT_DESC_BaseCampWorkHard",
         "IconName": "BaseCampWorkHard",
         "RequireBossDefeatNum": 0,
         "RequireTechnology": "None",
@@ -1323,6 +1323,21 @@
         "RequireBossDefeatNum": 0,
         "RequireTechnology": "None",
         "IsBossTechnology": false,
+        "LevelCap": 15,
+        "Tier": 0,
+        "Cost": 2
+    },
+    "Product_CopperPit": {
+        "UnlockBuildObjects": [
+            "CopperPit"
+        ],
+        "UnlockItemRecipes": [],
+        "Name": "NAME_RECIPE_CopperPit",
+        "Description": "BUILDOBJECT_DESC_CopperPit",
+        "IconName": "CopperPit",
+        "RequireBossDefeatNum": 0,
+        "RequireTechnology": "None",
+        "IsBossTechnology": true,
         "LevelCap": 15,
         "Tier": 0,
         "Cost": 2
@@ -1409,7 +1424,7 @@
         ],
         "Name": "NAME_RECIPE_BOWGUN_POISON",
         "Description": "DESC_RECIPE_BOWGUN_POISON",
-        "IconName": "BowGun",
+        "IconName": "BowGun_Poison",
         "RequireBossDefeatNum": 0,
         "RequireTechnology": "None",
         "IsBossTechnology": false,
@@ -1645,6 +1660,21 @@
         "RequireBossDefeatNum": 0,
         "RequireTechnology": "None",
         "IsBossTechnology": false,
+        "LevelCap": 19,
+        "Tier": 0,
+        "Cost": 2
+    },
+    "Accessory_Nonkilling": {
+        "UnlockBuildObjects": [],
+        "UnlockItemRecipes": [
+            "Accessory_Nonkilling"
+        ],
+        "Name": "NAME_RECIPE_Accessory_Nonkilling",
+        "Description": "ITEM_DESC_Accessory_Nonkilling",
+        "IconName": "Accessory_NormalResist",
+        "RequireBossDefeatNum": 0,
+        "RequireTechnology": "None",
+        "IsBossTechnology": true,
         "LevelCap": 19,
         "Tier": 0,
         "Cost": 2
@@ -2541,6 +2571,21 @@
         "Tier": 0,
         "Cost": 2
     },
+    "Homeward": {
+        "UnlockBuildObjects": [],
+        "UnlockItemRecipes": [
+            "Homeward"
+        ],
+        "Name": "NAME_RECIPE_Homeward",
+        "Description": "ITEM_DESC_Homeward",
+        "IconName": "Homeward",
+        "RequireBossDefeatNum": 0,
+        "RequireTechnology": "None",
+        "IsBossTechnology": true,
+        "LevelCap": 30,
+        "Tier": 0,
+        "Cost": 2
+    },
     "Spa2": {
         "UnlockBuildObjects": [
             "Spa2"
@@ -2615,6 +2660,21 @@
         "LevelCap": 31,
         "Tier": 0,
         "Cost": 1
+    },
+    "Product_CopperPit_2": {
+        "UnlockBuildObjects": [
+            "CopperPit_2"
+        ],
+        "UnlockItemRecipes": [],
+        "Name": "NAME_RECIPE_CopperPit_2",
+        "Description": "BUILDOBJECT_DESC_CopperPit_2",
+        "IconName": "CopperPit_2",
+        "RequireBossDefeatNum": 0,
+        "RequireTechnology": "Product_CopperPit",
+        "IsBossTechnology": true,
+        "LevelCap": 31,
+        "Tier": 0,
+        "Cost": 3
     },
     "Product_WeaponFactory_Dirty_Grade_02": {
         "UnlockBuildObjects": [
@@ -2781,6 +2841,21 @@
         "Tier": 0,
         "Cost": 2
     },
+    "Altar": {
+        "UnlockBuildObjects": [
+            "Altar"
+        ],
+        "UnlockItemRecipes": [],
+        "Name": "NAME_RECIPE_Altar",
+        "Description": "BUILDOBJECT_DESC_Altar",
+        "IconName": "Altar",
+        "RequireBossDefeatNum": 0,
+        "RequireTechnology": "None",
+        "IsBossTechnology": true,
+        "LevelCap": 33,
+        "Tier": 0,
+        "Cost": 3
+    },
     "Product_Ingot_Grade_02_Iron": {
         "UnlockBuildObjects": [
             "BlastFurnace2"
@@ -2855,6 +2930,21 @@
         "LevelCap": 34,
         "Tier": 0,
         "Cost": 3
+    },
+    "Accessory_TalentChecker": {
+        "UnlockBuildObjects": [],
+        "UnlockItemRecipes": [
+            "Accessory_TalentChecker"
+        ],
+        "Name": "NAME_RECIPE_Accessory_TalentChecker",
+        "Description": "ITEM_DESC_Accessory_TalentChecker",
+        "IconName": "Accessory_TalentChecker",
+        "RequireBossDefeatNum": 0,
+        "RequireTechnology": "None",
+        "IsBossTechnology": true,
+        "LevelCap": 34,
+        "Tier": 0,
+        "Cost": 4
     },
     "Special_PalSphere_Grade_05": {
         "UnlockBuildObjects": [],
@@ -2954,7 +3044,7 @@
         ],
         "Name": "NAME_RECIPE_RIFLE",
         "Description": "DESC_RECIPE_RIFLE",
-        "IconName": "AssaultRifle_Default",
+        "IconName": "SingleShotRifle",
         "RequireBossDefeatNum": 0,
         "RequireTechnology": "None",
         "IsBossTechnology": false,
@@ -3021,6 +3111,21 @@
         "LevelCap": 36,
         "Tier": 0,
         "Cost": 3
+    },
+    "Special_ElectricHatchingPalEgg": {
+        "UnlockBuildObjects": [
+            "ElectricHatchingPalEgg"
+        ],
+        "UnlockItemRecipes": [],
+        "Name": "NAME_RECIPE_ElectricHatchingPalEgg",
+        "Description": "BUILDOBJECT_DESC_ElectricHatchingPalEgg",
+        "IconName": "ElectricHatchingPalEgg",
+        "RequireBossDefeatNum": 0,
+        "RequireTechnology": "Special_HatchingPalEgg",
+        "IsBossTechnology": true,
+        "LevelCap": 36,
+        "Tier": 0,
+        "Cost": 5
     },
     "Battle_Armor_Grade_03_Iron": {
         "UnlockBuildObjects": [],
@@ -4454,8 +4559,7 @@
     "FurnitureSet_24": {
         "UnlockBuildObjects": [
             "Desk01_Stone",
-            "TableCircular01_Stone",
-            "TableDresser01_Stone"
+            "TableCircular01_Stone"
         ],
         "UnlockItemRecipes": [],
         "Name": "NAME_RECIPE_FurnitureSet_24",
@@ -4465,6 +4569,21 @@
         "RequireTechnology": "None",
         "IsBossTechnology": false,
         "LevelCap": 21,
+        "Tier": 0,
+        "Cost": 1
+    },
+    "TableDresser01_Stone": {
+        "UnlockBuildObjects": [
+            "TableDresser01_Stone"
+        ],
+        "UnlockItemRecipes": [],
+        "Name": "NAME_RECIPE_TableDresser01_Stone",
+        "Description": "BUILDOBJECT_DESC_TableDresser01_Stone",
+        "IconName": "TableDresser01_Stone",
+        "RequireBossDefeatNum": 0,
+        "RequireTechnology": "None",
+        "IsBossTechnology": true,
+        "LevelCap": 24,
         "Tier": 0,
         "Cost": 1
     },
@@ -4595,8 +4714,7 @@
         "UnlockBuildObjects": [
             "Curtain01_Wall_Stone",
             "Globe01_Stone",
-            "Stove01_Stone",
-            "None"
+            "Stove01_Stone"
         ],
         "UnlockItemRecipes": [],
         "Name": "NAME_RECIPE_FurnitureSet_32",

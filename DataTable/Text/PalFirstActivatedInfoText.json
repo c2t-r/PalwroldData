@@ -123,8 +123,8 @@
         "TextData": {
             "Namespace": "DT_PalFirstActivatedInfoText",
             "Key": "PAL_FIRST_SPAWN_DESC_BlackMetalDragon_TextData",
-            "SourceString": "背中に乗って空を飛ぶことができる。\r\nライド中、鉱石に対して与えるダメージが増える。",
-            "LocalizedString": "背中に乗って空を飛ぶことができる。\r\nライド中、鉱石に対して与えるダメージが増える。"
+            "SourceString": "背中に乗って空を飛ぶことができる。\r\nライド中、鉱石に対して与えるダメージが増え、\r\n<itemName id=|CopperOre|/>が多く獲得できる。",
+            "LocalizedString": "背中に乗って空を飛ぶことができる。\r\nライド中、鉱石に対して与えるダメージが増え、\r\n<itemName id=|CopperOre|/>が多く獲得できる。"
         }
     },
     "PAL_FIRST_SPAWN_DESC_BlueberryFairy": {
@@ -627,16 +627,16 @@
         "TextData": {
             "Namespace": "DT_PalFirstActivatedInfoText",
             "Key": "PAL_FIRST_SPAWN_DESC_Kelpie_TextData",
-            "SourceString": "手持ちにいる間、<uiCommon id=|COMMON_ELEMENT_NAME_Water|/>のパルの攻撃力が増加する。",
-            "LocalizedString": "手持ちにいる間、<uiCommon id=|COMMON_ELEMENT_NAME_Water|/>のパルの攻撃力が増加する。"
+            "SourceString": "手持ちにいる間、<uiCommon id=|COMMON_ELEMENT_NAME_Water|/>のパルの攻撃力が増加する。\r\n<mapObjectName id=|MonsterFarm|/>にアサインすると、\r\n<itemName id=|PalFluid|/>を落とすことがある。",
+            "LocalizedString": "手持ちにいる間、<uiCommon id=|COMMON_ELEMENT_NAME_Water|/>のパルの攻撃力が増加する。\r\n<mapObjectName id=|MonsterFarm|/>にアサインすると、\r\n<itemName id=|PalFluid|/>を落とすことがある。"
         }
     },
     "PAL_FIRST_SPAWN_DESC_Kelpie_Fire": {
         "TextData": {
             "Namespace": "DT_PalFirstActivatedInfoText",
             "Key": "PAL_FIRST_SPAWN_DESC_Kelpie_Fire_TextData",
-            "SourceString": "手持ちにいる間、<uiCommon id=|COMMON_ELEMENT_NAME_Fire|/>のパルの攻撃力が増加する。",
-            "LocalizedString": "手持ちにいる間、<uiCommon id=|COMMON_ELEMENT_NAME_Fire|/>のパルの攻撃力が増加する。"
+            "SourceString": "手持ちにいる間、<uiCommon id=|COMMON_ELEMENT_NAME_Fire|/>のパルの攻撃力が増加する。\r\n<mapObjectName id=|MonsterFarm|/>にアサインすると、\r\n<itemName id=|FireOrgan|/>を落とすことがある。",
+            "LocalizedString": "手持ちにいる間、<uiCommon id=|COMMON_ELEMENT_NAME_Fire|/>のパルの攻撃力が増加する。\r\n<mapObjectName id=|MonsterFarm|/>にアサインすると、\r\n<itemName id=|FireOrgan|/>を落とすことがある。"
         }
     },
     "PAL_FIRST_SPAWN_DESC_KingAlpaca": {
@@ -883,16 +883,16 @@
         "TextData": {
             "Namespace": "DT_PalFirstActivatedInfoText",
             "Key": "PAL_FIRST_SPAWN_DESC_RobinHood_TextData",
-            "SourceString": "一緒に戦っている間、プレイヤーが\r\n弱点部位へのダメージが増える。",
-            "LocalizedString": "一緒に戦っている間、プレイヤーが\r\n弱点部位へのダメージが増える。"
+            "SourceString": "一緒に戦っている間、プレイヤーが\r\n敵の弱点部位へ攻撃した際のダメージが増える。",
+            "LocalizedString": "一緒に戦っている間、プレイヤーが\r\n敵の弱点部位へ攻撃した際のダメージが増える。"
         }
     },
     "PAL_FIRST_SPAWN_DESC_RobinHood_Ground": {
         "TextData": {
             "Namespace": "DT_PalFirstActivatedInfoText",
             "Key": "PAL_FIRST_SPAWN_DESC_RobinHood_Ground_TextData",
-            "SourceString": "一緒に戦っている間、プレイヤーの\r\n弱点部位へのダメージが増える。",
-            "LocalizedString": "一緒に戦っている間、プレイヤーの\r\n弱点部位へのダメージが増える。"
+            "SourceString": "一緒に戦っている間、プレイヤーが\r\n敵の弱点部位へ攻撃した際のダメージが増える。",
+            "LocalizedString": "一緒に戦っている間、プレイヤーが\r\n敵の弱点部位へ攻撃した際のダメージが増える。"
         }
     },
     "PAL_FIRST_SPAWN_DESC_Ronin": {
@@ -947,8 +947,8 @@
         "TextData": {
             "Namespace": "DT_PalFirstActivatedInfoText",
             "Key": "PAL_FIRST_SPAWN_DESC_Serpent_Ground_TextData",
-            "SourceString": "背中に乗って移動できる。",
-            "LocalizedString": "背中に乗って移動できる。"
+            "SourceString": "背中に乗って移動できる。\r\n手持ちにいる間、<characterName id=|Serpent_Ground|/>が荷物を肩代わりして、\r\nインベントリ内の鉱石が軽くなる。",
+            "LocalizedString": "背中に乗って移動できる。\r\n手持ちにいる間、<characterName id=|Serpent_Ground|/>が荷物を肩代わりして、\r\nインベントリ内の鉱石が軽くなる。"
         }
     },
     "PAL_FIRST_SPAWN_DESC_SkyDragon": {
@@ -1187,8 +1187,8 @@
         "TextData": {
             "Namespace": "DT_PalFirstActivatedInfoText",
             "Key": "PAL_FIRST_SPAWN_DESC_LazyCatfish_TextData",
-            "SourceString": "手持ちにいる間、<uiCommon id=|COMMON_ELEMENT_NAME_Earth|/>のパルの攻撃力が増加する。",
-            "LocalizedString": "手持ちにいる間、<uiCommon id=|COMMON_ELEMENT_NAME_Earth|/>のパルの攻撃力が増加する。"
+            "SourceString": "手持ちにいる間、<uiCommon id=|COMMON_ELEMENT_NAME_Earth|/>のパルの攻撃力が増加する。\r\n<mapObjectName id=|MonsterFarm|/>にアサインすると、\r\n<itemName id=|PalOil|/>を落とすことがある。",
+            "LocalizedString": "手持ちにいる間、<uiCommon id=|COMMON_ELEMENT_NAME_Earth|/>のパルの攻撃力が増加する。\r\n<mapObjectName id=|MonsterFarm|/>にアサインすると、\r\n<itemName id=|PalOil|/>を落とすことがある。"
         }
     },
     "PAL_FIRST_SPAWN_DESC_LavaGirl": {
@@ -1213,6 +1213,22 @@
             "Key": "PAL_FIRST_SPAWN_DESC_Human_TextData",
             "SourceString": "人間はパルではないので、パートナースキルを持たない。",
             "LocalizedString": "人間はパルではないので、パートナースキルを持たない。"
+        }
+    },
+    "PAL_FIRST_SPAWN_DESC_NightLady": {
+        "TextData": {
+            "Namespace": "DT_PalFirstActivatedInfoText",
+            "Key": "PAL_FIRST_SPAWN_DESC_NightLady_TextData",
+            "SourceString": "発動すると、狙いを定めた敵に向かって\r\n高威力の<activeSkillName id=|Unique_NightLady_WarpBeam_Straight|/>で攻撃する。",
+            "LocalizedString": "発動すると、狙いを定めた敵に向かって\r\n高威力の<activeSkillName id=|Unique_NightLady_WarpBeam_Straight|/>で攻撃する。"
+        }
+    },
+    "PAL_FIRST_SPAWN_DESC_NightLady_Dark": {
+        "TextData": {
+            "Namespace": "DT_PalFirstActivatedInfoText",
+            "Key": "PAL_FIRST_SPAWN_DESC_NightLady_Dark_TextData",
+            "SourceString": "発動すると、狙いを定めた敵に向かって\r\n高威力の<activeSkillName id=|Unique_NightLady_WarpBeam|/>で攻撃する。",
+            "LocalizedString": "発動すると、狙いを定めた敵に向かって\r\n高威力の<activeSkillName id=|Unique_NightLady_WarpBeam|/>で攻撃する。"
         }
     }
 }

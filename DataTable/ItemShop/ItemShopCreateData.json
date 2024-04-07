@@ -44,6 +44,12 @@
                 "Stock": 0
             },
             {
+                "StaticItemId": "Accessory_Nonkilling",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
                 "StaticItemId": "PalSphere",
                 "BuyRate": 1.0,
                 "SellRate": -1.0,
@@ -460,6 +466,12 @@
                 "Stock": 0
             },
             {
+                "StaticItemId": "Accessory_Nonkilling",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
                 "StaticItemId": "FurArmorHeat",
                 "BuyRate": 1.0,
                 "SellRate": -1.0,
@@ -479,6 +491,12 @@
             },
             {
                 "StaticItemId": "Accessory_CoolResist_1",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "Accessory_HeatColdResist_1",
                 "BuyRate": 1.0,
                 "SellRate": -1.0,
                 "Stock": 0
@@ -762,6 +780,12 @@
                 "Stock": 0
             },
             {
+                "StaticItemId": "Accessory_Nonkilling",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
                 "StaticItemId": "FurArmorHeat",
                 "BuyRate": 1.0,
                 "SellRate": -1.0,
@@ -977,6 +1001,48 @@
             },
             {
                 "StaticItemId": "Horn",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "PalFluid",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "PalOil",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "RoughBullet",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "HandgunBullet",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "RifleBullet",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "ShotgunBullet",
+                "BuyRate": 1.0,
+                "SellRate": -1.0,
+                "Stock": 0
+            },
+            {
+                "StaticItemId": "AssaultRifleBullet",
                 "BuyRate": 1.0,
                 "SellRate": -1.0,
                 "Stock": 0

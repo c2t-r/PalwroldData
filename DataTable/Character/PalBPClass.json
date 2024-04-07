@@ -409,8 +409,8 @@
     },
     "GuardianDog": {
         "BPClass": {
-            "AssetPathName": "None",
-            "SubPathString": null
+            "AssetPathName": "/Game/Pal/Blueprint/Character/Monster/PalActorBP/GuardianDog/BP_GuardianDog.BP_GuardianDog_C",
+            "SubPathString": ""
         }
     },
     "GrassDragon": {
@@ -1639,8 +1639,8 @@
     },
     "SifuDog": {
         "BPClass": {
-            "AssetPathName": "None",
-            "SubPathString": null
+            "AssetPathName": "/Game/Pal/Blueprint/Character/Monster/PalActorBP/SifuDog/BP_SifuDog.BP_SifuDog_C",
+            "SubPathString": ""
         }
     },
     "BOSS_SifuDog": {
@@ -1651,8 +1651,8 @@
     },
     "TentacleTurtle": {
         "BPClass": {
-            "AssetPathName": "None",
-            "SubPathString": null
+            "AssetPathName": "/Game/Pal/Blueprint/Character/Monster/PalActorBP/TentacleTurtle/BP_TentacleTurtle.BP_TentacleTurtle_C",
+            "SubPathString": ""
         }
     },
     "BOSS_TentacleTurtle": {
@@ -1663,8 +1663,8 @@
     },
     "GoldenHorse": {
         "BPClass": {
-            "AssetPathName": "None",
-            "SubPathString": null
+            "AssetPathName": "/Game/Pal/Blueprint/Character/Monster/PalActorBP/GoldenHorse/BP_GoldenHorse.BP_GoldenHorse_C",
+            "SubPathString": ""
         }
     },
     "BOSS_GoldenHorse": {
@@ -1675,8 +1675,8 @@
     },
     "BadCatgirl": {
         "BPClass": {
-            "AssetPathName": "None",
-            "SubPathString": null
+            "AssetPathName": "/Game/Pal/Blueprint/Character/Monster/PalActorBP/BadCatgirl/BP_BadCatgirl.BP_BadCatgirl_C",
+            "SubPathString": ""
         }
     },
     "BOSS_BadCatgirl": {
@@ -1687,8 +1687,8 @@
     },
     "BrownRabbit": {
         "BPClass": {
-            "AssetPathName": "None",
-            "SubPathString": null
+            "AssetPathName": "/Game/Pal/Blueprint/Character/Monster/PalActorBP/BrownRabbit/BP_BrownRabbit.BP_BrownRabbit_C",
+            "SubPathString": ""
         }
     },
     "BOSS_BrownRabbit": {
@@ -1699,8 +1699,8 @@
     },
     "FeatherOstrich": {
         "BPClass": {
-            "AssetPathName": "None",
-            "SubPathString": null
+            "AssetPathName": "/Game/Pal/Blueprint/Character/Monster/PalActorBP/FeatherOstrich/BP_FeatherOstrich.BP_FeatherOstrich_C",
+            "SubPathString": ""
         }
     },
     "BOSS_FeatherOstrich": {
@@ -1711,8 +1711,8 @@
     },
     "WingGolem": {
         "BPClass": {
-            "AssetPathName": "None",
-            "SubPathString": null
+            "AssetPathName": "/Game/Pal/Blueprint/Character/Monster/PalActorBP/WingGolem/BP_WingGolem.BP_WingGolem_C",
+            "SubPathString": ""
         }
     },
     "BOSS_WingGolem": {
@@ -1723,8 +1723,8 @@
     },
     "ScorpionMan": {
         "BPClass": {
-            "AssetPathName": "None",
-            "SubPathString": null
+            "AssetPathName": "/Game/Pal/Blueprint/Character/Monster/PalActorBP/ScorpionMan/BP_ScorpionMan.BP_ScorpionMan_C",
+            "SubPathString": ""
         }
     },
     "BOSS_ScorpionMan": {
@@ -1735,8 +1735,8 @@
     },
     "BlueberryFairy": {
         "BPClass": {
-            "AssetPathName": "None",
-            "SubPathString": null
+            "AssetPathName": "/Game/Pal/Blueprint/Character/Monster/PalActorBP/BlueberryFairy/BP_BlueberryFairy.BP_BlueberryFairy_C",
+            "SubPathString": ""
         }
     },
     "BOSS_BlueberryFairy": {
@@ -1765,7 +1765,7 @@
     },
     "BOSS_LazyCatfish": {
         "BPClass": {
-            "AssetPathName": "/Game/Pal/Blueprint/Character/Monster/PalActorBP/LazyCatfish/BP_LazyCatfish.BP_LazyCatfish_C",
+            "AssetPathName": "/Game/Pal/Blueprint/Character/Monster/PalActorBP/LazyCatfish/BP_LazyCatfish_BOSS.BP_LazyCatfish_BOSS_C",
             "SubPathString": ""
         }
     },
@@ -2060,6 +2060,354 @@
     "NPC_Shop_Volcano2": {
         "BPClass": {
             "AssetPathName": "/Game/Pal/Blueprint/Character/NPC/Shop/BP_NPC_SalesPerson_Weapon_2.BP_NPC_SalesPerson_Weapon_2_C",
+            "SubPathString": ""
+        }
+    },
+    "SmallArmadillo": {
+        "BPClass": {
+            "AssetPathName": "/Game/Pal/Blueprint/Character/Monster/PalActorBP/SmallArmadillo/BP_SmallArmadillo.BP_SmallArmadillo_C",
+            "SubPathString": ""
+        }
+    },
+    "MushroomDragon": {
+        "BPClass": {
+            "AssetPathName": "/Game/Pal/Blueprint/Character/Monster/PalActorBP/MushroomDragon/BP_MushroomDragon.BP_MushroomDragon_C",
+            "SubPathString": ""
+        }
+    },
+    "GhostRabbit": {
+        "BPClass": {
+            "AssetPathName": "/Game/Pal/Blueprint/Character/Monster/PalActorBP/GhostRabbit/BP_GhostRabbit.BP_GhostRabbit_C",
+            "SubPathString": ""
+        }
+    },
+    "KingWhale": {
+        "BPClass": {
+            "AssetPathName": "/Game/Pal/Blueprint/Character/Monster/PalActorBP/KingWhale/BP_KingWhale.BP_KingWhale_C",
+            "SubPathString": ""
+        }
+    },
+    "NPC_Believer_Fat": {
+        "BPClass": {
+            "AssetPathName": "/Game/Pal/Blueprint/Character/NPC/Fat/BP_NPC_BelieverFat.BP_NPC_BelieverFat_C",
+            "SubPathString": ""
+        }
+    },
+    "NightLady": {
+        "BPClass": {
+            "AssetPathName": "/Game/Pal/Blueprint/Character/Monster/PalActorBP/NightLady/BP_NightLady.BP_NightLady_C",
+            "SubPathString": ""
+        }
+    },
+    "BOSS_NightLady": {
+        "BPClass": {
+            "AssetPathName": "/Game/Pal/Blueprint/Character/Monster/PalActorBP/NightLady/BP_BOSS_NightLady.BP_BOSS_NightLady_C",
+            "SubPathString": ""
+        }
+    },
+    "NightLady_Dark": {
+        "BPClass": {
+            "AssetPathName": "/Game/Pal/Blueprint/Character/Monster/PalActorBP/NightLady/BP_NightLady_Dark.BP_NightLady_Dark_C",
+            "SubPathString": ""
+        }
+    },
+    "BOSS_NightLady_Dark": {
+        "BPClass": {
+            "AssetPathName": "/Game/Pal/Blueprint/Character/Monster/PalActorBP/NightLady/BP_BOSS_NightLady_Dark.BP_BOSS_NightLady_Dark_C",
+            "SubPathString": ""
+        }
+    },
+    "RAID_NightLady": {
+        "BPClass": {
+            "AssetPathName": "/Game/Pal/Blueprint/Character/Monster/PalActorBP/NightLady/BP_NightLady_RAID.BP_NightLady_RAID_C",
+            "SubPathString": ""
+        }
+    },
+    "RAID_NightLady_Dark": {
+        "BPClass": {
+            "AssetPathName": "/Game/Pal/Blueprint/Character/Monster/PalActorBP/NightLady/BP_NightLady_Dark_RAID.BP_NightLady_Dark_RAID_C",
+            "SubPathString": ""
+        }
+    },
+    "KendoFrog": {
+        "BPClass": {
+            "AssetPathName": "/Game/Pal/Blueprint/Character/Monster/PalActorBP/KendoFrog/BP_KendoFrog.BP_KendoFrog_C",
+            "SubPathString": ""
+        }
+    },
+    "NPC_Male_Soldier02": {
+        "BPClass": {
+            "AssetPathName": "/Game/Pal/Blueprint/Character/NPC/Normal/BP_NPC_Male_Soldier02.BP_NPC_Male_Soldier02_C",
+            "SubPathString": ""
+        }
+    },
+    "NPC_Male_Soldier03": {
+        "BPClass": {
+            "AssetPathName": "/Game/Pal/Blueprint/Character/NPC/Normal/BP_NPC_Male_Soldier03.BP_NPC_Male_Soldier03_C",
+            "SubPathString": ""
+        }
+    },
+    "NPC_Male_Soldier04": {
+        "BPClass": {
+            "AssetPathName": "/Game/Pal/Blueprint/Character/NPC/Normal/BP_NPC_Male_Soldier04.BP_NPC_Male_Soldier04_C",
+            "SubPathString": ""
+        }
+    },
+    "NPC_Female_Soldier02": {
+        "BPClass": {
+            "AssetPathName": "/Game/Pal/Blueprint/Character/NPC/Normal/BP_NPC_Female_Soldier02.BP_NPC_Female_Soldier02_C",
+            "SubPathString": ""
+        }
+    },
+    "NPC_Female_Soldier03": {
+        "BPClass": {
+            "AssetPathName": "/Game/Pal/Blueprint/Character/NPC/Normal/BP_NPC_Female_Soldier03.BP_NPC_Female_Soldier03_C",
+            "SubPathString": ""
+        }
+    },
+    "NPC_Female_Soldier04": {
+        "BPClass": {
+            "AssetPathName": "/Game/Pal/Blueprint/Character/NPC/Normal/BP_NPC_Female_Soldier04.BP_NPC_Female_Soldier04_C",
+            "SubPathString": ""
+        }
+    },
+    "VolcanoDragon": {
+        "BPClass": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        }
+    },
+    "DarkAlien": {
+        "BPClass": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        }
+    },
+    "DarkMechaDragon": {
+        "BPClass": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        }
+    },
+    "LeafPrincess": {
+        "BPClass": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        }
+    },
+    "NightBlueHorse": {
+        "BPClass": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        }
+    },
+    "WhiteAlienDragon": {
+        "BPClass": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        }
+    },
+    "WhiteShieldDragon": {
+        "BPClass": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        }
+    },
+    "BlackPuppy": {
+        "BPClass": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        }
+    },
+    "CandleGhost": {
+        "BPClass": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        }
+    },
+    "WhiteDeer": {
+        "BPClass": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        }
+    },
+    "MysteryMask": {
+        "BPClass": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        }
+    },
+    "HoodGhost": {
+        "BPClass": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        }
+    },
+    "Sekhmet": {
+        "BPClass": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        }
+    },
+    "ElecLizard": {
+        "BPClass": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        }
+    },
+    "MoonQueen": {
+        "BPClass": {
+            "AssetPathName": "/Game/Pal/Blueprint/Character/Monster/PalActorBP/MoonQueen/BP_MoonQueen.BP_MoonQueen_C",
+            "SubPathString": ""
+        }
+    },
+    "GrimGirl": {
+        "BPClass": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        }
+    },
+    "PurpleSpider": {
+        "BPClass": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        }
+    },
+    "BlueThunderHorse": {
+        "BPClass": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        }
+    },
+    "RockBeast": {
+        "BPClass": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        }
+    },
+    "KingBahamut_Dragon": {
+        "BPClass": {
+            "AssetPathName": "/Game/Pal/Blueprint/Character/Monster/PalActorBP/KingBahamut/BP_KingBahamut_Dragon.BP_KingBahamut_Dragon_C",
+            "SubPathString": ""
+        }
+    },
+    "HerculesBeetle_Ground": {
+        "BPClass": {
+            "AssetPathName": "/Game/Pal/Blueprint/Character/Monster/PalActorBP/HerculesBeetle/BP_HerculesBeetle_Ground.BP_HerculesBeetle_Ground_C",
+            "SubPathString": ""
+        }
+    },
+    "Gorilla_Ground": {
+        "BPClass": {
+            "AssetPathName": "/Game/Pal/Blueprint/Character/Monster/PalActorBP/Gorilla/BP_Gorilla_Ground.BP_Gorilla_Ground_C",
+            "SubPathString": ""
+        }
+    },
+    "HadesBird_Electric": {
+        "BPClass": {
+            "AssetPathName": "/Game/Pal/Blueprint/Character/Monster/PalActorBP/HadesBird/BP_HadesBird_Electric.BP_HadesBird_Electric_C",
+            "SubPathString": ""
+        }
+    },
+    "MushroomDragon_Dark": {
+        "BPClass": {
+            "AssetPathName": "/Game/Pal/Blueprint/Character/Monster/PalActorBP/MushroomDragon/BP_MushroomDragon_Dark.BP_MushroomDragon_Dark_C",
+            "SubPathString": ""
+        }
+    },
+    "DarkScorpion_Ground": {
+        "BPClass": {
+            "AssetPathName": "/Game/Pal/Blueprint/Character/Monster/PalActorBP/DarkScorpion/BP_DarkScorpion_Ground.BP_DarkScorpion_Ground_C",
+            "SubPathString": ""
+        }
+    },
+    "Ronin_Dark": {
+        "BPClass": {
+            "AssetPathName": "/Game/Pal/Blueprint/Character/Monster/PalActorBP/Ronin/BP_Ronin_Dark.BP_Ronin_Dark_C",
+            "SubPathString": ""
+        }
+    },
+    "CatMage_Fire": {
+        "BPClass": {
+            "AssetPathName": "/Game/Pal/Blueprint/Character/Monster/PalActorBP/CatMage/BP_CatMage_Fire.BP_CatMage_Fire_C",
+            "SubPathString": ""
+        }
+    },
+    "FoxMage_Dark": {
+        "BPClass": {
+            "AssetPathName": "/Game/Pal/Blueprint/Character/Monster/PalActorBP/FoxMage/BP_FoxMage_Dark.BP_FoxMage_Dark_C",
+            "SubPathString": ""
+        }
+    },
+    "SkyDragon_Grass": {
+        "BPClass": {
+            "AssetPathName": "/Game/Pal/Blueprint/Character/Monster/PalActorBP/SkyDragon/BP_SkyDragon_Grass.BP_SkyDragon_Grass_C",
+            "SubPathString": ""
+        }
+    },
+    "WeaselDragon_Fire": {
+        "BPClass": {
+            "AssetPathName": "/Game/Pal/Blueprint/Character/Monster/PalActorBP/WeaselDragon/BP_WeaselDragon_Fire.BP_WeaselDragon_Fire_C",
+            "SubPathString": ""
+        }
+    },
+    "BOSS_KingBahamut_Dragon": {
+        "BPClass": {
+            "AssetPathName": "/Game/Pal/Blueprint/Character/Monster/PalActorBP/KingBahamut/BP_KingBahamut_Dragon_BOSS.BP_KingBahamut_Dragon_BOSS_C",
+            "SubPathString": ""
+        }
+    },
+    "BOSS_HerculesBeetle_Ground": {
+        "BPClass": {
+            "AssetPathName": "/Game/Pal/Blueprint/Character/Monster/PalActorBP/HerculesBeetle/BP_HerculesBeetle_Ground_BOSS.BP_HerculesBeetle_Ground_BOSS_C",
+            "SubPathString": ""
+        }
+    },
+    "BOSS_Gorilla_Ground": {
+        "BPClass": {
+            "AssetPathName": "/Game/Pal/Blueprint/Character/Monster/PalActorBP/Gorilla/BP_Gorilla_Ground_BOSS.BP_Gorilla_Ground_BOSS_C",
+            "SubPathString": ""
+        }
+    },
+    "BOSS_HadesBird_Electric": {
+        "BPClass": {
+            "AssetPathName": "/Game/Pal/Blueprint/Character/Monster/PalActorBP/HadesBird/BP_HadesBird_Electric_BOSS.BP_HadesBird_Electric_BOSS_C",
+            "SubPathString": ""
+        }
+    },
+    "BOSS_MushroomDragon_Dark": {
+        "BPClass": {
+            "AssetPathName": "/Game/Pal/Blueprint/Character/Monster/PalActorBP/MushroomDragon/BP_MushroomDragon_Dark_BOSS.BP_MushroomDragon_Dark_BOSS_C",
+            "SubPathString": ""
+        }
+    },
+    "BOSS_DarkScorpion_Ground": {
+        "BPClass": {
+            "AssetPathName": "/Game/Pal/Blueprint/Character/Monster/PalActorBP/DarkScorpion/BP_DarkScorpion_Ground_BOSS.BP_DarkScorpion_Ground_BOSS_C",
+            "SubPathString": ""
+        }
+    },
+    "BOSS_Ronin_Dark": {
+        "BPClass": {
+            "AssetPathName": "/Game/Pal/Blueprint/Character/Monster/PalActorBP/Ronin/BP_Ronin_Dark_BOSS.BP_Ronin_Dark_BOSS_C",
+            "SubPathString": ""
+        }
+    },
+    "BOSS_CatMage_Fire": {
+        "BPClass": {
+            "AssetPathName": "/Game/Pal/Blueprint/Character/Monster/PalActorBP/CatMage/BP_CatMage_Fire_BOSS.BP_CatMage_Fire_BOSS_C",
+            "SubPathString": ""
+        }
+    },
+    "BOSS_FoxMage_Dark": {
+        "BPClass": {
+            "AssetPathName": "/Game/Pal/Blueprint/Character/Monster/PalActorBP/FoxMage/BP_FoxMage_Dark_BOSS.BP_FoxMage_Dark_BOSS_C",
+            "SubPathString": ""
+        }
+    },
+    "BOSS_SkyDragon_Grass": {
+        "BPClass": {
+            "AssetPathName": "/Game/Pal/Blueprint/Character/Monster/PalActorBP/SkyDragon/BP_SkyDragon_Grass_BOSS.BP_SkyDragon_Grass_BOSS_C",
             "SubPathString": ""
         }
     }

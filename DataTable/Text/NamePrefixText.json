@@ -1358,5 +1358,45 @@
             "SourceString": "群れの親玉",
             "LocalizedString": "群れの親玉"
         }
+    },
+    "BOSS_NAME_NightLady": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_NightLady_TextData",
+            "SourceString": "狂乱の淑女",
+            "LocalizedString": "狂乱の淑女"
+        }
+    },
+    "BOSS_NAME_NightLady_Dark": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "BOSS_NAME_NightLady_Dark_TextData",
+            "SourceString": "幽玄の魔女",
+            "LocalizedString": "幽玄の魔女"
+        }
+    },
+    "RAID_NAME_NightLady": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "RAID_NAME_NightLady_TextData",
+            "SourceString": "狂乱の淑女",
+            "LocalizedString": "狂乱の淑女"
+        }
+    },
+    "RAID_NAME_NightLady_Dark": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "RAID_NAME_NightLady_Dark_TextData",
+            "SourceString": "幽玄の魔女",
+            "LocalizedString": "幽玄の魔女"
+        }
+    },
+    "RAID_NAME_NightLady_Dark_2": {
+        "TextData": {
+            "Namespace": "DT_NamePrefixText",
+            "Key": "RAID_NAME_NightLady_Dark_2_TextData",
+            "SourceString": "幽玄の魔女【極】",
+            "LocalizedString": "幽玄の魔女【極】"
+        }
     }
 }

@@ -915,134 +915,134 @@
                 "PalName": {
                     "Key": "Bastet_Ice"
                 },
-                "Level": 45,
-                "Rank": 1,
+                "Level": 50,
+                "Rank": 5,
                 "WazaList": [],
                 "PassiveSkill": []
             },
             {
                 "PalName": {
-                    "Key": "Bastet_Ice"
+                    "Key": "DrillGame"
                 },
-                "Level": 45,
-                "Rank": 1,
+                "Level": 50,
+                "Rank": 5,
                 "WazaList": [],
                 "PassiveSkill": []
             },
             {
                 "PalName": {
-                    "Key": "Bastet_Ice"
+                    "Key": "BOSS_Ronin"
                 },
-                "Level": 45,
-                "Rank": 1,
+                "Level": 50,
+                "Rank": 5,
                 "WazaList": [],
                 "PassiveSkill": []
             },
             {
                 "PalName": {
-                    "Key": "Bastet_Ice"
+                    "Key": "FlameBuffalo"
                 },
-                "Level": 45,
-                "Rank": 1,
+                "Level": 50,
+                "Rank": 5,
                 "WazaList": [],
                 "PassiveSkill": []
             },
             {
                 "PalName": {
-                    "Key": "Bastet_Ice"
+                    "Key": "Boss_Anubis"
                 },
-                "Level": 45,
-                "Rank": 1,
+                "Level": 50,
+                "Rank": 5,
                 "WazaList": [],
                 "PassiveSkill": []
             },
             {
                 "PalName": {
-                    "Key": "Bastet_Ice"
+                    "Key": "SharkKid"
                 },
-                "Level": 45,
-                "Rank": 1,
+                "Level": 50,
+                "Rank": 5,
                 "WazaList": [],
                 "PassiveSkill": []
             },
             {
                 "PalName": {
-                    "Key": "Bastet_Ice"
+                    "Key": "ColorfulBird"
                 },
-                "Level": 45,
-                "Rank": 1,
+                "Level": 50,
+                "Rank": 5,
                 "WazaList": [],
                 "PassiveSkill": []
             },
             {
                 "PalName": {
-                    "Key": "Bastet_Ice"
+                    "Key": "Deer"
                 },
-                "Level": 45,
-                "Rank": 1,
+                "Level": 50,
+                "Rank": 5,
                 "WazaList": [],
                 "PassiveSkill": []
             },
             {
                 "PalName": {
-                    "Key": "Bastet_Ice"
+                    "Key": "Yeti"
                 },
-                "Level": 45,
-                "Rank": 1,
+                "Level": 50,
+                "Rank": 5,
                 "WazaList": [],
                 "PassiveSkill": []
             },
             {
                 "PalName": {
-                    "Key": "Bastet_Ice"
+                    "Key": "ElecPanda"
                 },
-                "Level": 45,
-                "Rank": 1,
+                "Level": 50,
+                "Rank": 5,
                 "WazaList": [],
                 "PassiveSkill": []
             },
             {
                 "PalName": {
-                    "Key": "Bastet_Ice"
+                    "Key": "LazyDragon"
                 },
-                "Level": 45,
-                "Rank": 1,
+                "Level": 50,
+                "Rank": 5,
                 "WazaList": [],
                 "PassiveSkill": []
             },
             {
                 "PalName": {
-                    "Key": "Bastet_Ice"
+                    "Key": "RobinHood_Ground"
                 },
-                "Level": 45,
-                "Rank": 1,
+                "Level": 50,
+                "Rank": 5,
                 "WazaList": [],
                 "PassiveSkill": []
             },
             {
                 "PalName": {
-                    "Key": "Bastet_Ice"
+                    "Key": "BOSS_BlackCentaur"
                 },
-                "Level": 45,
-                "Rank": 1,
+                "Level": 50,
+                "Rank": 5,
                 "WazaList": [],
                 "PassiveSkill": []
             },
             {
                 "PalName": {
-                    "Key": "Bastet_Ice"
+                    "Key": "BOSS_SaintCentaur"
                 },
-                "Level": 45,
-                "Rank": 1,
+                "Level": 50,
+                "Rank": 5,
                 "WazaList": [],
                 "PassiveSkill": []
             },
             {
                 "PalName": {
-                    "Key": "Bastet_Ice"
+                    "Key": "GrassPanda"
                 },
-                "Level": 45,
-                "Rank": 1,
+                "Level": 50,
+                "Rank": 5,
                 "WazaList": [],
                 "PassiveSkill": []
             }
@@ -2090,7 +2090,7 @@
             }
         ]
     },
-    "Lv35": {
+    "RAID_BOSS_LV30": {
         "Level": 35,
         "HPLevel": 0,
         "SPLevel": 0,
@@ -2101,72 +2101,56 @@
         "OtomoPals": [
             {
                 "PalName": {
-                    "Key": "VolcanicMonster"
+                    "Key": "BOSS_WeaselDragon"
                 },
                 "Level": 35,
-                "Rank": 3,
-                "WazaList": [
-                    "EPalWazaID::Unique_VolcanicMonster_MagmaAttack",
-                    "EPalWazaID::Inferno",
-                    "EPalWazaID::ThrowRock"
-                ],
+                "Rank": 1,
+                "WazaList": [],
                 "PassiveSkill": []
             },
             {
                 "PalName": {
-                    "Key": "VolcanicMonster"
+                    "Key": "BOSS_WeaselDragon"
                 },
                 "Level": 35,
-                "Rank": 3,
-                "WazaList": [
-                    "EPalWazaID::Unique_VolcanicMonster_MagmaAttack",
-                    "EPalWazaID::Inferno",
-                    "EPalWazaID::ThrowRock"
-                ],
+                "Rank": 1,
+                "WazaList": [],
                 "PassiveSkill": []
             },
             {
                 "PalName": {
-                    "Key": "DrillGame"
+                    "Key": "LazyDragon"
                 },
                 "Level": 35,
-                "Rank": 3,
-                "WazaList": [
-                    "EPalWazaID::Unique_DrillGame_ShellAttack",
-                    "EPalWazaID::StoneShotgun",
-                    "EPalWazaID::ThrowRock"
-                ],
+                "Rank": 1,
+                "WazaList": [],
                 "PassiveSkill": []
             },
             {
                 "PalName": {
-                    "Key": "DrillGame"
+                    "Key": "BOSS_FairyDragon"
                 },
                 "Level": 35,
-                "Rank": 3,
-                "WazaList": [
-                    "EPalWazaID::Unique_DrillGame_ShellAttack",
-                    "EPalWazaID::StoneShotgun",
-                    "EPalWazaID::ThrowRock"
-                ],
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "BOSS_SkyDragon"
+                },
+                "Level": 35,
+                "Rank": 1,
+                "WazaList": [],
                 "PassiveSkill": []
             }
         ],
         "CapturedPals": [
             {
                 "PalName": {
-                    "Key": "FlowerDoll"
-                },
-                "Level": 35,
-                "Rank": 3,
-                "WazaList": [],
-                "PassiveSkill": []
-            },
-            {
-                "PalName": {
                     "Key": "LazyDragon"
                 },
-                "Level": 35,
+                "Level": 20,
                 "Rank": 1,
                 "WazaList": [],
                 "PassiveSkill": []
@@ -2175,7 +2159,7 @@
                 "PalName": {
                     "Key": "LazyDragon"
                 },
-                "Level": 35,
+                "Level": 20,
                 "Rank": 1,
                 "WazaList": [],
                 "PassiveSkill": []
@@ -2184,7 +2168,7 @@
                 "PalName": {
                     "Key": "LazyDragon"
                 },
-                "Level": 35,
+                "Level": 20,
                 "Rank": 1,
                 "WazaList": [],
                 "PassiveSkill": []
@@ -2193,7 +2177,7 @@
                 "PalName": {
                     "Key": "LazyDragon"
                 },
-                "Level": 35,
+                "Level": 20,
                 "Rank": 1,
                 "WazaList": [],
                 "PassiveSkill": []
@@ -2202,7 +2186,232 @@
                 "PalName": {
                     "Key": "LazyDragon"
                 },
-                "Level": 35,
+                "Level": 20,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "LazyDragon"
+                },
+                "Level": 20,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "LazyDragon"
+                },
+                "Level": 20,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "LazyDragon"
+                },
+                "Level": 20,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "LazyDragon"
+                },
+                "Level": 20,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "LazyDragon"
+                },
+                "Level": 20,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "LazyDragon"
+                },
+                "Level": 20,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "LazyDragon"
+                },
+                "Level": 20,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "LazyDragon"
+                },
+                "Level": 20,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "LazyDragon"
+                },
+                "Level": 20,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "LazyDragon"
+                },
+                "Level": 20,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "LazyDragon"
+                },
+                "Level": 20,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "LazyDragon"
+                },
+                "Level": 20,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "LazyDragon"
+                },
+                "Level": 20,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "LazyDragon"
+                },
+                "Level": 20,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "LazyDragon"
+                },
+                "Level": 20,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "LazyDragon"
+                },
+                "Level": 20,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "LazyDragon"
+                },
+                "Level": 20,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "LazyDragon"
+                },
+                "Level": 20,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "LazyDragon"
+                },
+                "Level": 20,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "LazyDragon"
+                },
+                "Level": 20,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "LazyDragon"
+                },
+                "Level": 20,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "LazyDragon"
+                },
+                "Level": 20,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "LazyDragon"
+                },
+                "Level": 20,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "LazyDragon"
+                },
+                "Level": 20,
+                "Rank": 1,
+                "WazaList": [],
+                "PassiveSkill": []
+            },
+            {
+                "PalName": {
+                    "Key": "LazyDragon"
+                },
+                "Level": 20,
                 "Rank": 1,
                 "WazaList": [],
                 "PassiveSkill": []
@@ -2229,13 +2438,25 @@
             },
             {
                 "itemRowName": {
-                    "Key": "Shield_04"
+                    "Key": "Shield_03"
                 },
                 "itemNum": 1
             },
             {
                 "itemRowName": {
-                    "Key": "Glider_Super"
+                    "Key": "Glider_Good"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "Accessory_HP_1"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "Accessory_defense_1"
                 },
                 "itemNum": 1
             }
@@ -2245,7 +2466,31 @@
                 "itemRowName": {
                     "Key": "ShotgunBullet"
                 },
-                "itemNum": 200
+                "itemNum": 300
+            },
+            {
+                "itemRowName": {
+                    "Key": "SkillUnlock_WeaselDragon"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "SkillUnlock_FairyDragon"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "PalSummon_NightLady"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "Cheeseburger_2"
+                },
+                "itemNum": 10
             }
         ]
     },
@@ -2686,5 +2931,259 @@
             }
         ],
         "Items": []
+    },
+    "Saikyo_Player_Damage_Ultimate": {
+        "Level": 50,
+        "HPLevel": 0,
+        "SPLevel": 0,
+        "AttackLevel": 49,
+        "WorkLevel": 0,
+        "WeightLevel": 0,
+        "CaptureLevel": 0,
+        "OtomoPals": [
+            {
+                "PalName": {
+                    "Key": "RedArmorBird"
+                },
+                "Level": 50,
+                "Rank": 5,
+                "WazaList": [
+                    "EPalWazaID::GrassTornado",
+                    "EPalWazaID::SeedMine",
+                    "EPalWazaID::SolarBeam"
+                ],
+                "PassiveSkill": [
+                    {
+                        "Key": "TrainerATK_UP_1"
+                    }
+                ]
+            },
+            {
+                "PalName": {
+                    "Key": "SharkKid"
+                },
+                "Level": 50,
+                "Rank": 5,
+                "WazaList": [],
+                "PassiveSkill": [
+                    {
+                        "Key": "TrainerATK_UP_1"
+                    }
+                ]
+            },
+            {
+                "PalName": {
+                    "Key": "SharkKid"
+                },
+                "Level": 50,
+                "Rank": 5,
+                "WazaList": [],
+                "PassiveSkill": [
+                    {
+                        "Key": "TrainerATK_UP_1"
+                    }
+                ]
+            },
+            {
+                "PalName": {
+                    "Key": "SharkKid"
+                },
+                "Level": 50,
+                "Rank": 5,
+                "WazaList": [],
+                "PassiveSkill": [
+                    {
+                        "Key": "TrainerATK_UP_1"
+                    }
+                ]
+            },
+            {
+                "PalName": {
+                    "Key": "SharkKid"
+                },
+                "Level": 50,
+                "Rank": 5,
+                "WazaList": [],
+                "PassiveSkill": [
+                    {
+                        "Key": "TrainerATK_UP_1"
+                    }
+                ]
+            }
+        ],
+        "CapturedPals": [],
+        "LoadoutItems": [
+            {
+                "itemRowName": {
+                    "Key": "Accessory_AT_3"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "Accessory_AT_3"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "Launcher_Default_5"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "AssaultRifle_Default5"
+                },
+                "itemNum": 1
+            }
+        ],
+        "Items": [
+            {
+                "itemRowName": {
+                    "Key": "Cheeseburger_2"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "SkillUnlock_RedArmorBird"
+                },
+                "itemNum": 1
+            }
+        ]
+    },
+    "Saikyo_Player_Damage_Common": {
+        "Level": 50,
+        "HPLevel": 10,
+        "SPLevel": 10,
+        "AttackLevel": 10,
+        "WorkLevel": 10,
+        "WeightLevel": 9,
+        "CaptureLevel": 0,
+        "OtomoPals": [
+            {
+                "PalName": {
+                    "Key": "RedArmorBird"
+                },
+                "Level": 50,
+                "Rank": 2,
+                "WazaList": [
+                    "EPalWazaID::GrassTornado",
+                    "EPalWazaID::SeedMine",
+                    "EPalWazaID::SolarBeam"
+                ],
+                "PassiveSkill": [
+                    {
+                        "Key": "TrainerATK_UP_1"
+                    }
+                ]
+            },
+            {
+                "PalName": {
+                    "Key": "SharkKid"
+                },
+                "Level": 50,
+                "Rank": 2,
+                "WazaList": [],
+                "PassiveSkill": [
+                    {
+                        "Key": "TrainerATK_UP_1"
+                    }
+                ]
+            },
+            {
+                "PalName": {
+                    "Key": "SharkKid"
+                },
+                "Level": 50,
+                "Rank": 2,
+                "WazaList": [],
+                "PassiveSkill": [
+                    {
+                        "Key": "TrainerATK_UP_1"
+                    }
+                ]
+            },
+            {
+                "PalName": {
+                    "Key": "SharkKid"
+                },
+                "Level": 50,
+                "Rank": 2,
+                "WazaList": [],
+                "PassiveSkill": [
+                    {
+                        "Key": "TrainerATK_UP_1"
+                    }
+                ]
+            },
+            {
+                "PalName": {
+                    "Key": "SharkKid"
+                },
+                "Level": 50,
+                "Rank": 2,
+                "WazaList": [],
+                "PassiveSkill": [
+                    {
+                        "Key": "TrainerATK_UP_1"
+                    }
+                ]
+            }
+        ],
+        "CapturedPals": [],
+        "LoadoutItems": [
+            {
+                "itemRowName": {
+                    "Key": "Accessory_AT_1"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "Accessory_AT_1"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "Launcher_Default"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "Launcher_Default"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "Launcher_Default"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "AssaultRifle_Default1"
+                },
+                "itemNum": 1
+            }
+        ],
+        "Items": [
+            {
+                "itemRowName": {
+                    "Key": "Cheeseburger_2"
+                },
+                "itemNum": 1
+            },
+            {
+                "itemRowName": {
+                    "Key": "SkillUnlock_RedArmorBird"
+                },
+                "itemNum": 1
+            }
+        ]
     }
 }

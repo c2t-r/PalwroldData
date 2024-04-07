@@ -591,6 +591,30 @@
             "LocalizedString": "<characterName id=|CaptainPenguin|/>の専用スキル。\r\n地面にお腹をつけ、全身から冷気を発して\r\n滑りながら敵にぶつかっていく。"
         }
     },
+    "ACTION_SKILL_Unique_NightLady_WarpBeam_Straight": {
+        "TextData": {
+            "Namespace": "DT_SkillDescText",
+            "Key": "ACTION_SKILL_Unique_NightLady_WarpBeam_Straight_TextData",
+            "SourceString": "<characterName id=|NightLady|/>の専用スキル。\r\n不意に姿を消し、現れた瞬間に無数の光線を放つ。",
+            "LocalizedString": "<characterName id=|NightLady|/>の専用スキル。\r\n不意に姿を消し、現れた瞬間に無数の光線を放つ。"
+        }
+    },
+    "ACTION_SKILL_Unique_NightLady_WarpBeam": {
+        "TextData": {
+            "Namespace": "DT_SkillDescText",
+            "Key": "ACTION_SKILL_Unique_NightLady_WarpBeam_TextData",
+            "SourceString": "<characterName id=|NightLady_Dark|/>の専用スキル。\r\n不意に姿を消し、現れた瞬間に無数の光線を放つ。\r\n光線は花開くかのごとく拡散する。",
+            "LocalizedString": "<characterName id=|NightLady_Dark|/>の専用スキル。\r\n不意に姿を消し、現れた瞬間に無数の光線を放つ。\r\n光線は花開くかのごとく拡散する。"
+        }
+    },
+    "ACTION_SKILL_Unique_NightLady_FlameNightmare": {
+        "TextData": {
+            "Namespace": "DT_SkillDescText",
+            "Key": "ACTION_SKILL_Unique_NightLady_FlameNightmare_TextData",
+            "SourceString": "<characterName id=|NightLady_Dark|/>の専用スキル。\r\nゆらりと舞いながら\r\n周囲に広がる炎の輪を発生させる。\r\nさらに敵を追尾する妖しい炎を発射する。",
+            "LocalizedString": "<characterName id=|NightLady_Dark|/>の専用スキル。\r\nゆらりと舞いながら\r\n周囲に広がる炎の輪を発生させる。\r\nさらに敵を追尾する妖しい炎を発射する。"
+        }
+    },
     "ACTION_SKILL_PoisonFog": {
         "TextData": {
             "Namespace": "DT_SkillDescText",
@@ -939,8 +963,8 @@
         "TextData": {
             "Namespace": "DT_SkillDescText",
             "Key": "ACTION_SKILL_DiamondFall_TextData",
-            "SourceString": "\r\n敵の頭上に氷の塊を生成し\r\n次々と降らせる。",
-            "LocalizedString": "\r\n敵の頭上に氷の塊を生成し\r\n次々と降らせる。"
+            "SourceString": "敵の頭上に氷の塊を生成し\r\n次々と降らせる。",
+            "LocalizedString": "敵の頭上に氷の塊を生成し\r\n次々と降らせる。"
         }
     },
     "ACTION_SKILL_SandTornado": {
@@ -1058,6 +1082,38 @@
     "ACTION_SKILL_DarkFog": {
         "TextData": {
             "CultureInvariantString": null
+        }
+    },
+    "ACTION_SKILL_DarkCanon": {
+        "TextData": {
+            "Namespace": "DT_SkillDescText",
+            "Key": "ACTION_SKILL_DarkCanon_TextData",
+            "SourceString": "闇の力がこもった高速のエネルギー弾を\r\n敵めがけて発射する。",
+            "LocalizedString": "闇の力がこもった高速のエネルギー弾を\r\n敵めがけて発射する。"
+        }
+    },
+    "ACTION_SKILL_DarkArrow": {
+        "TextData": {
+            "Namespace": "DT_SkillDescText",
+            "Key": "ACTION_SKILL_DarkArrow_TextData",
+            "SourceString": "闇の力で敵を追尾する複数の矢を\r\n連続かつ高速で発射する。",
+            "LocalizedString": "闇の力で敵を追尾する複数の矢を\r\n連続かつ高速で発射する。"
+        }
+    },
+    "ACTION_SKILL_DarkPulse": {
+        "TextData": {
+            "Namespace": "DT_SkillDescText",
+            "Key": "ACTION_SKILL_DarkPulse_TextData",
+            "SourceString": "放射状に広がっていく高速の闇の球を\r\n前方に発射する。",
+            "LocalizedString": "放射状に広がっていく高速の闇の球を\r\n前方に発射する。"
+        }
+    },
+    "ACTION_SKILL_Apocalypse": {
+        "TextData": {
+            "Namespace": "DT_SkillDescText",
+            "Key": "ACTION_SKILL_Apocalypse_TextData",
+            "SourceString": "周囲にいくつもの暗黒の竜巻を発生させる。",
+            "LocalizedString": "周囲にいくつもの暗黒の竜巻を発生させる。"
         }
     },
     "ACTION_SKILL_DragonMeteor": {
@@ -1292,6 +1348,14 @@
             "LocalizedString": "竜属性攻撃ダメージ増加{EffectValue1}%"
         }
     },
+    "PASSIVE_ElementBoost_Dark_Ice_1_PAL": {
+        "TextData": {
+            "Namespace": "DT_SkillDescText",
+            "Key": "PASSIVE_ElementBoost_Dark_Ice_1_PAL_TextData",
+            "SourceString": "闇属性攻撃ダメージ増加{EffectValue1}%\r\n氷属性攻撃ダメージ増加{EffectValue1}%",
+            "LocalizedString": "闇属性攻撃ダメージ増加{EffectValue1}%\r\n氷属性攻撃ダメージ増加{EffectValue1}%"
+        }
+    },
     "PASSIVE_PAL_FullStomach_Up_1": {
         "TextData": {
             "Namespace": "DT_SkillDescText",
@@ -1392,8 +1456,8 @@
         "TextData": {
             "Namespace": "DT_SkillDescText",
             "Key": "PASSIVE_NonKilling_DESC_TextData",
-            "SourceString": "平和主義者。\r\n攻撃対象のHealthを1未満にできない。",
-            "LocalizedString": "平和主義者。\r\n攻撃対象のHealthを1未満にできない。"
+            "SourceString": "平和主義者。\r\n攻撃対象のHPを1未満にできない。",
+            "LocalizedString": "平和主義者。\r\n攻撃対象のHPを1未満にできない。"
         }
     }
 }

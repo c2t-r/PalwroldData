@@ -1035,8 +1035,8 @@
         "TextData": {
             "Namespace": "DT_BuildObjectDescText",
             "Key": "BUILDOBJECT_DESC_BaseCampWorkHard_TextData",
-            "SourceString": "拠点内のパルの働き方を指示できる。\r\n働かせすぎには注意しよう。",
-            "LocalizedString": "拠点内のパルの働き方を指示できる。\r\n働かせすぎには注意しよう。"
+            "SourceString": "拠点内のパルの働き方や、\r\n個別の作業ごとの許可/禁止を指示できる。",
+            "LocalizedString": "拠点内のパルの働き方や、\r\n個別の作業ごとの許可/禁止を指示できる。"
         }
     },
     "BUILDOBJECT_DESC_OlympicCauldron": {
@@ -1939,8 +1939,8 @@
         "TextData": {
             "Namespace": "DT_BuildObjectDescText",
             "Key": "BUILDOBJECT_DESC_TableDresser01_Stone_TextData",
-            "SourceString": "装飾用のアンティークなドレッサー。\r\n",
-            "LocalizedString": "装飾用のアンティークなドレッサー。\r\n"
+            "SourceString": "自分の姿を見直すためのドレッサー。\r\nキャラクターの見た目を変えられる。",
+            "LocalizedString": "自分の姿を見直すためのドレッサー。\r\nキャラクターの見た目を変えられる。"
         }
     },
     "BUILDOBJECT_DESC_TableSink01_Stone": {
@@ -2229,6 +2229,230 @@
             "Key": "BUILDOBJECT_DESC_Altar_TextData",
             "SourceString": "パルの描かれた石板を捧げることで\r\n強大なパルを拠点に召喚できる。\r\n戦闘に備え、十分な用意が必要だ。",
             "LocalizedString": "パルの描かれた石板を捧げることで\r\n強大なパルを拠点に召喚できる。\r\n戦闘に備え、十分な用意が必要だ。"
+        }
+    },
+    "BUILDOBJECT_DESC_CopperPit": {
+        "TextData": {
+            "Namespace": "DT_BuildObjectDescText",
+            "Key": "BUILDOBJECT_DESC_CopperPit_TextData",
+            "SourceString": "<itemName id=|CopperOre|/>を生産するための施設。\r\n<itemName id=|CopperOre|/>を掘る作業は過酷で体力が必要だ。\r\n採掘が得意なパルに任せよう。",
+            "LocalizedString": "<itemName id=|CopperOre|/>を生産するための施設。\r\n<itemName id=|CopperOre|/>を掘る作業は過酷で体力が必要だ。\r\n採掘が得意なパルに任せよう。"
+        }
+    },
+    "BUILDOBJECT_DESC_CopperPit_2": {
+        "TextData": {
+            "Namespace": "DT_BuildObjectDescText",
+            "Key": "BUILDOBJECT_DESC_CopperPit_2_TextData",
+            "SourceString": "<itemName id=|CopperOre|/>を大量生産するための施設。\r\n<itemName id=|CopperOre|/>を掘る作業は過酷で体力が必要だ。\r\n採掘が得意なパルに任せよう。",
+            "LocalizedString": "<itemName id=|CopperOre|/>を大量生産するための施設。\r\n<itemName id=|CopperOre|/>を掘る作業は過酷で体力が必要だ。\r\n採掘が得意なパルに任せよう。"
+        }
+    },
+    "BUILDOBJECT_DESC_ElectricHatchingPalEgg": {
+        "TextData": {
+            "Namespace": "DT_BuildObjectDescText",
+            "Key": "BUILDOBJECT_DESC_ElectricHatchingPalEgg_TextData",
+            "SourceString": "パルのタマゴを孵化させるための装置。\r\n電力の供給が必要だが、孵化器の内部を\r\n自動的に最適な温度に保ってくれる。",
+            "LocalizedString": "パルのタマゴを孵化させるための装置。\r\n電力の供給が必要だが、孵化器の内部を\r\n自動的に最適な温度に保ってくれる。"
+        }
+    },
+    "MAPOBJECT_DESC_CoolerPalFoodBox": {
+        "TextData": {
+            "Namespace": "DT_BuildObjectDescText",
+            "Key": "MAPOBJECT_DESC_CoolerPalFoodBox_TextData",
+            "SourceString": "-",
+            "LocalizedString": "-"
+        }
+    },
+    "MAPOBJECT_DESC_AntiAircraft_LaserTower": {
+        "TextData": {
+            "Namespace": "DT_BuildObjectDescText",
+            "Key": "MAPOBJECT_DESC_AntiAircraft_LaserTower_TextData",
+            "SourceString": "-",
+            "LocalizedString": "-"
+        }
+    },
+    "MAPOBJECT_DESC_AntiAircraft_MachineGun": {
+        "TextData": {
+            "Namespace": "DT_BuildObjectDescText",
+            "Key": "MAPOBJECT_DESC_AntiAircraft_MachineGun_TextData",
+            "SourceString": "-",
+            "LocalizedString": "-"
+        }
+    },
+    "MAPOBJECT_DESC_TreasureBox_Oilrig": {
+        "TextData": {
+            "Namespace": "DT_BuildObjectDescText",
+            "Key": "MAPOBJECT_DESC_TreasureBox_Oilrig_TextData",
+            "SourceString": "-",
+            "LocalizedString": "-"
+        }
+    },
+    "MAPOBJECT_DESC_OilRig": {
+        "TextData": {
+            "Namespace": "DT_BuildObjectDescText",
+            "Key": "MAPOBJECT_DESC_OilRig_TextData",
+            "SourceString": "-",
+            "LocalizedString": "-"
+        }
+    },
+    "MAPOBJECT_DESC_SulfurPit": {
+        "TextData": {
+            "Namespace": "DT_BuildObjectDescText",
+            "Key": "MAPOBJECT_DESC_SulfurPit_TextData",
+            "SourceString": "-",
+            "LocalizedString": "-"
+        }
+    },
+    "MAPOBJECT_DESC_CoalPit": {
+        "TextData": {
+            "Namespace": "DT_BuildObjectDescText",
+            "Key": "MAPOBJECT_DESC_CoalPit_TextData",
+            "SourceString": "-",
+            "LocalizedString": "-"
+        }
+    },
+    "MAPOBJECT_DESC_IceCrusher": {
+        "TextData": {
+            "Namespace": "DT_BuildObjectDescText",
+            "Key": "MAPOBJECT_DESC_IceCrusher_TextData",
+            "SourceString": "-",
+            "LocalizedString": "-"
+        }
+    },
+    "MAPOBJECT_DESC_DismantlingConveyor": {
+        "TextData": {
+            "Namespace": "DT_BuildObjectDescText",
+            "Key": "MAPOBJECT_DESC_DismantlingConveyor_TextData",
+            "SourceString": "-",
+            "LocalizedString": "-"
+        }
+    },
+    "MAPOBJECT_DESC_WallSignboard": {
+        "TextData": {
+            "Namespace": "DT_BuildObjectDescText",
+            "Key": "MAPOBJECT_DESC_WallSignboard_TextData",
+            "SourceString": "-",
+            "LocalizedString": "-"
+        }
+    },
+    "MAPOBJECT_DESC_TreasureBox_Electric": {
+        "TextData": {
+            "Namespace": "DT_BuildObjectDescText",
+            "Key": "MAPOBJECT_DESC_TreasureBox_Electric_TextData",
+            "SourceString": "-",
+            "LocalizedString": "-"
+        }
+    },
+    "MAPOBJECT_DESC_TreasureBox_Ivy": {
+        "TextData": {
+            "Namespace": "DT_BuildObjectDescText",
+            "Key": "MAPOBJECT_DESC_TreasureBox_Ivy_TextData",
+            "SourceString": "-",
+            "LocalizedString": "-"
+        }
+    },
+    "MAPOBJECT_DESC_TreasureBox_Ice": {
+        "TextData": {
+            "Namespace": "DT_BuildObjectDescText",
+            "Key": "MAPOBJECT_DESC_TreasureBox_Ice_TextData",
+            "SourceString": "-",
+            "LocalizedString": "-"
+        }
+    },
+    "MAPOBJECT_DESC_Glass_foundation": {
+        "TextData": {
+            "Namespace": "DT_BuildObjectDescText",
+            "Key": "MAPOBJECT_DESC_Glass_foundation_TextData",
+            "SourceString": "-",
+            "LocalizedString": "-"
+        }
+    },
+    "MAPOBJECT_DESC_Glass_wall": {
+        "TextData": {
+            "Namespace": "DT_BuildObjectDescText",
+            "Key": "MAPOBJECT_DESC_Glass_wall_TextData",
+            "SourceString": "-",
+            "LocalizedString": "-"
+        }
+    },
+    "MAPOBJECT_DESC_Glass_roof": {
+        "TextData": {
+            "Namespace": "DT_BuildObjectDescText",
+            "Key": "MAPOBJECT_DESC_Glass_roof_TextData",
+            "SourceString": "-",
+            "LocalizedString": "-"
+        }
+    },
+    "MAPOBJECT_DESC_Glass_stair": {
+        "TextData": {
+            "Namespace": "DT_BuildObjectDescText",
+            "Key": "MAPOBJECT_DESC_Glass_stair_TextData",
+            "SourceString": "-",
+            "LocalizedString": "-"
+        }
+    },
+    "MAPOBJECT_DESC_Glass_DoorWall": {
+        "TextData": {
+            "Namespace": "DT_BuildObjectDescText",
+            "Key": "MAPOBJECT_DESC_Glass_DoorWall_TextData",
+            "SourceString": "-",
+            "LocalizedString": "-"
+        }
+    },
+    "MAPOBJECT_DESC_Glass_TriangleWall": {
+        "TextData": {
+            "Namespace": "DT_BuildObjectDescText",
+            "Key": "MAPOBJECT_DESC_Glass_TriangleWall_TextData",
+            "SourceString": "-",
+            "LocalizedString": "-"
+        }
+    },
+    "MAPOBJECT_DESC_Glass_SlantedRoof": {
+        "TextData": {
+            "Namespace": "DT_BuildObjectDescText",
+            "Key": "MAPOBJECT_DESC_Glass_SlantedRoof_TextData",
+            "SourceString": "-",
+            "LocalizedString": "-"
+        }
+    },
+    "MAPOBJECT_DESC_Glass_WindowWall": {
+        "TextData": {
+            "Namespace": "DT_BuildObjectDescText",
+            "Key": "MAPOBJECT_DESC_Glass_WindowWall_TextData",
+            "SourceString": "-",
+            "LocalizedString": "-"
+        }
+    },
+    "MAPOBJECT_DESC_Wooden_Pillar": {
+        "TextData": {
+            "Namespace": "DT_BuildObjectDescText",
+            "Key": "MAPOBJECT_DESC_Wooden_Pillar_TextData",
+            "SourceString": "-",
+            "LocalizedString": "-"
+        }
+    },
+    "MAPOBJECT_DESC_Stone_Pillar": {
+        "TextData": {
+            "Namespace": "DT_BuildObjectDescText",
+            "Key": "MAPOBJECT_DESC_Stone_Pillar_TextData",
+            "SourceString": "-",
+            "LocalizedString": "-"
+        }
+    },
+    "MAPOBJECT_DESC_Metal_Pillars": {
+        "TextData": {
+            "Namespace": "DT_BuildObjectDescText",
+            "Key": "MAPOBJECT_DESC_Metal_Pillars_TextData",
+            "SourceString": "-",
+            "LocalizedString": "-"
+        }
+    },
+    "MAPOBJECT_DESC_Glass_Pillars": {
+        "TextData": {
+            "Namespace": "DT_BuildObjectDescText",
+            "Key": "MAPOBJECT_DESC_Glass_Pillars_TextData",
+            "SourceString": "-",
+            "LocalizedString": "-"
         }
     }
 }

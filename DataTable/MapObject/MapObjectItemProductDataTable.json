@@ -13,5 +13,15 @@
         "Product_Id": "Wood",
         "RequiredWorkAmount": 800.0,
         "AutoWorkAmountBySec": 0.0
+    },
+    "CopperPit": {
+        "Product_Id": "CopperOre",
+        "RequiredWorkAmount": 8000.0,
+        "AutoWorkAmountBySec": 0.0
+    },
+    "CopperPit_2": {
+        "Product_Id": "CopperOre",
+        "RequiredWorkAmount": 1600.0,
+        "AutoWorkAmountBySec": 0.0
     }
 }

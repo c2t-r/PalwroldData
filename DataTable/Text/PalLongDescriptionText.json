@@ -1230,5 +1230,21 @@
             "SourceString": "捕獲された人間。\r\nパルパゴス島では、人間をパルスフィアで捕獲することは\r\n非人道的行為とされている。",
             "LocalizedString": "捕獲された人間。\r\nパルパゴス島では、人間をパルスフィアで捕獲することは\r\n非人道的行為とされている。"
         }
+    },
+    "PAL_LONG_DESC_NightLady": {
+        "TextData": {
+            "Namespace": "DT_PalLongDescriptionText",
+            "Key": "PAL_LONG_DESC_NightLady_TextData",
+            "SourceString": "存在せず、静かに世界を見つめているだけだった。\r\nいつの頃からか、見つめられることを望んだ。\r\n外界に仇なした欲求の塊は\r\n狂乱の淑女として定義された。",
+            "LocalizedString": "存在せず、静かに世界を見つめているだけだった。\r\nいつの頃からか、見つめられることを望んだ。\r\n外界に仇なした欲求の塊は\r\n狂乱の淑女として定義された。"
+        }
+    },
+    "PAL_LONG_DESC_NightLady_Dark": {
+        "TextData": {
+            "Namespace": "DT_PalLongDescriptionText",
+            "Key": "PAL_LONG_DESC_NightLady_Dark_TextData",
+            "SourceString": "解放された欲は、ついに治まらなかった。\r\nわたしを見つめるわたしが欲しい。\r\n外界に仇なした見つめる姉妹は\r\nとうとう狭間に追いやられ、ようやく目を閉じた。",
+            "LocalizedString": "解放された欲は、ついに治まらなかった。\r\nわたしを見つめるわたしが欲しい。\r\n外界に仇なした見つめる姉妹は\r\nとうとう狭間に追いやられ、ようやく目を閉じた。"
+        }
     }
 }

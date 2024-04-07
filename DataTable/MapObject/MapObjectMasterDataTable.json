@@ -1282,7 +1282,7 @@
         "MaterialType": "EPalMapObjectMaterialType::Stone",
         "MaterialSubType": "EPalMapObjectMaterialSubType::Copper",
         "HP": 20000,
-        "Defense": 4,
+        "Defense": 50,
         "bBelongToBaseCamp": true,
         "DistributeExpAroundPlayer": 0,
         "DeteriorationDamage": 0.0,
@@ -2596,7 +2596,7 @@
         "Defense": 5,
         "bBelongToBaseCamp": true,
         "DistributeExpAroundPlayer": 0,
-        "DeteriorationDamage": 0.0,
+        "DeteriorationDamage": 0.05,
         "ExtinguishBurnWorkAmount": 2000.0,
         "bShowHPGauge": true,
         "bInDevelop": false,
@@ -2615,7 +2615,7 @@
         "Defense": 5,
         "bBelongToBaseCamp": true,
         "DistributeExpAroundPlayer": 0,
-        "DeteriorationDamage": 0.4,
+        "DeteriorationDamage": 0.1,
         "ExtinguishBurnWorkAmount": 0.0,
         "bShowHPGauge": true,
         "bInDevelop": false,
@@ -2634,7 +2634,7 @@
         "Defense": 5,
         "bBelongToBaseCamp": true,
         "DistributeExpAroundPlayer": 0,
-        "DeteriorationDamage": 0.0,
+        "DeteriorationDamage": 0.125,
         "ExtinguishBurnWorkAmount": 0.0,
         "bShowHPGauge": true,
         "bInDevelop": false,
@@ -5850,5 +5850,347 @@
         "bShowHPGauge": true,
         "bInDevelop": false,
         "Editor_RowNameHash": 2112947282
+    },
+    "Altar": {
+        "OverrideNameMsgID": "None",
+        "BlueprintClassName": "BP_BuildObject_Altar",
+        "BlueprintClassSoft": {
+            "AssetPathName": "/Game/Pal/Blueprint/MapObject/BuildObject/BP_BuildObject_Altar.BP_BuildObject_Altar_C",
+            "SubPathString": ""
+        },
+        "MaterialType": "EPalMapObjectMaterialType::Stone",
+        "MaterialSubType": "EPalMapObjectMaterialSubType::Copper",
+        "HP": 10000,
+        "Defense": 4,
+        "bBelongToBaseCamp": true,
+        "DistributeExpAroundPlayer": 0,
+        "DeteriorationDamage": 0.08,
+        "ExtinguishBurnWorkAmount": 0.0,
+        "bShowHPGauge": true,
+        "bInDevelop": false,
+        "Editor_RowNameHash": 1041062625
+    },
+    "CopperPit": {
+        "OverrideNameMsgID": "None",
+        "BlueprintClassName": "BP_BuildObject_CopperPit",
+        "BlueprintClassSoft": {
+            "AssetPathName": "/Game/Pal/Blueprint/MapObject/BuildObject/BP_BuildObject_CopperPit.BP_BuildObject_CopperPit_C",
+            "SubPathString": ""
+        },
+        "MaterialType": "EPalMapObjectMaterialType::Stone",
+        "MaterialSubType": "EPalMapObjectMaterialSubType::Stone",
+        "HP": 10000,
+        "Defense": 4,
+        "bBelongToBaseCamp": true,
+        "DistributeExpAroundPlayer": 0,
+        "DeteriorationDamage": 0.0,
+        "ExtinguishBurnWorkAmount": 0.0,
+        "bShowHPGauge": true,
+        "bInDevelop": false,
+        "Editor_RowNameHash": -274137461
+    },
+    "CopperPit_2": {
+        "OverrideNameMsgID": "None",
+        "BlueprintClassName": "BP_BuildObject_CopperPit_2",
+        "BlueprintClassSoft": {
+            "AssetPathName": "/Game/Pal/Blueprint/MapObject/BuildObject/BP_BuildObject_CopperPit_2.BP_BuildObject_CopperPit_2_C",
+            "SubPathString": ""
+        },
+        "MaterialType": "EPalMapObjectMaterialType::Stone",
+        "MaterialSubType": "EPalMapObjectMaterialSubType::Stone",
+        "HP": 10000,
+        "Defense": 4,
+        "bBelongToBaseCamp": true,
+        "DistributeExpAroundPlayer": 0,
+        "DeteriorationDamage": 0.0,
+        "ExtinguishBurnWorkAmount": 0.0,
+        "bShowHPGauge": true,
+        "bInDevelop": false,
+        "Editor_RowNameHash": 1392069081
+    },
+    "ElectricHatchingPalEgg": {
+        "OverrideNameMsgID": "None",
+        "BlueprintClassName": "BP_BuildObject_ElectricHatchingPalEgg",
+        "BlueprintClassSoft": {
+            "AssetPathName": "/Game/Pal/Blueprint/MapObject/BuildObject/BP_BuildObject_ElectricHatchingPalEgg.BP_BuildObject_ElectricHatchingPalEgg_C",
+            "SubPathString": ""
+        },
+        "MaterialType": "EPalMapObjectMaterialType::Stone",
+        "MaterialSubType": "EPalMapObjectMaterialSubType::Stone",
+        "HP": 2000,
+        "Defense": 3,
+        "bBelongToBaseCamp": true,
+        "DistributeExpAroundPlayer": 0,
+        "DeteriorationDamage": 0.04,
+        "ExtinguishBurnWorkAmount": 0.0,
+        "bShowHPGauge": true,
+        "bInDevelop": false,
+        "Editor_RowNameHash": 1102588352
+    },
+    "PickupItem_CaveMushroom": {
+        "OverrideNameMsgID": "None",
+        "BlueprintClassName": "BP_MapObject_PickupItem_CaveMushroom",
+        "BlueprintClassSoft": {
+            "AssetPathName": "/Game/Pal/Blueprint/MapObject/Object/PickupItemOnLevel/BP_MapObject_PickupItem_CaveMushroom.BP_MapObject_PickupItem_CaveMushroom_C",
+            "SubPathString": ""
+        },
+        "MaterialType": "EPalMapObjectMaterialType::None",
+        "MaterialSubType": "EPalMapObjectMaterialSubType::None",
+        "HP": -1,
+        "Defense": 3,
+        "bBelongToBaseCamp": true,
+        "DistributeExpAroundPlayer": 0,
+        "DeteriorationDamage": 0.0,
+        "ExtinguishBurnWorkAmount": 0.0,
+        "bShowHPGauge": true,
+        "bInDevelop": false,
+        "Editor_RowNameHash": 1314920234
+    },
+    "CoolerPalFoodBox": {
+        "OverrideNameMsgID": "None",
+        "BlueprintClassName": "BP_BuildObject_CoolerPalFoodBox",
+        "BlueprintClassSoft": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        },
+        "MaterialType": "EPalMapObjectMaterialType::Wood",
+        "MaterialSubType": "EPalMapObjectMaterialSubType::Wood",
+        "HP": 2000,
+        "Defense": 2,
+        "bBelongToBaseCamp": true,
+        "DistributeExpAroundPlayer": 0,
+        "DeteriorationDamage": 0.08,
+        "ExtinguishBurnWorkAmount": 1000.0,
+        "bShowHPGauge": true,
+        "bInDevelop": false,
+        "Editor_RowNameHash": 822494567
+    },
+    "AntiAircraft_LaserTower": {
+        "OverrideNameMsgID": "None",
+        "BlueprintClassName": "BP_BuildObject_AntiAircraft_LaserTower",
+        "BlueprintClassSoft": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        },
+        "MaterialType": "EPalMapObjectMaterialType::Stone",
+        "MaterialSubType": "EPalMapObjectMaterialSubType::Copper",
+        "HP": 10000,
+        "Defense": 3,
+        "bBelongToBaseCamp": true,
+        "DistributeExpAroundPlayer": 0,
+        "DeteriorationDamage": 0.2,
+        "ExtinguishBurnWorkAmount": 0.0,
+        "bShowHPGauge": true,
+        "bInDevelop": false,
+        "Editor_RowNameHash": 1129807186
+    },
+    "AntiAircraft_MachineGun": {
+        "OverrideNameMsgID": "None",
+        "BlueprintClassName": "BP_BuildObject_AntiAircraft_MachineGun",
+        "BlueprintClassSoft": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        },
+        "MaterialType": "EPalMapObjectMaterialType::Stone",
+        "MaterialSubType": "EPalMapObjectMaterialSubType::Copper",
+        "HP": 10000,
+        "Defense": 3,
+        "bBelongToBaseCamp": true,
+        "DistributeExpAroundPlayer": 0,
+        "DeteriorationDamage": 0.2,
+        "ExtinguishBurnWorkAmount": 0.0,
+        "bShowHPGauge": true,
+        "bInDevelop": false,
+        "Editor_RowNameHash": -1009074827
+    },
+    "TreasureBox_Oilrig": {
+        "OverrideNameMsgID": "None",
+        "BlueprintClassName": "BP_MapObject_TreasureBox",
+        "BlueprintClassSoft": {
+            "AssetPathName": "/Game/Pal/Blueprint/MapObject/Object/TreasureBox/BP_MapObject_TreasureBox.BP_MapObject_TreasureBox_C",
+            "SubPathString": ""
+        },
+        "MaterialType": "EPalMapObjectMaterialType::None",
+        "MaterialSubType": "EPalMapObjectMaterialSubType::None",
+        "HP": -1,
+        "Defense": 1,
+        "bBelongToBaseCamp": false,
+        "DistributeExpAroundPlayer": 0,
+        "DeteriorationDamage": 0.0,
+        "ExtinguishBurnWorkAmount": 0.0,
+        "bShowHPGauge": true,
+        "bInDevelop": false,
+        "Editor_RowNameHash": 1015575174
+    },
+    "OilRig": {
+        "OverrideNameMsgID": "None",
+        "BlueprintClassName": "BP_BuildObject_OilRig",
+        "BlueprintClassSoft": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        },
+        "MaterialType": "EPalMapObjectMaterialType::Stone",
+        "MaterialSubType": "EPalMapObjectMaterialSubType::Stone",
+        "HP": 10000,
+        "Defense": 4,
+        "bBelongToBaseCamp": true,
+        "DistributeExpAroundPlayer": 0,
+        "DeteriorationDamage": 0.0,
+        "ExtinguishBurnWorkAmount": 0.0,
+        "bShowHPGauge": true,
+        "bInDevelop": false,
+        "Editor_RowNameHash": 291359802
+    },
+    "SulfurPit": {
+        "OverrideNameMsgID": "None",
+        "BlueprintClassName": "BP_BuildObject_SulfurPit",
+        "BlueprintClassSoft": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        },
+        "MaterialType": "EPalMapObjectMaterialType::Stone",
+        "MaterialSubType": "EPalMapObjectMaterialSubType::Stone",
+        "HP": 10000,
+        "Defense": 4,
+        "bBelongToBaseCamp": true,
+        "DistributeExpAroundPlayer": 0,
+        "DeteriorationDamage": 0.0,
+        "ExtinguishBurnWorkAmount": 0.0,
+        "bShowHPGauge": true,
+        "bInDevelop": false,
+        "Editor_RowNameHash": 661027582
+    },
+    "CoalPit": {
+        "OverrideNameMsgID": "None",
+        "BlueprintClassName": "BP_BuildObject_CoalPit",
+        "BlueprintClassSoft": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        },
+        "MaterialType": "EPalMapObjectMaterialType::Stone",
+        "MaterialSubType": "EPalMapObjectMaterialSubType::Stone",
+        "HP": 10000,
+        "Defense": 4,
+        "bBelongToBaseCamp": true,
+        "DistributeExpAroundPlayer": 0,
+        "DeteriorationDamage": 0.0,
+        "ExtinguishBurnWorkAmount": 0.0,
+        "bShowHPGauge": true,
+        "bInDevelop": false,
+        "Editor_RowNameHash": 2097567723
+    },
+    "IceCrusher": {
+        "OverrideNameMsgID": "None",
+        "BlueprintClassName": "BP_BuildObject_IceCrusher",
+        "BlueprintClassSoft": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        },
+        "MaterialType": "EPalMapObjectMaterialType::Stone",
+        "MaterialSubType": "EPalMapObjectMaterialSubType::Stone",
+        "HP": 4000,
+        "Defense": 3,
+        "bBelongToBaseCamp": true,
+        "DistributeExpAroundPlayer": 0,
+        "DeteriorationDamage": 0.12,
+        "ExtinguishBurnWorkAmount": 0.0,
+        "bShowHPGauge": true,
+        "bInDevelop": false,
+        "Editor_RowNameHash": 1243231113
+    },
+    "DismantlingConveyor": {
+        "OverrideNameMsgID": "None",
+        "BlueprintClassName": "BP_BuildObject_DismantlingConveyor",
+        "BlueprintClassSoft": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        },
+        "MaterialType": "EPalMapObjectMaterialType::Stone",
+        "MaterialSubType": "EPalMapObjectMaterialSubType::Stone",
+        "HP": 4000,
+        "Defense": 3,
+        "bBelongToBaseCamp": true,
+        "DistributeExpAroundPlayer": 0,
+        "DeteriorationDamage": 0.12,
+        "ExtinguishBurnWorkAmount": 0.0,
+        "bShowHPGauge": true,
+        "bInDevelop": false,
+        "Editor_RowNameHash": -528093795
+    },
+    "WallSignboard": {
+        "OverrideNameMsgID": "None",
+        "BlueprintClassName": "BP_BuildObject_WallSignboard",
+        "BlueprintClassSoft": {
+            "AssetPathName": "None",
+            "SubPathString": null
+        },
+        "MaterialType": "EPalMapObjectMaterialType::Wood",
+        "MaterialSubType": "EPalMapObjectMaterialSubType::Wood",
+        "HP": 1000,
+        "Defense": 1,
+        "bBelongToBaseCamp": true,
+        "DistributeExpAroundPlayer": 0,
+        "DeteriorationDamage": 0.04,
+        "ExtinguishBurnWorkAmount": 1000.0,
+        "bShowHPGauge": true,
+        "bInDevelop": false,
+        "Editor_RowNameHash": 111810230
+    },
+    "TreasureBox_Electric": {
+        "OverrideNameMsgID": "None",
+        "BlueprintClassName": "BP_MapObject_TreasureBox",
+        "BlueprintClassSoft": {
+            "AssetPathName": "/Game/Pal/Blueprint/MapObject/Object/TreasureBox/BP_MapObject_TreasureBox.BP_MapObject_TreasureBox_C",
+            "SubPathString": ""
+        },
+        "MaterialType": "EPalMapObjectMaterialType::None",
+        "MaterialSubType": "EPalMapObjectMaterialSubType::None",
+        "HP": -1,
+        "Defense": 1,
+        "bBelongToBaseCamp": false,
+        "DistributeExpAroundPlayer": 0,
+        "DeteriorationDamage": 0.0,
+        "ExtinguishBurnWorkAmount": 0.0,
+        "bShowHPGauge": true,
+        "bInDevelop": false,
+        "Editor_RowNameHash": -241034037
+    },
+    "TreasureBox_Ivy": {
+        "OverrideNameMsgID": "None",
+        "BlueprintClassName": "BP_MapObject_TreasureBox",
+        "BlueprintClassSoft": {
+            "AssetPathName": "/Game/Pal/Blueprint/MapObject/Object/TreasureBox/BP_MapObject_TreasureBox.BP_MapObject_TreasureBox_C",
+            "SubPathString": ""
+        },
+        "MaterialType": "EPalMapObjectMaterialType::None",
+        "MaterialSubType": "EPalMapObjectMaterialSubType::None",
+        "HP": -1,
+        "Defense": 1,
+        "bBelongToBaseCamp": false,
+        "DistributeExpAroundPlayer": 0,
+        "DeteriorationDamage": 0.0,
+        "ExtinguishBurnWorkAmount": 0.0,
+        "bShowHPGauge": true,
+        "bInDevelop": false,
+        "Editor_RowNameHash": -1651187442
+    },
+    "TreasureBox_Ice": {
+        "OverrideNameMsgID": "None",
+        "BlueprintClassName": "BP_MapObject_TreasureBox",
+        "BlueprintClassSoft": {
+            "AssetPathName": "/Game/Pal/Blueprint/MapObject/Object/TreasureBox/BP_MapObject_TreasureBox.BP_MapObject_TreasureBox_C",
+            "SubPathString": ""
+        },
+        "MaterialType": "EPalMapObjectMaterialType::None",
+        "MaterialSubType": "EPalMapObjectMaterialSubType::None",
+        "HP": -1,
+        "Defense": 1,
+        "bBelongToBaseCamp": false,
+        "DistributeExpAroundPlayer": 0,
+        "DeteriorationDamage": 0.0,
+        "ExtinguishBurnWorkAmount": 0.0,
+        "bShowHPGauge": true,
+        "bInDevelop": false,
+        "Editor_RowNameHash": -1621345636
     }
 }

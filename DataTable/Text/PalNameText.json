@@ -891,8 +891,16 @@
         "TextData": {
             "Namespace": "DT_PalNameText",
             "Key": "PAL_NAME_NightLady_TextData",
-            "SourceString": "テリファーナ",
-            "LocalizedString": "テリファーナ"
+            "SourceString": "ベラノワール",
+            "LocalizedString": "ベラノワール"
+        }
+    },
+    "PAL_NAME_NightLady_Dark": {
+        "TextData": {
+            "Namespace": "DT_PalNameText",
+            "Key": "PAL_NAME_NightLady_Dark_TextData",
+            "SourceString": "ベラルージュ",
+            "LocalizedString": "ベラルージュ"
         }
     },
     "PAL_NAME_Penguin": {

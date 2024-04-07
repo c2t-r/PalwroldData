@@ -3015,6 +3015,30 @@
             "LocalizedString": "竜属性のダメージをかなり軽減するアクセサリー。\r\n"
         }
     },
+    "ITEM_DESC_Accessory_HeatColdResist_1": {
+        "TextData": {
+            "Namespace": "DT_ItemDescriptionText",
+            "Key": "ITEM_DESC_Accessory_HeatColdResist_1_TextData",
+            "SourceString": "少しだけ耐熱・耐寒効果があるアクセサリー。\r\n",
+            "LocalizedString": "少しだけ耐熱・耐寒効果があるアクセサリー。\r\n"
+        }
+    },
+    "ITEM_DESC_Accessory_HeatColdResist_2": {
+        "TextData": {
+            "Namespace": "DT_ItemDescriptionText",
+            "Key": "ITEM_DESC_Accessory_HeatColdResist_2_TextData",
+            "SourceString": "耐熱・耐寒効果があるアクセサリー。\r\n",
+            "LocalizedString": "耐熱・耐寒効果があるアクセサリー。\r\n"
+        }
+    },
+    "ITEM_DESC_Accessory_HeatColdResist_3": {
+        "TextData": {
+            "Namespace": "DT_ItemDescriptionText",
+            "Key": "ITEM_DESC_Accessory_HeatColdResist_3_TextData",
+            "SourceString": "とても耐熱・耐寒効果があるアクセサリー。\r\n",
+            "LocalizedString": "とても耐熱・耐寒効果があるアクセサリー。\r\n"
+        }
+    },
     "ITEM_DESC_PalUpgradeStone": {
         "TextData": {
             "Namespace": "DT_ItemDescriptionText",
@@ -6619,8 +6643,8 @@
         "TextData": {
             "Namespace": "DT_ItemDescriptionText",
             "Key": "ITEM_DESC_Accessory_Nonkilling_TextData",
-            "SourceString": "平和主義者の指輪。\r\n装備者は攻撃対象のHealthを1未満にできない。",
-            "LocalizedString": "平和主義者の指輪。\r\n装備者は攻撃対象のHealthを1未満にできない。"
+            "SourceString": "平和主義者の指輪。\r\n装備者は攻撃対象のHPを1未満にできない。",
+            "LocalizedString": "平和主義者の指輪。\r\n装備者は攻撃対象のHPを1未満にできない。"
         }
     },
     "ITEM_DESC_PalSummon": {
@@ -6629,6 +6653,54 @@
             "Key": "ITEM_DESC_PalSummon_TextData",
             "SourceString": "<characterName id=|NightLady|/>が描かれた石板。\r\n<mapObjectName id=|Altar|/>に捧げることで、\r\n強大なパルを召喚できる。",
             "LocalizedString": "<characterName id=|NightLady|/>が描かれた石板。\r\n<mapObjectName id=|Altar|/>に捧げることで、\r\n強大なパルを召喚できる。"
+        }
+    },
+    "ITEM_DESC_PalSummon_NightLady": {
+        "TextData": {
+            "Namespace": "DT_ItemDescriptionText",
+            "Key": "ITEM_DESC_PalSummon_NightLady_TextData",
+            "SourceString": "<characterName id=|NightLady|/>が描かれた石板。\r\n<mapObjectName id=|Altar|/>に捧げることで、\r\n強大な<characterName id=|NightLady|/>[Lv 30]が召喚される。",
+            "LocalizedString": "<characterName id=|NightLady|/>が描かれた石板。\r\n<mapObjectName id=|Altar|/>に捧げることで、\r\n強大な<characterName id=|NightLady|/>[Lv 30]が召喚される。"
+        }
+    },
+    "ITEM_DESC_PalSummon_NightLady_Dark": {
+        "TextData": {
+            "Namespace": "DT_ItemDescriptionText",
+            "Key": "ITEM_DESC_PalSummon_NightLady_Dark_TextData",
+            "SourceString": "<characterName id=|NightLady_Dark|/>が描かれた石板。\r\n<mapObjectName id=|Altar|/>に捧げることで、\r\n非常に強大な<characterName id=|NightLady_Dark|/>[Lv 50]が召喚される。",
+            "LocalizedString": "<characterName id=|NightLady_Dark|/>が描かれた石板。\r\n<mapObjectName id=|Altar|/>に捧げることで、\r\n非常に強大な<characterName id=|NightLady_Dark|/>[Lv 50]が召喚される。"
+        }
+    },
+    "ITEM_DESC_PalSummon_NightLady_Dark_2": {
+        "TextData": {
+            "Namespace": "DT_ItemDescriptionText",
+            "Key": "ITEM_DESC_PalSummon_NightLady_Dark_2_TextData",
+            "SourceString": "<characterName id=|NightLady_Dark|/>の力が溢れ出る石板。\r\n<mapObjectName id=|Altar|/>に捧げることで、\r\n絶望的な強さの<characterName id=|NightLady_Dark|/>[Lv ??]が召喚される。",
+            "LocalizedString": "<characterName id=|NightLady_Dark|/>の力が溢れ出る石板。\r\n<mapObjectName id=|Altar|/>に捧げることで、\r\n絶望的な強さの<characterName id=|NightLady_Dark|/>[Lv ??]が召喚される。"
+        }
+    },
+    "ITEM_DESC_PalSummon_NightLady_Parts": {
+        "TextData": {
+            "Namespace": "DT_ItemDescriptionText",
+            "Key": "ITEM_DESC_PalSummon_NightLady_Parts_TextData",
+            "SourceString": "<characterName id=|NightLady|/>が描かれた石板の欠片。\r\n組み合わせることで石板を作成できる。",
+            "LocalizedString": "<characterName id=|NightLady|/>が描かれた石板の欠片。\r\n組み合わせることで石板を作成できる。"
+        }
+    },
+    "ITEM_DESC_PalSummon_NightLady_Dark_Parts": {
+        "TextData": {
+            "Namespace": "DT_ItemDescriptionText",
+            "Key": "ITEM_DESC_PalSummon_NightLady_Dark_Parts_TextData",
+            "SourceString": "<characterName id=|NightLady_Dark|/>が描かれた石板の欠片。\r\n組み合わせることで石板を作成できる。",
+            "LocalizedString": "<characterName id=|NightLady_Dark|/>が描かれた石板の欠片。\r\n組み合わせることで石板を作成できる。"
+        }
+    },
+    "ITEM_DESC_PalSummon_NightLady_Dark_Parts_2": {
+        "TextData": {
+            "Namespace": "DT_ItemDescriptionText",
+            "Key": "ITEM_DESC_PalSummon_NightLady_Dark_Parts_2_TextData",
+            "SourceString": "<characterName id=|NightLady_Dark|/>の力が溢れ出る石板の欠片。\r\n組み合わせることで石板を作成できる。",
+            "LocalizedString": "<characterName id=|NightLady_Dark|/>の力が溢れ出る石板の欠片。\r\n組み合わせることで石板を作成できる。"
         }
     },
     "ITEM_DESC_Accessory_TalentChecker": {
@@ -6845,6 +6917,230 @@
             "Key": "ITEM_DESC_Lotus_weight_02_TextData",
             "SourceString": "滅多に入手できない希少な紫色の大きい花。\r\n運搬の神薬の原料になる。",
             "LocalizedString": "滅多に入手できない希少な紫色の大きい花。\r\n運搬の神薬の原料になる。"
+        }
+    },
+    "ITEM_DESC_CaveMushroom": {
+        "TextData": {
+            "Namespace": "DT_ItemDescriptionText",
+            "Key": "ITEM_DESC_CaveMushroom_TextData",
+            "SourceString": "洞窟内に群生するきのこ。\r\n治癒効果のある薬の原料になる。",
+            "LocalizedString": "洞窟内に群生するきのこ。\r\n治癒効果のある薬の原料になる。"
+        }
+    },
+    "ITEM_DESC_Potion_Low": {
+        "TextData": {
+            "Namespace": "DT_ItemDescriptionText",
+            "Key": "ITEM_DESC_Potion_Low_TextData",
+            "SourceString": "時間をかけて体の傷を癒す飲み薬。\r\n低品質だが、一応HPは回復していく。",
+            "LocalizedString": "時間をかけて体の傷を癒す飲み薬。\r\n低品質だが、一応HPは回復していく。"
+        }
+    },
+    "ITEM_DESC_Potion": {
+        "TextData": {
+            "Namespace": "DT_ItemDescriptionText",
+            "Key": "ITEM_DESC_Potion_TextData",
+            "SourceString": "時間をかけて体の傷を癒す飲み薬。\r\nそれなりにHPが回復していく。",
+            "LocalizedString": "時間をかけて体の傷を癒す飲み薬。\r\nそれなりにHPが回復していく。"
+        }
+    },
+    "ITEM_DESC_Potion_High": {
+        "TextData": {
+            "Namespace": "DT_ItemDescriptionText",
+            "Key": "ITEM_DESC_Potion_High_TextData",
+            "SourceString": "時間をかけて体の傷を癒す飲み薬。\r\n高品質で、しっかりHPが回復していく。",
+            "LocalizedString": "時間をかけて体の傷を癒す飲み薬。\r\n高品質で、しっかりHPが回復していく。"
+        }
+    },
+    "ITEM_DESC_ExpBoost_01": {
+        "TextData": {
+            "Namespace": "DT_ItemDescriptionText",
+            "Key": "ITEM_DESC_ExpBoost_01_TextData",
+            "SourceString": "パルに読ませることで、わずかに経験を\r\n積ませることができる書物。",
+            "LocalizedString": "パルに読ませることで、わずかに経験を\r\n積ませることができる書物。"
+        }
+    },
+    "ITEM_DESC_ExpBoost_02": {
+        "TextData": {
+            "Namespace": "DT_ItemDescriptionText",
+            "Key": "ITEM_DESC_ExpBoost_02_TextData",
+            "SourceString": "パルに読ませることで、少し経験を\r\n積ませることができる書物。",
+            "LocalizedString": "パルに読ませることで、少し経験を\r\n積ませることができる書物。"
+        }
+    },
+    "ITEM_DESC_ExpBoost_03": {
+        "TextData": {
+            "Namespace": "DT_ItemDescriptionText",
+            "Key": "ITEM_DESC_ExpBoost_03_TextData",
+            "SourceString": "パルに読ませることで、多くの経験を\r\n積ませることができる書物。",
+            "LocalizedString": "パルに読ませることで、多くの経験を\r\n積ませることができる書物。"
+        }
+    },
+    "ITEM_DESC_ExpBoost_04": {
+        "TextData": {
+            "Namespace": "DT_ItemDescriptionText",
+            "Key": "ITEM_DESC_ExpBoost_04_TextData",
+            "SourceString": "パルに読ませることで、より多くの経験を\r\n積ませることができる書物。",
+            "LocalizedString": "パルに読ませることで、より多くの経験を\r\n積ませることができる書物。"
+        }
+    },
+    "ITEM_DESC_LvUP_01": {
+        "TextData": {
+            "Namespace": "DT_ItemDescriptionText",
+            "Key": "ITEM_DESC_LvUP_01_TextData",
+            "SourceString": "パルに与えることで、Lvを1上昇させる\r\nことができる不思議な結晶。",
+            "LocalizedString": "パルに与えることで、Lvを1上昇させる\r\nことができる不思議な結晶。"
+        }
+    },
+    "ITEM_DESC_Fruit_hp_01": {
+        "TextData": {
+            "Namespace": "DT_ItemDescriptionText",
+            "Key": "ITEM_DESC_Fruit_hp_01_TextData",
+            "SourceString": "非常に入手が難しい貴重な木の実。\r\nパルの「HP」の才能を少し増加させる。",
+            "LocalizedString": "非常に入手が難しい貴重な木の実。\r\nパルの「HP」の才能を少し増加させる。"
+        }
+    },
+    "ITEM_DESC_Fruit_attack_01": {
+        "TextData": {
+            "Namespace": "DT_ItemDescriptionText",
+            "Key": "ITEM_DESC_Fruit_attack_01_TextData",
+            "SourceString": "非常に入手が難しい貴重な木の実。\r\nパルの「攻撃」の才能を少し増加させる。",
+            "LocalizedString": "非常に入手が難しい貴重な木の実。\r\nパルの「攻撃」の才能を少し増加させる。"
+        }
+    },
+    "ITEM_DESC_Fruit__defense_01": {
+        "TextData": {
+            "Namespace": "DT_ItemDescriptionText",
+            "Key": "ITEM_DESC_Fruit__defense_01_TextData",
+            "SourceString": "非常に入手が難しい貴重な木の実。\r\nパルの「防御」の才能を少し増加させる。",
+            "LocalizedString": "非常に入手が難しい貴重な木の実。\r\nパルの「防御」の才能を少し増加させる。"
+        }
+    },
+    "ITEM_DESC_GrenadeLauncher": {
+        "TextData": {
+            "Namespace": "DT_ItemDescriptionText",
+            "Key": "ITEM_DESC_GrenadeLauncher_TextData",
+            "SourceString": "グレネードランチャー",
+            "LocalizedString": "グレネードランチャー"
+        }
+    },
+    "ITEM_DESC_GuidedMissileLauncher": {
+        "TextData": {
+            "Namespace": "DT_ItemDescriptionText",
+            "Key": "ITEM_DESC_GuidedMissileLauncher_TextData",
+            "SourceString": "ミサイルランチャー",
+            "LocalizedString": "ミサイルランチャー"
+        }
+    },
+    "ITEM_DESC_MultiGuidedMissileLauncher": {
+        "TextData": {
+            "Namespace": "DT_ItemDescriptionText",
+            "Key": "ITEM_DESC_MultiGuidedMissileLauncher_TextData",
+            "SourceString": "連装ミサイルランチャー",
+            "LocalizedString": "連装ミサイルランチャー"
+        }
+    },
+    "ITEM_DESC_LaserGatlingGun": {
+        "TextData": {
+            "Namespace": "DT_ItemDescriptionText",
+            "Key": "ITEM_DESC_LaserGatlingGun_TextData",
+            "SourceString": "レーザーガトリングガン",
+            "LocalizedString": "レーザーガトリングガン"
+        }
+    },
+    "ITEM_DESC_PlasticArmor": {
+        "TextData": {
+            "Namespace": "DT_ItemDescriptionText",
+            "Key": "ITEM_DESC_PlasticArmor_TextData",
+            "SourceString": "プラスチックアーマー",
+            "LocalizedString": "プラスチックアーマー"
+        }
+    },
+    "ITEM_DESC_PlasticHelmet": {
+        "TextData": {
+            "Namespace": "DT_ItemDescriptionText",
+            "Key": "ITEM_DESC_PlasticHelmet_TextData",
+            "SourceString": "プラスチックヘルム",
+            "LocalizedString": "プラスチックヘルム"
+        }
+    },
+    "ITEM_DESC_PalSphere_Ultimate": {
+        "TextData": {
+            "Namespace": "DT_ItemDescriptionText",
+            "Key": "ITEM_DESC_PalSphere_Ultimate_TextData",
+            "SourceString": "アルティメットスフィア",
+            "LocalizedString": "アルティメットスフィア"
+        }
+    },
+    "ITEM_DESC_Homeward": {
+        "TextData": {
+            "Namespace": "DT_ItemDescriptionText",
+            "Key": "ITEM_DESC_Homeward_TextData",
+            "SourceString": "最も近くの拠点へ移動することができる。\r\nダンジョンの中などでは使用できない。",
+            "LocalizedString": "最も近くの拠点へ移動することができる。\r\nダンジョンの中などでは使用できない。"
+        }
+    },
+    "ITEM_DESC_AncientParts2": {
+        "TextData": {
+            "Namespace": "DT_ItemDescriptionText",
+            "Key": "ITEM_DESC_AncientParts2_TextData",
+            "SourceString": "古代に存在したロストテクノロジーの核。\r\nもはやパルパゴス島ではまず見つからないが、\r\n忘れ去られた叡智が詰まっている。",
+            "LocalizedString": "古代に存在したロストテクノロジーの核。\r\nもはやパルパゴス島ではまず見つからないが、\r\n忘れ去られた叡智が詰まっている。"
+        }
+    },
+    "ITEM_DESC_Rankup_1": {
+        "TextData": {
+            "Namespace": "DT_ItemDescriptionText",
+            "Key": "ITEM_DESC_Rankup_1_TextData",
+            "SourceString": "パルに注入することでその才能を開花させる不思議なエキス。\r\nパルのランクを☆0から☆1に上昇させることができる。\r\nなぜか怨嗟の声が聞こえるようだ……",
+            "LocalizedString": "パルに注入することでその才能を開花させる不思議なエキス。\r\nパルのランクを☆0から☆1に上昇させることができる。\r\nなぜか怨嗟の声が聞こえるようだ……"
+        }
+    },
+    "ITEM_DESC_Rankup_2": {
+        "TextData": {
+            "Namespace": "DT_ItemDescriptionText",
+            "Key": "ITEM_DESC_Rankup_2_TextData",
+            "SourceString": "パルに注入することでその才能を開花させる不思議なエキス。\r\nパルのランクを☆1から☆2に上昇させることができる。\r\nなぜか怨嗟の声が聞こえるようだ……",
+            "LocalizedString": "パルに注入することでその才能を開花させる不思議なエキス。\r\nパルのランクを☆1から☆2に上昇させることができる。\r\nなぜか怨嗟の声が聞こえるようだ……"
+        }
+    },
+    "ITEM_DESC_Rankup_3": {
+        "TextData": {
+            "Namespace": "DT_ItemDescriptionText",
+            "Key": "ITEM_DESC_Rankup_3_TextData",
+            "SourceString": "パルに注入することでその才能を開花させる不思議なエキス。\r\nパルのランクを☆2から☆3に上昇させることができる。\r\nなぜか怨嗟の声が聞こえるようだ……",
+            "LocalizedString": "パルに注入することでその才能を開花させる不思議なエキス。\r\nパルのランクを☆2から☆3に上昇させることができる。\r\nなぜか怨嗟の声が聞こえるようだ……"
+        }
+    },
+    "ITEM_DESC_Rankup_4": {
+        "TextData": {
+            "Namespace": "DT_ItemDescriptionText",
+            "Key": "ITEM_DESC_Rankup_4_TextData",
+            "SourceString": "パルに注入することでその才能を開花させる不思議なエキス。\r\nパルのランクを☆3から☆4に上昇させることができる。\r\nなぜか怨嗟の声が聞こえるようだ……",
+            "LocalizedString": "パルに注入することでその才能を開花させる不思議なエキス。\r\nパルのランクを☆3から☆4に上昇させることができる。\r\nなぜか怨嗟の声が聞こえるようだ……"
+        }
+    },
+    "ITEM_DESC_Rankup_Arbitrary": {
+        "TextData": {
+            "Namespace": "DT_ItemDescriptionText",
+            "Key": "ITEM_DESC_Rankup_Arbitrary_TextData",
+            "SourceString": "パルに注入することでその才能を開花させる不思議なエキス。\r\nパルのランクを1つ上昇させることができる。\r\nなぜか怨嗟の声が聞こえるようだ……",
+            "LocalizedString": "パルに注入することでその才能を開花させる不思議なエキス。\r\nパルのランクを1つ上昇させることができる。\r\nなぜか怨嗟の声が聞こえるようだ……"
+        }
+    },
+    "ITEM_DESC_HeadEquip001_purple": {
+        "TextData": {
+            "Namespace": "DT_ItemDescriptionText",
+            "Key": "ITEM_DESC_HeadEquip001_purple_TextData",
+            "SourceString": "ベラルージュ【極】の禍々しい力が感じられる。\r\nこれを手にするものは極めて稀。",
+            "LocalizedString": "ベラルージュ【極】の禍々しい力が感じられる。\r\nこれを手にするものは極めて稀。"
+        }
+    },
+    "ITEM_DESC_AncientTechnologyBook_G1": {
+        "TextData": {
+            "Namespace": "DT_ItemDescriptionText",
+            "Key": "ITEM_DESC_AncientTechnologyBook_G1_TextData",
+            "SourceString": "失われた古代技術が書かれた本。\r\n使うと、古代テクノロジーポイントを入手できる。",
+            "LocalizedString": "失われた古代技術が書かれた本。\r\n使うと、古代テクノロジーポイントを入手できる。"
         }
     }
 }

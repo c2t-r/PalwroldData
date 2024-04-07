@@ -10,15 +10,15 @@
         "ItemSlot1_ProbabilityPercent": 100.0,
         "ItemSlot2_ProbabilityPercent": 100.0,
         "ItemSlot3_ProbabilityPercent": 100.0,
-        "ItemSlot4_ProbabilityPercent": 100.0,
-        "ItemSlot5_ProbabilityPercent": 100.0
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
     },
     "Grass02": {
         "ItemSlot1_ProbabilityPercent": 100.0,
         "ItemSlot2_ProbabilityPercent": 100.0,
         "ItemSlot3_ProbabilityPercent": 100.0,
-        "ItemSlot4_ProbabilityPercent": 100.0,
-        "ItemSlot5_ProbabilityPercent": 100.0
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
     },
     "Grass03": {
         "ItemSlot1_ProbabilityPercent": 100.0,
@@ -52,57 +52,57 @@
         "ItemSlot1_ProbabilityPercent": 100.0,
         "ItemSlot2_ProbabilityPercent": 100.0,
         "ItemSlot3_ProbabilityPercent": 100.0,
-        "ItemSlot4_ProbabilityPercent": 100.0,
-        "ItemSlot5_ProbabilityPercent": 100.0
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
     },
     "Forest02": {
         "ItemSlot1_ProbabilityPercent": 100.0,
         "ItemSlot2_ProbabilityPercent": 100.0,
         "ItemSlot3_ProbabilityPercent": 100.0,
-        "ItemSlot4_ProbabilityPercent": 100.0,
-        "ItemSlot5_ProbabilityPercent": 100.0
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
     },
     "Desert01": {
         "ItemSlot1_ProbabilityPercent": 100.0,
         "ItemSlot2_ProbabilityPercent": 100.0,
         "ItemSlot3_ProbabilityPercent": 100.0,
-        "ItemSlot4_ProbabilityPercent": 100.0,
-        "ItemSlot5_ProbabilityPercent": 100.0
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
     },
     "Desert02": {
         "ItemSlot1_ProbabilityPercent": 100.0,
         "ItemSlot2_ProbabilityPercent": 100.0,
         "ItemSlot3_ProbabilityPercent": 100.0,
-        "ItemSlot4_ProbabilityPercent": 100.0,
-        "ItemSlot5_ProbabilityPercent": 100.0
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
     },
     "Volcano01": {
         "ItemSlot1_ProbabilityPercent": 100.0,
         "ItemSlot2_ProbabilityPercent": 100.0,
         "ItemSlot3_ProbabilityPercent": 100.0,
-        "ItemSlot4_ProbabilityPercent": 100.0,
-        "ItemSlot5_ProbabilityPercent": 100.0
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
     },
     "Volcano02": {
         "ItemSlot1_ProbabilityPercent": 100.0,
         "ItemSlot2_ProbabilityPercent": 100.0,
         "ItemSlot3_ProbabilityPercent": 100.0,
-        "ItemSlot4_ProbabilityPercent": 100.0,
-        "ItemSlot5_ProbabilityPercent": 100.0
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
     },
     "Snow01": {
         "ItemSlot1_ProbabilityPercent": 100.0,
         "ItemSlot2_ProbabilityPercent": 100.0,
         "ItemSlot3_ProbabilityPercent": 100.0,
-        "ItemSlot4_ProbabilityPercent": 100.0,
-        "ItemSlot5_ProbabilityPercent": 100.0
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
     },
     "Snow02": {
         "ItemSlot1_ProbabilityPercent": 100.0,
         "ItemSlot2_ProbabilityPercent": 100.0,
         "ItemSlot3_ProbabilityPercent": 100.0,
-        "ItemSlot4_ProbabilityPercent": 100.0,
-        "ItemSlot5_ProbabilityPercent": 100.0
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
     },
     "Wood": {
         "ItemSlot1_ProbabilityPercent": 100.0,
@@ -630,6 +630,111 @@
         "ItemSlot5_ProbabilityPercent": 0.0
     },
     "Fruits_Snow_1": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "CharacterSpawnItem_Kelpie_1": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "CharacterSpawnItem_Kelpie_2": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "CharacterSpawnItem_Kelpie_3": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "CharacterSpawnItem_Kelpie_4": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "CharacterSpawnItem_Kelpie_5": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "CharacterSpawnItem_Kelpie_Fire_1": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "CharacterSpawnItem_Kelpie_Fire_2": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "CharacterSpawnItem_Kelpie_Fire_3": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "CharacterSpawnItem_Kelpie_Fire_4": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "CharacterSpawnItem_Kelpie_Fire_5": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "CharacterSpawnItem_LazyCatFish_1": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "CharacterSpawnItem_LazyCatFish_2": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "CharacterSpawnItem_LazyCatFish_3": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "CharacterSpawnItem_LazyCatFish_4": {
+        "ItemSlot1_ProbabilityPercent": 100.0,
+        "ItemSlot2_ProbabilityPercent": 0.0,
+        "ItemSlot3_ProbabilityPercent": 0.0,
+        "ItemSlot4_ProbabilityPercent": 0.0,
+        "ItemSlot5_ProbabilityPercent": 0.0
+    },
+    "CharacterSpawnItem_LazyCatFish_5": {
         "ItemSlot1_ProbabilityPercent": 100.0,
         "ItemSlot2_ProbabilityPercent": 0.0,
         "ItemSlot3_ProbabilityPercent": 0.0,

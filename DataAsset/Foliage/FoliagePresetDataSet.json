@@ -55,6 +55,87 @@
                 "RespawnIntervalRealMinutes": 30,
                 "RetryRespawnIntervalRealMinutes": 1
             }
+        },
+        {
+            "EPalFoliagePresetType::NormalTree_L_CherryBlossom": {
+                "FoliageMapObjectId": {
+                    "Key": "None"
+                },
+                "HP": 1000,
+                "DamagedDropItems": [
+                    {
+                        "StaticItemId": {
+                            "Key": "Wood"
+                        },
+                        "Num": 20
+                    },
+                    {
+                        "StaticItemId": {
+                            "Key": "Fiber"
+                        },
+                        "Num": 6
+                    }
+                ],
+                "DropItemId": {
+                    "Key": "Wood"
+                },
+                "DropItemNum": 2,
+                "DropEXP": 5,
+                "DestroyFXType": "EPalMapObjectDestroyFXType::EPalMapObjectDestroyFXType_MAX",
+                "DistanceFromPlayerNotRespawn": 500.0,
+                "RespawnIntervalRealMinutes": 30,
+                "RetryRespawnIntervalRealMinutes": 1
+            }
+        },
+        {
+            "EPalFoliagePresetType::Mushroom_L": {
+                "FoliageMapObjectId": {
+                    "Key": "None"
+                },
+                "HP": 1000,
+                "DamagedDropItems": [
+                    {
+                        "StaticItemId": {
+                            "Key": "Mushroom"
+                        },
+                        "Num": 5
+                    }
+                ],
+                "DropItemId": {
+                    "Key": "Mushroom"
+                },
+                "DropItemNum": 1,
+                "DropEXP": 5,
+                "DestroyFXType": "EPalMapObjectDestroyFXType::13",
+                "DistanceFromPlayerNotRespawn": 500.0,
+                "RespawnIntervalRealMinutes": 30,
+                "RetryRespawnIntervalRealMinutes": 1
+            }
+        },
+        {
+            "EPalFoliagePresetType::Mushroom_S": {
+                "FoliageMapObjectId": {
+                    "Key": "None"
+                },
+                "HP": 300,
+                "DamagedDropItems": [
+                    {
+                        "StaticItemId": {
+                            "Key": "Mushroom"
+                        },
+                        "Num": 2
+                    }
+                ],
+                "DropItemId": {
+                    "Key": "Mushroom"
+                },
+                "DropItemNum": 1,
+                "DropEXP": 2,
+                "DestroyFXType": "EPalMapObjectDestroyFXType::13",
+                "DistanceFromPlayerNotRespawn": 500.0,
+                "RespawnIntervalRealMinutes": 30,
+                "RetryRespawnIntervalRealMinutes": 1
+            }
         }
     ]
 }

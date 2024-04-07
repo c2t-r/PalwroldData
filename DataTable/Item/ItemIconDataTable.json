@@ -2153,6 +2153,12 @@
             "SubPathString": ""
         }
     },
+    "TechnologyBook_G4": {
+        "Icon": {
+            "AssetPathName": "/Game/Others/InventoryItemIcon/Texture/T_itemicon_Consume_TechnologyBook_G4.T_itemicon_Consume_TechnologyBook_G4",
+            "SubPathString": ""
+        }
+    },
     "Pal_crystal_S": {
         "Icon": {
             "AssetPathName": "/Game/Others/InventoryItemIcon/Texture/T_itemicon_Material_Pal_crystal_S.T_itemicon_Material_Pal_crystal_S",
@@ -3362,6 +3368,180 @@
     "SkillUnlock_MultiMissile": {
         "Icon": {
             "AssetPathName": "/Game/Others/InventoryItemIcon/Texture/T_itemicon_Essential_SkillUnlock_MultiMissile.T_itemicon_Essential_SkillUnlock_MultiMissile",
+            "SubPathString": ""
+        }
+    },
+    "PalSummon_NightLady": {
+        "Icon": {
+            "AssetPathName": "/Game/Others/InventoryItemIcon/Texture/T_itemicon_Consume_PalSummon_NightLady.T_itemicon_Consume_PalSummon_NightLady",
+            "SubPathString": ""
+        }
+    },
+    "PalSummon_NightLady_Parts": {
+        "Icon": {
+            "AssetPathName": "/Game/Others/InventoryItemIcon/Texture/T_itemicon_Blueprint_PalSummon_NightLady_Parts.T_itemicon_Blueprint_PalSummon_NightLady_Parts",
+            "SubPathString": ""
+        }
+    },
+    "PalSummon_NightLady_Dark": {
+        "Icon": {
+            "AssetPathName": "/Game/Others/InventoryItemIcon/Texture/T_itemicon_Consume_PalSummon_NightLady_Dark.T_itemicon_Consume_PalSummon_NightLady_Dark",
+            "SubPathString": ""
+        }
+    },
+    "PalSummon_NightLady_Dark_Parts": {
+        "Icon": {
+            "AssetPathName": "/Game/Others/InventoryItemIcon/Texture/T_itemicon_Blueprint_PalSummon_NightLady_Dark_Parts.T_itemicon_Blueprint_PalSummon_NightLady_Dark_Parts",
+            "SubPathString": ""
+        }
+    },
+    "PalItem_PinkRabbit": {
+        "Icon": {
+            "AssetPathName": "/Game/Others/InventoryItemIcon/Texture/T_itemicon_Material_PalItem_PinkRabbit.T_itemicon_Material_PalItem_PinkRabbit",
+            "SubPathString": ""
+        }
+    },
+    "PalItem_MopBaby": {
+        "Icon": {
+            "AssetPathName": "/Game/Others/InventoryItemIcon/Texture/T_itemicon_Material_PalItem_MopBaby.T_itemicon_Material_PalItem_MopBaby",
+            "SubPathString": ""
+        }
+    },
+    "PalItem_NegativeOctopus": {
+        "Icon": {
+            "AssetPathName": "/Game/Others/InventoryItemIcon/Texture/T_itemicon_Material_PalItem_NegativeOctopus.T_itemicon_Material_PalItem_NegativeOctopus",
+            "SubPathString": ""
+        }
+    },
+    "PalItem_RaijinDaughter": {
+        "Icon": {
+            "AssetPathName": "/Game/Others/InventoryItemIcon/Texture/T_itemicon_Material_PalItem_RaijinDaughter.T_itemicon_Material_PalItem_RaijinDaughter",
+            "SubPathString": ""
+        }
+    },
+    "PalItem_LizardMan": {
+        "Icon": {
+            "AssetPathName": "/Game/Others/InventoryItemIcon/Texture/T_itemicon_Material_PalItem_LizardMan.T_itemicon_Material_PalItem_LizardMan",
+            "SubPathString": ""
+        }
+    },
+    "Potion_Low": {
+        "Icon": {
+            "AssetPathName": "/Game/Others/InventoryItemIcon/Texture/T_itemicon_Food_Potion_Low.T_itemicon_Food_Potion_Low",
+            "SubPathString": ""
+        }
+    },
+    "Potion": {
+        "Icon": {
+            "AssetPathName": "/Game/Others/InventoryItemIcon/Texture/T_itemicon_Food_Potion.T_itemicon_Food_Potion",
+            "SubPathString": ""
+        }
+    },
+    "Potion_High": {
+        "Icon": {
+            "AssetPathName": "/Game/Others/InventoryItemIcon/Texture/T_itemicon_Food_Potion_High.T_itemicon_Food_Potion_High",
+            "SubPathString": ""
+        }
+    },
+    "Accessory_TalentChecker": {
+        "Icon": {
+            "AssetPathName": "/Game/Others/InventoryItemIcon/Texture/T_itemicon_Accessory_TalentChecker.T_itemicon_Accessory_TalentChecker",
+            "SubPathString": ""
+        }
+    },
+    "HealingMushroom": {
+        "Icon": {
+            "AssetPathName": "/Game/Others/InventoryItemIcon/Texture/T_itemicon_Food_HealingMushroom.T_itemicon_Food_HealingMushroom",
+            "SubPathString": ""
+        }
+    },
+    "AncientParts2": {
+        "Icon": {
+            "AssetPathName": "/Game/Others/InventoryItemIcon/Texture/T_itemicon_Material_AncientParts2.T_itemicon_Material_AncientParts2",
+            "SubPathString": ""
+        }
+    },
+    "Homeward": {
+        "Icon": {
+            "AssetPathName": "/Game/Others/InventoryItemIcon/Texture/T_itemicon_Consume_Homeward.T_itemicon_Consume_Homeward",
+            "SubPathString": ""
+        }
+    },
+    "Accessory_HeatColdResist": {
+        "Icon": {
+            "AssetPathName": "/Game/Others/InventoryItemIcon/Texture/T_itemicon_Accessory_HeatColdResist_1.T_itemicon_Accessory_HeatColdResist_1",
+            "SubPathString": ""
+        }
+    },
+    "Accessory_Nonkilling": {
+        "Icon": {
+            "AssetPathName": "/Game/Others/InventoryItemIcon/Texture/T_itemicon_Accessory_Nonkilling.T_itemicon_Accessory_Nonkilling",
+            "SubPathString": ""
+        }
+    },
+    "HeadEquip001_purple": {
+        "Icon": {
+            "AssetPathName": "/Game/Others/InventoryItemIcon/Texture/T_itemicon_Armor_Head001_purple.T_itemicon_Armor_Head001_purple",
+            "SubPathString": ""
+        }
+    },
+    "PalSummon_NightLady_Dark_2": {
+        "Icon": {
+            "AssetPathName": "/Game/Others/InventoryItemIcon/Texture/T_itemicon_Consume_PalSummon_NightLady_Dark_2.T_itemicon_Consume_PalSummon_NightLady_Dark_2",
+            "SubPathString": ""
+        }
+    },
+    "PalSummon_NightLady_Dark_Parts_2": {
+        "Icon": {
+            "AssetPathName": "/Game/Others/InventoryItemIcon/Texture/T_itemicon_Blueprint_PalSummon_NightLady_Dark_Parts_2.T_itemicon_Blueprint_PalSummon_NightLady_Dark_Parts_2",
+            "SubPathString": ""
+        }
+    },
+    "ExpBoost_01": {
+        "Icon": {
+            "AssetPathName": "/Game/Others/InventoryItemIcon/Texture/T_itemicon_Consume_ExpBoost_01.T_itemicon_Consume_ExpBoost_01",
+            "SubPathString": ""
+        }
+    },
+    "ExpBoost_02": {
+        "Icon": {
+            "AssetPathName": "/Game/Others/InventoryItemIcon/Texture/T_itemicon_Consume_ExpBoost_02.T_itemicon_Consume_ExpBoost_02",
+            "SubPathString": ""
+        }
+    },
+    "ExpBoost_03": {
+        "Icon": {
+            "AssetPathName": "/Game/Others/InventoryItemIcon/Texture/T_itemicon_Consume_ExpBoost_03.T_itemicon_Consume_ExpBoost_03",
+            "SubPathString": ""
+        }
+    },
+    "ExpBoost_04": {
+        "Icon": {
+            "AssetPathName": "/Game/Others/InventoryItemIcon/Texture/T_itemicon_Consume_ExpBoost_04.T_itemicon_Consume_ExpBoost_04",
+            "SubPathString": ""
+        }
+    },
+    "LvUP_01": {
+        "Icon": {
+            "AssetPathName": "/Game/Others/InventoryItemIcon/Texture/T_itemicon_Consume_LvUP_01.T_itemicon_Consume_LvUP_01",
+            "SubPathString": ""
+        }
+    },
+    "Fruit_hp_01": {
+        "Icon": {
+            "AssetPathName": "/Game/Others/InventoryItemIcon/Texture/T_itemicon_Food_Fruit_hp_01.T_itemicon_Food_Fruit_hp_01",
+            "SubPathString": ""
+        }
+    },
+    "Fruit_attack_01": {
+        "Icon": {
+            "AssetPathName": "/Game/Others/InventoryItemIcon/Texture/T_itemicon_Food_Fruit_attack_01.T_itemicon_Food_Fruit_attack_01",
+            "SubPathString": ""
+        }
+    },
+    "Fruit__defense_01": {
+        "Icon": {
+            "AssetPathName": "/Game/Others/InventoryItemIcon/Texture/T_itemicon_Food_Fruit__defense_01.T_itemicon_Food_Fruit__defense_01",
             "SubPathString": ""
         }
     }

@@ -887,6 +887,30 @@
             "LocalizedString": "耐寒Lv3"
         }
     },
+    "PASSIVE_TemperatureResist_Heat1Cold1": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_TemperatureResist_Heat1Cold1_TextData",
+            "SourceString": "耐暑Lv1 / 耐寒Lv1",
+            "LocalizedString": "耐暑Lv1 / 耐寒Lv1"
+        }
+    },
+    "PASSIVE_TemperatureResist_Heat2Cold2": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_TemperatureResist_Heat2Cold2_TextData",
+            "SourceString": "耐暑Lv2 / 耐寒Lv2",
+            "LocalizedString": "耐暑Lv2 / 耐寒Lv2"
+        }
+    },
+    "PASSIVE_TemperatureResist_Heat3Cold3": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_TemperatureResist_Heat3Cold3_TextData",
+            "SourceString": "耐暑Lv3 / 耐寒Lv3",
+            "LocalizedString": "耐暑Lv3 / 耐寒Lv3"
+        }
+    },
     "PASSIVE_Rare": {
         "TextData": {
             "Namespace": "DT_SkillNameText",
@@ -1847,6 +1871,30 @@
             "LocalizedString": "グラスボーリング"
         }
     },
+    "ACTION_SKILL_Unique_NightLady_WarpBeam_Straight": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Unique_NightLady_WarpBeam_Straight_TextData",
+            "SourceString": "ナイトメアレイ",
+            "LocalizedString": "ナイトメアレイ"
+        }
+    },
+    "ACTION_SKILL_Unique_NightLady_WarpBeam": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Unique_NightLady_WarpBeam_TextData",
+            "SourceString": "ナイトメアレイブルーム",
+            "LocalizedString": "ナイトメアレイブルーム"
+        }
+    },
+    "ACTION_SKILL_Unique_NightLady_FlameNightmare": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Unique_NightLady_FlameNightmare_TextData",
+            "SourceString": "フレイムワルツ",
+            "LocalizedString": "フレイムワルツ"
+        }
+    },
     "ACTION_SKILL_PoisonFog": {
         "TextData": {
             "Namespace": "DT_SkillNameText",
@@ -2291,8 +2339,8 @@
         "TextData": {
             "Namespace": "DT_SkillNameText",
             "Key": "ACTION_SKILL_Tremor_TextData",
-            "SourceString": "バーストロック",
-            "LocalizedString": "バーストロック"
+            "SourceString": "ロックバースト",
+            "LocalizedString": "ロックバースト"
         }
     },
     "ACTION_SKILL_DarkLaser": {
@@ -2365,6 +2413,38 @@
             "Key": "ACTION_SKILL_DarkFog_TextData",
             "SourceString": "ダークフォグ",
             "LocalizedString": "ダークフォグ"
+        }
+    },
+    "ACTION_SKILL_DarkCanon": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_DarkCanon_TextData",
+            "SourceString": "ダークキャノン",
+            "LocalizedString": "ダークキャノン"
+        }
+    },
+    "ACTION_SKILL_DarkArrow": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_DarkArrow_TextData",
+            "SourceString": "ダークアロー",
+            "LocalizedString": "ダークアロー"
+        }
+    },
+    "ACTION_SKILL_DarkPulse": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_DarkPulse_TextData",
+            "SourceString": "スプレッドダーク",
+            "LocalizedString": "スプレッドダーク"
+        }
+    },
+    "ACTION_SKILL_Apocalypse": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "ACTION_SKILL_Apocalypse_TextData",
+            "SourceString": "アポカリプス",
+            "LocalizedString": "アポカリプス"
         }
     },
     "ACTION_SKILL_DragonMeteor": {
@@ -3799,6 +3879,22 @@
             "LocalizedString": "仮テキスト"
         }
     },
+    "PARTNERSKILL_NightLady": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_NightLady_TextData",
+            "SourceString": "悪夢の瞳",
+            "LocalizedString": "悪夢の瞳"
+        }
+    },
+    "PARTNERSKILL_NightLady_Dark": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PARTNERSKILL_NightLady_Dark_TextData",
+            "SourceString": "悪夢の視線",
+            "LocalizedString": "悪夢の視線"
+        }
+    },
     "PASSIVE_TrainerATK_UP_1": {
         "TextData": {
             "Namespace": "DT_SkillNameText",
@@ -4061,6 +4157,14 @@
             "Key": "PASSIVE_NonKilling_TextData",
             "SourceString": "手加減",
             "LocalizedString": "手加減"
+        }
+    },
+    "PASSIVE_Witch": {
+        "TextData": {
+            "Namespace": "DT_SkillNameText",
+            "Key": "PASSIVE_Witch_TextData",
+            "SourceString": "魔女",
+            "LocalizedString": "魔女"
         }
     }
 }

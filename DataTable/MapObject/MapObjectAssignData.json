@@ -637,6 +637,28 @@
         "WorkerMaxNum": 0,
         "AffectSanityValue": -0.15
     },
+    "CopperPit_0": {
+        "GenusCategory": "EPalGenusCategoryType::None",
+        "ElementType": "EPalElementType::None",
+        "WorkSuitability": "EPalWorkSuitability::Mining",
+        "WorkSuitabilityRank": 1,
+        "bPlayerWorkable": true,
+        "WorkType": "EPalWorkType::ProductResource_Mining_OnFacility",
+        "WorkActionType": "EPalActionType::Mining",
+        "WorkerMaxNum": 0,
+        "AffectSanityValue": -0.15
+    },
+    "CopperPit_2_0": {
+        "GenusCategory": "EPalGenusCategoryType::None",
+        "ElementType": "EPalElementType::None",
+        "WorkSuitability": "EPalWorkSuitability::Mining",
+        "WorkSuitabilityRank": 1,
+        "bPlayerWorkable": true,
+        "WorkType": "EPalWorkType::ProductResource_Mining_OnFacility",
+        "WorkActionType": "EPalActionType::Mining",
+        "WorkerMaxNum": 0,
+        "AffectSanityValue": -0.15
+    },
     "ElectricGenerator2_0": {
         "GenusCategory": "EPalGenusCategoryType::None",
         "ElementType": "EPalElementType::None",
@@ -902,6 +924,17 @@
         "AffectSanityValue": -0.1
     },
     "HatchingPalEgg_0": {
+        "GenusCategory": "EPalGenusCategoryType::None",
+        "ElementType": "EPalElementType::None",
+        "WorkSuitability": "EPalWorkSuitability::None",
+        "WorkSuitabilityRank": 1,
+        "bPlayerWorkable": true,
+        "WorkType": "EPalWorkType::CommonTemp",
+        "WorkActionType": "EPalActionType::CommonWork",
+        "WorkerMaxNum": 1,
+        "AffectSanityValue": -0.11
+    },
+    "ElectricHatchingPalEgg_0": {
         "GenusCategory": "EPalGenusCategoryType::None",
         "ElementType": "EPalElementType::None",
         "WorkSuitability": "EPalWorkSuitability::None",

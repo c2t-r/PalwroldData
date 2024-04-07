@@ -658,5 +658,9 @@
     "Yeti_Grass": {
         "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 17,
         "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
+    },
+    "NightLady_Dark": {
+        "TextureID_8_2B2F889C43EB586246BDB981B6462ACA": 1,
+        "IsSquare_5_116F13E54A95BA260E4C56848C50332E": false
     }
 }

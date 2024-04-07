@@ -229,13 +229,13 @@
     },
     "SnowBoss2": {
         "Texture": {
-            "AssetPathName": "/Game/Pal/Texture/Note/T_Note_SnowBoss2.T_Note_SnowBoss2",
+            "AssetPathName": "/Game/Pal/Texture/Note/T_Note_SnowBoss3.T_Note_SnowBoss3",
             "SubPathString": ""
         }
     },
     "SnowBoss3": {
         "Texture": {
-            "AssetPathName": "/Game/Pal/Texture/Note/T_Note_SnowBoss3.T_Note_SnowBoss3",
+            "AssetPathName": "/Game/Pal/Texture/Note/T_Note_SnowBoss2.T_Note_SnowBoss2",
             "SubPathString": ""
         }
     },

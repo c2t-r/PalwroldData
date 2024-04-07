@@ -466,5 +466,86 @@
         "IncidentId": "NPCTalk_Common",
         "IncidentArgs1": "CharacterTalk",
         "IncidentArgs2": "SalesPerson"
+    },
+    "Talk_BadPolice": {
+        "UniqueNPCID": "BadPolice",
+        "CharacterID": "None",
+        "InteractionType": "EPalInteractiveObjectIndicatorType::Talk",
+        "Conditions": "None",
+        "IncidentId": "NPCTalk_Common",
+        "IncidentArgs1": "MultiTalk",
+        "IncidentArgs2": "BadPolice"
+    },
+    "Talk_BadPoliceDrugSeller": {
+        "UniqueNPCID": "BadPoliceDrugSeller",
+        "CharacterID": "None",
+        "InteractionType": "EPalInteractiveObjectIndicatorType::Talk",
+        "Conditions": "None",
+        "IncidentId": "NPCTalk_Common",
+        "IncidentArgs1": "MultiTalk",
+        "IncidentArgs2": "BadPoliceDrugSeller"
+    },
+    "BattlePaltamer001": {
+        "UniqueNPCID": "BattlePaltamer001",
+        "CharacterID": "None",
+        "InteractionType": "EPalInteractiveObjectIndicatorType::Talk",
+        "Conditions": "None",
+        "IncidentId": "NPCTalk_Common",
+        "IncidentArgs1": "MultiTalk",
+        "IncidentArgs2": "BattlePaltamer001"
+    },
+    "BattlePaltamer002": {
+        "UniqueNPCID": "BattlePaltamer002",
+        "CharacterID": "None",
+        "InteractionType": "EPalInteractiveObjectIndicatorType::Talk",
+        "Conditions": "None",
+        "IncidentId": "NPCTalk_Common",
+        "IncidentArgs1": "MultiTalk",
+        "IncidentArgs2": "BattlePaltamer002"
+    },
+    "BattlePaltamer003": {
+        "UniqueNPCID": "BattlePaltamer003",
+        "CharacterID": "None",
+        "InteractionType": "EPalInteractiveObjectIndicatorType::Talk",
+        "Conditions": "None",
+        "IncidentId": "NPCTalk_Common",
+        "IncidentArgs1": "MultiTalk",
+        "IncidentArgs2": "BattlePaltamer003"
+    },
+    "BattlePaltamer004": {
+        "UniqueNPCID": "BattlePaltamer004",
+        "CharacterID": "None",
+        "InteractionType": "EPalInteractiveObjectIndicatorType::Talk",
+        "Conditions": "None",
+        "IncidentId": "NPCTalk_Common",
+        "IncidentArgs1": "MultiTalk",
+        "IncidentArgs2": "BattlePaltamer004"
+    },
+    "BattlePaltamer005": {
+        "UniqueNPCID": "BattlePaltamer005",
+        "CharacterID": "None",
+        "InteractionType": "EPalInteractiveObjectIndicatorType::Talk",
+        "Conditions": "None",
+        "IncidentId": "NPCTalk_Common",
+        "IncidentArgs1": "MultiTalk",
+        "IncidentArgs2": "BattlePaltamer005"
+    },
+    "BattlePaltamer006": {
+        "UniqueNPCID": "BattlePaltamer006",
+        "CharacterID": "None",
+        "InteractionType": "EPalInteractiveObjectIndicatorType::Talk",
+        "Conditions": "None",
+        "IncidentId": "NPCTalk_Common",
+        "IncidentArgs1": "MultiTalk",
+        "IncidentArgs2": "BattlePaltamer006"
+    },
+    "MerchantwithPAL": {
+        "UniqueNPCID": "MerchantwithPAL",
+        "CharacterID": "None",
+        "InteractionType": "EPalInteractiveObjectIndicatorType::Talk",
+        "Conditions": "None",
+        "IncidentId": "NPCTalk_Common",
+        "IncidentArgs1": "MultiTalk",
+        "IncidentArgs2": "MerchantwithPAL"
     }
 }

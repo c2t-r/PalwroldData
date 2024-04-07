@@ -155,8 +155,8 @@
         "TextData": {
             "Namespace": "DT_UI_Common_Text",
             "Key": "COMMON_TUTORIAL_TextData",
-            "SourceString": "チュートリアル",
-            "LocalizedString": "チュートリアル"
+            "SourceString": "Journey",
+            "LocalizedString": "Journey"
         }
     },
     "COMMON_ON": {
@@ -5723,8 +5723,8 @@
         "TextData": {
             "Namespace": "DT_UI_Common_Text",
             "Key": "RANKUP_INVOKE_SUCCESS_TextData",
-            "SourceString": "濃縮成功！\r\n尊い犠牲によりパルが強くなりました",
-            "LocalizedString": "濃縮成功！\r\n尊い犠牲によりパルが強くなりました"
+            "SourceString": "濃縮成功！\r\nパルたちの尊い犠牲が<Blue_16>{PalName}</>の力になりました！",
+            "LocalizedString": "濃縮成功！\r\nパルたちの尊い犠牲が<Blue_16>{PalName}</>の力になりました！"
         }
     },
     "RANKUP_COLLECT_RESOURCE_AUTO_BUTTON_NEWER": {
@@ -7051,8 +7051,8 @@
         "TextData": {
             "Namespace": "DT_UI_Common_Text",
             "Key": "CHARACTER_CREATION_CHECK_START_TextData",
-            "SourceString": "キャラクター作成を完了し\r\nゲームを開始してよろしいですか？\r\n\r\n<NumRed_12>ゲームを開始すると、キャラクターの再編集はできません。</>\r\n<NumRed_12>※再編集機能は今後のアップデートにて追加予定です。</>",
-            "LocalizedString": "キャラクター作成を完了し\r\nゲームを開始してよろしいですか？\r\n\r\n<NumRed_12>ゲームを開始すると、キャラクターの再編集はできません。</>\r\n<NumRed_12>※再編集機能は今後のアップデートにて追加予定です。</>"
+            "SourceString": "キャラクター作成を完了し\r\nゲームを開始してよろしいですか？",
+            "LocalizedString": "キャラクター作成を完了し\r\nゲームを開始してよろしいですか？"
         }
     },
     "CHARACTER_CREATION_ZOOM": {
@@ -11331,8 +11331,8 @@
         "TextData": {
             "Namespace": "DT_UI_Common_Text",
             "Key": "RANKUP_DIALOG_HIGHRANK_TextData",
-            "SourceString": "高ランクのパルがエキス素材として選択されています！\r\n本当によろしいですか？",
-            "LocalizedString": "高ランクのパルがエキス素材として選択されています！\r\n本当によろしいですか？"
+            "SourceString": "<NumRed_12>高ランクのパルがエキス素材として選択されています！</>\r\n<NumRed_12>本当によろしいですか？</>",
+            "LocalizedString": "<NumRed_12>高ランクのパルがエキス素材として選択されています！</>\r\n<NumRed_12>本当によろしいですか？</>"
         }
     },
     "RANKUP_DIALOG_MAXRANK": {
@@ -11443,16 +11443,16 @@
         "TextData": {
             "Namespace": "DT_UI_Common_Text",
             "Key": "INTERACT_INDICATOR_SummonRaidBoss_TextData",
-            "SourceString": "[長押し] 強大なパルを召喚する",
-            "LocalizedString": "[長押し] 強大なパルを召喚する"
+            "SourceString": "強大なパルを召喚する",
+            "LocalizedString": "強大なパルを召喚する"
         }
     },
     "INTERACT_INDICATOR_SummonRaidBoss_RequireMaterial": {
         "TextData": {
             "Namespace": "DT_UI_Common_Text",
             "Key": "INTERACT_INDICATOR_SummonRaidBoss_RequireMaterial_TextData",
-            "SourceString": "[長押し] 強大なパルを召喚する（パルの石板が必要）",
-            "LocalizedString": "[長押し] 強大なパルを召喚する（パルの石板が必要）"
+            "SourceString": "強大なパルを召喚する（パルの石板が必要）",
+            "LocalizedString": "強大なパルを召喚する（パルの石板が必要）"
         }
     },
     "BUILDING_MENU_GUIDE_CHANGE_MODE": {
@@ -11591,6 +11591,86 @@
             "LocalizedString": "素材"
         }
     },
+    "ITEM_FILTER_WOOD": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "ITEM_FILTER_WOOD_TextData",
+            "SourceString": "木材",
+            "LocalizedString": "木材"
+        }
+    },
+    "ITEM_FILTER_STONE": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "ITEM_FILTER_STONE_TextData",
+            "SourceString": "石材",
+            "LocalizedString": "石材"
+        }
+    },
+    "ITEM_FILTER_MONSTER": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "ITEM_FILTER_MONSTER_TextData",
+            "SourceString": "パル素材",
+            "LocalizedString": "パル素材"
+        }
+    },
+    "ITEM_FILTER_PALEGG": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "ITEM_FILTER_PALEGG_TextData",
+            "SourceString": "パルのタマゴ",
+            "LocalizedString": "パルのタマゴ"
+        }
+    },
+    "ITEM_FILTER_PROCESSING": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "ITEM_FILTER_PROCESSING_TextData",
+            "SourceString": "加工素材",
+            "LocalizedString": "加工素材"
+        }
+    },
+    "ITEM_FILTER_INGOT": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "ITEM_FILTER_INGOT_TextData",
+            "SourceString": "インゴット",
+            "LocalizedString": "インゴット"
+        }
+    },
+    "ITEM_FILTER_MATERIALOTHER": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "ITEM_FILTER_MATERIALOTHER_TextData",
+            "SourceString": "その他素材",
+            "LocalizedString": "その他素材"
+        }
+    },
+    "ITEM_FILTER_WAZAMACHINE": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "ITEM_FILTER_WAZAMACHINE_TextData",
+            "SourceString": "技の実",
+            "LocalizedString": "技の実"
+        }
+    },
+    "ITEM_FILTER_CONSUMEUPGRADE": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "ITEM_FILTER_CONSUMEUPGRADE_TextData",
+            "SourceString": "強化アイテム",
+            "LocalizedString": "強化アイテム"
+        }
+    },
+    "ITEM_FILTER_CONSUMEOTHER": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "ITEM_FILTER_CONSUMEOTHER_TextData",
+            "SourceString": "その他消費アイテム",
+            "LocalizedString": "その他消費アイテム"
+        }
+    },
     "ITEM_FILTER_BLUEPRINT": {
         "TextData": {
             "Namespace": "DT_UI_Common_Text",
@@ -11669,6 +11749,502 @@
             "Key": "MAPOBJECT_OPERATION_FailedExceedMaxNumInBaseCamp_TextData",
             "SourceString": "拠点内の最大建築数を超えているため、これ以上建築できません",
             "LocalizedString": "拠点内の最大建築数を超えているため、これ以上建築できません"
+        }
+    },
+    "USE_ITEM_DIALOG_GAIN_STATUS_POINTS": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "USE_ITEM_DIALOG_GAIN_STATUS_POINTS_TextData",
+            "SourceString": "{ItemName}を消費して\r\nステータスを上昇させます。\r\nよろしいですか？",
+            "LocalizedString": "{ItemName}を消費して\r\nステータスを上昇させます。\r\nよろしいですか？"
+        }
+    },
+    "THROWABLE_TARGET_TYPE_Rest": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "THROWABLE_TARGET_TYPE_Rest_TextData",
+            "SourceString": "パルが休憩します",
+            "LocalizedString": "パルが休憩します"
+        }
+    },
+    "SETTING_UI_DAMAGE_SCALE": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "SETTING_UI_DAMAGE_SCALE_TextData",
+            "SourceString": "ダメージ表記の大きさ",
+            "LocalizedString": "ダメージ表記の大きさ"
+        }
+    },
+    "ITEM_PARAMETER_HP_REGENE": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "ITEM_PARAMETER_HP_REGENE_TextData",
+            "SourceString": "HP回復",
+            "LocalizedString": "HP回復"
+        }
+    },
+    "ITEM_PARAMETER_HP_REGENE_DURATION": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "ITEM_PARAMETER_HP_REGENE_DURATION_TextData",
+            "SourceString": "回復時間",
+            "LocalizedString": "回復時間"
+        }
+    },
+    "GUILD_REQUESTED_JOIN_CONFIRM_DIALOG_LoseLastBaseCamp": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "GUILD_REQUESTED_JOIN_CONFIRM_DIALOG_LoseLastBaseCamp_TextData",
+            "SourceString": "相手のギルドに加入すると\r\n現在所属しているギルドの拠点が\r\n使えなくなりますが、よろしいですか？",
+            "LocalizedString": "相手のギルドに加入すると\r\n現在所属しているギルドの拠点が\r\n使えなくなりますが、よろしいですか？"
+        }
+    },
+    "GUILD_JOIN_REQUEST_RESULT_Failed_TooManyRequest": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "GUILD_JOIN_REQUEST_RESULT_Failed_TooManyRequest_TextData",
+            "SourceString": "少し時間を空けてから、再度申請してください。",
+            "LocalizedString": "少し時間を空けてから、再度申請してください。"
+        }
+    },
+    "RAID_BOSS_SUMMON_CONFIRM_DIALOG": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "RAID_BOSS_SUMMON_CONFIRM_DIALOG_TextData",
+            "SourceString": "強大なボスが拠点に召喚されると\r\n<NumRed_20>拠点の施設のすべてが破壊され</>\r\n<NumRed_20>拠点にいるパルが瀕死になる恐れがあります。</>\r\n本当に召喚しますか？",
+            "LocalizedString": "強大なボスが拠点に召喚されると\r\n<NumRed_20>拠点の施設のすべてが破壊され</>\r\n<NumRed_20>拠点にいるパルが瀕死になる恐れがあります。</>\r\n本当に召喚しますか？"
+        }
+    },
+    "BASECAMP_INFO_WORKER_WORK_MODE": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "BASECAMP_INFO_WORKER_WORK_MODE_TextData",
+            "SourceString": "パルの労働体制",
+            "LocalizedString": "パルの労働体制"
+        }
+    },
+    "BASECAMP_INFO_WORKER_BATTLE_MODE": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "BASECAMP_INFO_WORKER_BATTLE_MODE_TextData",
+            "SourceString": "パルの警戒態勢",
+            "LocalizedString": "パルの警戒態勢"
+        }
+    },
+    "BASECAMP_INFO_WORKER_BATTLE_MODE_AttackToEnemyInBaseCamp": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "BASECAMP_INFO_WORKER_BATTLE_MODE_AttackToEnemyInBaseCamp_TextData",
+            "SourceString": "外敵を迎撃します",
+            "LocalizedString": "外敵を迎撃します"
+        }
+    },
+    "BASECAMP_INFO_WORKER_BATTLE_MODE_NoBattle": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "BASECAMP_INFO_WORKER_BATTLE_MODE_NoBattle_TextData",
+            "SourceString": "作業に専念します",
+            "LocalizedString": "作業に専念します"
+        }
+    },
+    "INTERACT_INDICATOR_OpenWorkHardMenu": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "INTERACT_INDICATOR_OpenWorkHardMenu_TextData",
+            "SourceString": "働き方指示",
+            "LocalizedString": "働き方指示"
+        }
+    },
+    "INTERACT_INDICATOR_OpenWorkSuitabilityPreferenceMenu": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "INTERACT_INDICATOR_OpenWorkSuitabilityPreferenceMenu_TextData",
+            "SourceString": "作業指示",
+            "LocalizedString": "作業指示"
+        }
+    },
+    "RETURNTOBASECAMP_ITEM_CONSUME_NOTICE": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "RETURNTOBASECAMP_ITEM_CONSUME_NOTICE_TextData",
+            "SourceString": "拠点に戻ります\r\nよろしいですか？",
+            "LocalizedString": "拠点に戻ります\r\nよろしいですか？"
+        }
+    },
+    "CANTUSERETURNTOBASECAMP_ITEM": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "CANTUSERETURNTOBASECAMP_ITEM_TextData",
+            "SourceString": "ここでは使えません",
+            "LocalizedString": "ここでは使えません"
+        }
+    },
+    "SETTING_UI_DAMAGE_DISPLAY_NUM": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "SETTING_UI_DAMAGE_DISPLAY_NUM_TextData",
+            "SourceString": "ダメージ表記の最大表示数",
+            "LocalizedString": "ダメージ表記の最大表示数"
+        }
+    },
+    "PAL_RANKUP_BY_ITEM": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "PAL_RANKUP_BY_ITEM_TextData",
+            "SourceString": "犠牲となったパルたちのエキスを注入し、<Blue_16>{PalName}</> のランクが上昇した！",
+            "LocalizedString": "犠牲となったパルたちのエキスを注入し、<Blue_16>{PalName}</> のランクが上昇した！"
+        }
+    },
+    "SETTING_UI_TUTORIAL_DISPLAY": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "SETTING_UI_TUTORIAL_DISPLAY_TextData",
+            "SourceString": "Journey表示",
+            "LocalizedString": "Journey表示"
+        }
+    },
+    "INPUT_ACTION_CanTransportOut": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "INPUT_ACTION_CanTransportOut_TextData",
+            "SourceString": "パルによる運搬を許可",
+            "LocalizedString": "パルによる運搬を許可"
+        }
+    },
+    "WORKER_SUITABILITY_SETTING_FREE_ASSIGN": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "WORKER_SUITABILITY_SETTING_FREE_ASSIGN_TextData",
+            "SourceString": "フリー",
+            "LocalizedString": "フリー"
+        }
+    },
+    "WORKER_SUITABILITY_SETTING_FIXED_ASSIGN": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "WORKER_SUITABILITY_SETTING_FIXED_ASSIGN_TextData",
+            "SourceString": "固定",
+            "LocalizedString": "固定"
+        }
+    },
+    "WORKER_SUITABILITY_SETTING_INFO": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "WORKER_SUITABILITY_SETTING_INFO_TextData",
+            "SourceString": "拠点パルの行う作業を許可/禁止できます。",
+            "LocalizedString": "拠点パルの行う作業を許可/禁止できます。"
+        }
+    },
+    "ADDITIONAL_EFFECT_Stun": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "ADDITIONAL_EFFECT_Stun_TextData",
+            "SourceString": "スタン",
+            "LocalizedString": "スタン"
+        }
+    },
+    "ADDITIONAL_EFFECT_Sleep": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "ADDITIONAL_EFFECT_Sleep_TextData",
+            "SourceString": "昏睡",
+            "LocalizedString": "昏睡"
+        }
+    },
+    "ADDITIONAL_EFFECT_Poison": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "ADDITIONAL_EFFECT_Poison_TextData",
+            "SourceString": "毒",
+            "LocalizedString": "毒"
+        }
+    },
+    "ADDITIONAL_EFFECT_Burn": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "ADDITIONAL_EFFECT_Burn_TextData",
+            "SourceString": "炎上",
+            "LocalizedString": "炎上"
+        }
+    },
+    "ADDITIONAL_EFFECT_Wetness": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "ADDITIONAL_EFFECT_Wetness_TextData",
+            "SourceString": "ずぶ濡れ",
+            "LocalizedString": "ずぶ濡れ"
+        }
+    },
+    "ADDITIONAL_EFFECT_Freeze": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "ADDITIONAL_EFFECT_Freeze_TextData",
+            "SourceString": "氷まみれ",
+            "LocalizedString": "氷まみれ"
+        }
+    },
+    "ADDITIONAL_EFFECT_Electrical": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "ADDITIONAL_EFFECT_Electrical_TextData",
+            "SourceString": "帯電",
+            "LocalizedString": "帯電"
+        }
+    },
+    "ADDITIONAL_EFFECT_Muddy": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "ADDITIONAL_EFFECT_Muddy_TextData",
+            "SourceString": "泥まみれ",
+            "LocalizedString": "泥まみれ"
+        }
+    },
+    "ADDITIONAL_EFFECT_IvyCling": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "ADDITIONAL_EFFECT_IvyCling_TextData",
+            "SourceString": "ツタまみれ",
+            "LocalizedString": "ツタまみれ"
+        }
+    },
+    "ADDITIONAL_EFFECT_Darkness": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "ADDITIONAL_EFFECT_Darkness_TextData",
+            "SourceString": "暗闇",
+            "LocalizedString": "暗闇"
+        }
+    },
+    "ADDITIONAL_EFFECT_AttackUp": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "ADDITIONAL_EFFECT_AttackUp_TextData",
+            "SourceString": "攻撃UP",
+            "LocalizedString": "攻撃UP"
+        }
+    },
+    "ADDITIONAL_EFFECT_DefenseUp": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "ADDITIONAL_EFFECT_DefenseUp_TextData",
+            "SourceString": "防御UP",
+            "LocalizedString": "防御UP"
+        }
+    },
+    "ADDITIONAL_EFFECT_Recovery": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "ADDITIONAL_EFFECT_Recovery_TextData",
+            "SourceString": "回復",
+            "LocalizedString": "回復"
+        }
+    },
+    "ADDITIONAL_EFFECT_Trap_LegHold": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "ADDITIONAL_EFFECT_Trap_LegHold_TextData",
+            "SourceString": "とらばさみ",
+            "LocalizedString": "とらばさみ"
+        }
+    },
+    "SKILL_INFO_ADDITIONAL_EFFECT": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "SKILL_INFO_ADDITIONAL_EFFECT_TextData",
+            "SourceString": "蓄積値 : ",
+            "LocalizedString": "蓄積値 : "
+        }
+    },
+    "SYSTEM_DIALOG_OVERFLOW_RANKUP_EXP": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "SYSTEM_DIALOG_OVERFLOW_RANKUP_EXP_TextData",
+            "SourceString": "最大濃縮に必要なコストよりも、多くの素材が選択されています。\r\n<NumRed_20>※余剰ポイントは、消滅します。 </>\r\n\r\nこのまま濃縮しますか？",
+            "LocalizedString": "最大濃縮に必要なコストよりも、多くの素材が選択されています。\r\n<NumRed_20>※余剰ポイントは、消滅します。 </>\r\n\r\nこのまま濃縮しますか？"
+        }
+    },
+    "QUEST_TUTORIAL_BOSS_FOREST": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "QUEST_TUTORIAL_BOSS_FOREST_TextData",
+            "SourceString": "凍てつき山に向かい、\r\nパル愛護団体の塔のボスに挑もう。",
+            "LocalizedString": "凍てつき山に向かい、\r\nパル愛護団体の塔のボスに挑もう。"
+        }
+    },
+    "QUEST_TUTORIAL_BOSS_VOLCANO": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "QUEST_TUTORIAL_BOSS_VOLCANO_TextData",
+            "SourceString": "黒曜火山に向かい、\r\n永炎の同志の塔のボスに挑もう。",
+            "LocalizedString": "黒曜火山に向かい、\r\n永炎の同志の塔のボスに挑もう。"
+        }
+    },
+    "QUEST_TUTORIAL_BOSS_SNOWYMOUNTAIN": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "QUEST_TUTORIAL_BOSS_SNOWYMOUNTAIN_TextData",
+            "SourceString": "白銀の霊峰に向かい、\r\n遺伝子研究部隊の塔のボスに挑もう。",
+            "LocalizedString": "白銀の霊峰に向かい、\r\n遺伝子研究部隊の塔のボスに挑もう。"
+        }
+    },
+    "QUEST_TUTORIAL_BOSS_DESERT": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "QUEST_TUTORIAL_BOSS_DESERT_TextData",
+            "SourceString": "渇きの砂丘に向かい、\r\n自警団の塔のボスに挑もう。",
+            "LocalizedString": "渇きの砂丘に向かい、\r\n自警団の塔のボスに挑もう。"
+        }
+    },
+    "QUEST_TUTORIAL_GLIDER": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "QUEST_TUTORIAL_GLIDER_TextData",
+            "SourceString": "<itemName id=|Glider_Old|/>をクラフトして装備し、\r\nジャンプ中に再度<keyGuideIcon id=|Jump|/>を押そう。",
+            "LocalizedString": "<itemName id=|Glider_Old|/>をクラフトして装備し、\r\nジャンプ中に再度<keyGuideIcon id=|Jump|/>を押そう。"
+        }
+    },
+    "QUEST_TUTORIAL_CRAFT_PALGEAR": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "QUEST_TUTORIAL_CRAFT_PALGEAR_TextData",
+            "SourceString": "{TargetCharacterName}を捕まえたら\r\nテクノロジー画面から{TargetItemName}を解放して\r\n<mapObjectName id=|WorkBench_SkillUnlock|/>でクラフトしよう。",
+            "LocalizedString": "{TargetCharacterName}を捕まえたら\r\nテクノロジー画面から{TargetItemName}を解放して\r\n<mapObjectName id=|WorkBench_SkillUnlock|/>でクラフトしよう。"
+        }
+    },
+    "QUEST_TUTORIAL_CAPTURE_PAL_WITH_PLACE": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "QUEST_TUTORIAL_CAPTURE_PAL_WITH_PLACE_TextData",
+            "SourceString": "{PlaceName}を訪れ、\r\n{TargetCharacterName}を捕獲しよう。",
+            "LocalizedString": "{PlaceName}を訪れ、\r\n{TargetCharacterName}を捕獲しよう。"
+        }
+    },
+    "QUEST_TUTORIAL_CAPTURE_BOSS_WITH_PLACE": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "QUEST_TUTORIAL_CAPTURE_BOSS_WITH_PLACE_TextData",
+            "SourceString": "{PlaceName}を訪れ、\r\n{TargetCharacterName}を捕獲するか\r\n討伐して、古代テクノロジーポイントを入手しよう。",
+            "LocalizedString": "{PlaceName}を訪れ、\r\n{TargetCharacterName}を捕獲するか\r\n討伐して、古代テクノロジーポイントを入手しよう。"
+        }
+    },
+    "QUEST_TUTORIAL_CAPTURE_BOSS_": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "QUEST_TUTORIAL_CAPTURE_BOSS__TextData",
+            "SourceString": "アルファ : {TargetCharacterName}を捕獲するか\r\n討伐して、古代テクノロジーポイントを入手しよう。",
+            "LocalizedString": "アルファ : {TargetCharacterName}を捕獲するか\r\n討伐して、古代テクノロジーポイントを入手しよう。"
+        }
+    },
+    "QUEST_TUTORIAL_UNLOCK_FAST_TRAVEL": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "QUEST_TUTORIAL_UNLOCK_FAST_TRAVEL_TextData",
+            "SourceString": "大鷲の像に触れて\r\nファストトラベルを解放しよう。",
+            "LocalizedString": "大鷲の像に触れて\r\nファストトラベルを解放しよう。"
+        }
+    },
+    "QUEST_TUTORIAL_CRAFT_CLOTH_ARMOR": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "QUEST_TUTORIAL_CRAFT_CLOTH_ARMOR_TextData",
+            "SourceString": "<itemName id=|ClothArmor|/>をクラフトして装備し、\r\n夜の寒さに備えよう。",
+            "LocalizedString": "<itemName id=|ClothArmor|/>をクラフトして装備し、\r\n夜の寒さに備えよう。"
+        }
+    },
+    "USE_ITEM_DIALOG_GAIN_STATUS_POINTS_UNABLE": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "USE_ITEM_DIALOG_GAIN_STATUS_POINTS_UNABLE_TextData",
+            "SourceString": "プレイヤーのステータス上限に達しているため\r\n{ItemName}を使用できません",
+            "LocalizedString": "プレイヤーのステータス上限に達しているため\r\n{ItemName}を使用できません"
+        }
+    },
+    "INTERACT_INDICATOR_OpenChestItemPreferenceMenu": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "INTERACT_INDICATOR_OpenChestItemPreferenceMenu_TextData",
+            "SourceString": "チェスト設定",
+            "LocalizedString": "チェスト設定"
+        }
+    },
+    "DEATH_LOG": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "DEATH_LOG_TextData",
+            "SourceString": "{CharacterName}が瀕死になった！",
+            "LocalizedString": "{CharacterName}が瀕死になった！"
+        }
+    },
+    "SORT_TEXT_LATEST": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "SORT_TEXT_LATEST_TextData",
+            "SourceString": "登録順",
+            "LocalizedString": "登録順"
+        }
+    },
+    "SORT_TEXT_DAYS_ASC": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "SORT_TEXT_DAYS_ASC_TextData",
+            "SourceString": "日数（昇順）",
+            "LocalizedString": "日数（昇順）"
+        }
+    },
+    "SORT_TEXT_DAYS_DESC": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "SORT_TEXT_DAYS_DESC_TextData",
+            "SourceString": "日数（降順）",
+            "LocalizedString": "日数（降順）"
+        }
+    },
+    "SORT_TEXT_CURRENT_PLAYER_ASC": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "SORT_TEXT_CURRENT_PLAYER_ASC_TextData",
+            "SourceString": "プレイヤー数（昇順）",
+            "LocalizedString": "プレイヤー数（昇順）"
+        }
+    },
+    "SORT_TEXT_CURRENT_PLAYER_DESC": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "SORT_TEXT_CURRENT_PLAYER_DESC_TextData",
+            "SourceString": "プレイヤー数（降順）",
+            "LocalizedString": "プレイヤー数（降順）"
+        }
+    },
+    "TITLE_JOINGAME_PREVIOUSPAGE": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "TITLE_JOINGAME_PREVIOUSPAGE_TextData",
+            "SourceString": "前のページを表示",
+            "LocalizedString": "前のページを表示"
+        }
+    },
+    "RETURNTOBASECAMP_ITEM_CANNOT_USED": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "RETURNTOBASECAMP_ITEM_CANNOT_USED_TextData",
+            "SourceString": "行動中なので使用できません。",
+            "LocalizedString": "行動中なので使用できません。"
+        }
+    },
+    "WORKER_SUITABILITY_SETTING_NOCTURNALITY": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "WORKER_SUITABILITY_SETTING_NOCTURNALITY_TextData",
+            "SourceString": "夜行性",
+            "LocalizedString": "夜行性"
+        }
+    },
+    "ANCIENT_TECHNOLOGY_ITEM_CONSUME_NOTICE": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "ANCIENT_TECHNOLOGY_ITEM_CONSUME_NOTICE_TextData",
+            "SourceString": "{ItemName}を消費して\r\n古代テクノロジーポイントを {TechnologyPoint} 入手します。\r\nよろしいですか？",
+            "LocalizedString": "{ItemName}を消費して\r\n古代テクノロジーポイントを {TechnologyPoint} 入手します。\r\nよろしいですか？"
         }
     }
 }

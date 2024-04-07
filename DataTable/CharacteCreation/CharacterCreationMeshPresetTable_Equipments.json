@@ -5740,5 +5740,423 @@
         ],
         "IsHairAttachAccessory": false,
         "HairAttachSocketNameMap": []
+    },
+    "HeadEquip023": {
+        "SkeletalMeshMap": [
+            {
+                "TypeA": {
+                    "AssetPathName": "/Game/Pal/Model/Character/Player/HeadEquip/HeadEquip023/SK_HeadEquip023.SK_HeadEquip023",
+                    "SubPathString": ""
+                }
+            },
+            {
+                "TypeB": {
+                    "AssetPathName": "/Game/Pal/Model/Character/Player/HeadEquip/HeadEquip023/SK_HeadEquip023.SK_HeadEquip023",
+                    "SubPathString": ""
+                }
+            }
+        ],
+        "ABPAssetMap": [
+            {
+                "TypeA": {
+                    "AssetPathName": "/Game/Pal/Blueprint/Character/Player/HairAttachAccessory/ABP_HeadEquip023.ABP_HeadEquip023_C",
+                    "SubPathString": ""
+                }
+            },
+            {
+                "TypeB": {
+                    "AssetPathName": "/Game/Pal/Blueprint/Character/Player/HairAttachAccessory/ABP_HeadEquip023.ABP_HeadEquip023_C",
+                    "SubPathString": ""
+                }
+            }
+        ],
+        "IsHairAttachAccessory": true,
+        "HairAttachSocketNameMap": [
+            {
+                "TypeA": "Socket_HairAttach_HeadEquip_leftfront"
+            },
+            {
+                "TypeB": "Socket_HairAttach_HeadEquip_leftfront"
+            }
+        ]
+    },
+    "HeadEquip024": {
+        "SkeletalMeshMap": [
+            {
+                "TypeA": {
+                    "AssetPathName": "/Game/Pal/Model/Character/Player/HeadEquip/HeadEquip024/SK_HeadEquip024.SK_HeadEquip024",
+                    "SubPathString": ""
+                }
+            },
+            {
+                "TypeB": {
+                    "AssetPathName": "/Game/Pal/Model/Character/Player/HeadEquip/HeadEquip024/SK_HeadEquip024.SK_HeadEquip024",
+                    "SubPathString": ""
+                }
+            }
+        ],
+        "ABPAssetMap": [
+            {
+                "TypeA": {
+                    "AssetPathName": "/Game/Pal/Blueprint/Character/Player/HairAttachAccessory/ABP_HeadEquip024.ABP_HeadEquip024_C",
+                    "SubPathString": ""
+                }
+            },
+            {
+                "TypeB": {
+                    "AssetPathName": "/Game/Pal/Blueprint/Character/Player/HairAttachAccessory/ABP_HeadEquip024.ABP_HeadEquip024_C",
+                    "SubPathString": ""
+                }
+            }
+        ],
+        "IsHairAttachAccessory": false,
+        "HairAttachSocketNameMap": []
+    },
+    "HeadEquip025": {
+        "SkeletalMeshMap": [
+            {
+                "TypeA": {
+                    "AssetPathName": "/Game/Pal/Model/Character/Player/HeadEquip/HeadEquip025/SK_HeadEquip025.SK_HeadEquip025",
+                    "SubPathString": ""
+                }
+            },
+            {
+                "TypeB": {
+                    "AssetPathName": "/Game/Pal/Model/Character/Player/HeadEquip/HeadEquip025/SK_HeadEquip025.SK_HeadEquip025",
+                    "SubPathString": ""
+                }
+            }
+        ],
+        "ABPAssetMap": [
+            {
+                "TypeA": {
+                    "AssetPathName": "/Game/Pal/Blueprint/Character/Player/HairAttachAccessory/ABP_HeadEquip025.ABP_HeadEquip025_C",
+                    "SubPathString": ""
+                }
+            },
+            {
+                "TypeB": {
+                    "AssetPathName": "/Game/Pal/Blueprint/Character/Player/HairAttachAccessory/ABP_HeadEquip025.ABP_HeadEquip025_C",
+                    "SubPathString": ""
+                }
+            }
+        ],
+        "IsHairAttachAccessory": false,
+        "HairAttachSocketNameMap": []
+    },
+    "HeadEquip026": {
+        "SkeletalMeshMap": [
+            {
+                "TypeA": {
+                    "AssetPathName": "/Game/Pal/Model/Character/Player/HeadEquip/HeadEquip026/SK_HeadEquip026.SK_HeadEquip026",
+                    "SubPathString": ""
+                }
+            },
+            {
+                "TypeB": {
+                    "AssetPathName": "/Game/Pal/Model/Character/Player/HeadEquip/HeadEquip026/SK_HeadEquip026.SK_HeadEquip026",
+                    "SubPathString": ""
+                }
+            }
+        ],
+        "ABPAssetMap": [
+            {
+                "TypeA": {
+                    "AssetPathName": "/Game/Pal/Blueprint/Character/Player/HairAttachAccessory/ABP_HeadEquip026.ABP_HeadEquip026_C",
+                    "SubPathString": ""
+                }
+            },
+            {
+                "TypeB": {
+                    "AssetPathName": "/Game/Pal/Blueprint/Character/Player/HairAttachAccessory/ABP_HeadEquip026.ABP_HeadEquip026_C",
+                    "SubPathString": ""
+                }
+            }
+        ],
+        "IsHairAttachAccessory": false,
+        "HairAttachSocketNameMap": []
+    },
+    "HeadEquip027": {
+        "SkeletalMeshMap": [
+            {
+                "TypeA": {
+                    "AssetPathName": "/Game/Pal/Model/Character/Player/HeadEquip/HeadEquip027/SK_HeadEquip027.SK_HeadEquip027",
+                    "SubPathString": ""
+                }
+            },
+            {
+                "TypeB": {
+                    "AssetPathName": "/Game/Pal/Model/Character/Player/HeadEquip/HeadEquip027/SK_HeadEquip027.SK_HeadEquip027",
+                    "SubPathString": ""
+                }
+            }
+        ],
+        "ABPAssetMap": [
+            {
+                "TypeA": {
+                    "AssetPathName": "/Game/Pal/Blueprint/Character/Player/HairAttachAccessory/ABP_HeadEquip027.ABP_HeadEquip027_C",
+                    "SubPathString": ""
+                }
+            },
+            {
+                "TypeB": {
+                    "AssetPathName": "/Game/Pal/Blueprint/Character/Player/HairAttachAccessory/ABP_HeadEquip027.ABP_HeadEquip027_C",
+                    "SubPathString": ""
+                }
+            }
+        ],
+        "IsHairAttachAccessory": false,
+        "HairAttachSocketNameMap": []
+    },
+    "HeadEquip028": {
+        "SkeletalMeshMap": [
+            {
+                "TypeA": {
+                    "AssetPathName": "/Game/Pal/Model/Character/Player/HeadEquip/HeadEquip028/SK_HeadEquip028.SK_HeadEquip028",
+                    "SubPathString": ""
+                }
+            },
+            {
+                "TypeB": {
+                    "AssetPathName": "/Game/Pal/Model/Character/Player/HeadEquip/HeadEquip028/SK_HeadEquip028.SK_HeadEquip028",
+                    "SubPathString": ""
+                }
+            }
+        ],
+        "ABPAssetMap": [
+            {
+                "TypeA": {
+                    "AssetPathName": "/Game/Pal/Blueprint/Character/Player/HairAttachAccessory/ABP_HeadEquip028.ABP_HeadEquip028_C",
+                    "SubPathString": ""
+                }
+            },
+            {
+                "TypeB": {
+                    "AssetPathName": "/Game/Pal/Blueprint/Character/Player/HairAttachAccessory/ABP_HeadEquip028.ABP_HeadEquip028_C",
+                    "SubPathString": ""
+                }
+            }
+        ],
+        "IsHairAttachAccessory": true,
+        "HairAttachSocketNameMap": [
+            {
+                "TypeA": "Socket_HairAttach_HeadEquip_top04"
+            },
+            {
+                "TypeB": "Socket_HairAttach_HeadEquip_top04"
+            }
+        ]
+    },
+    "HeadEquip029": {
+        "SkeletalMeshMap": [
+            {
+                "TypeA": {
+                    "AssetPathName": "/Game/Pal/Model/Character/Player/HeadEquip/HeadEquip029/SK_HeadEquip029.SK_HeadEquip029",
+                    "SubPathString": ""
+                }
+            },
+            {
+                "TypeB": {
+                    "AssetPathName": "/Game/Pal/Model/Character/Player/HeadEquip/HeadEquip029/SK_HeadEquip029.SK_HeadEquip029",
+                    "SubPathString": ""
+                }
+            }
+        ],
+        "ABPAssetMap": [
+            {
+                "TypeA": {
+                    "AssetPathName": "/Game/Pal/Blueprint/Character/Player/HairAttachAccessory/ABP_HeadEquip029.ABP_HeadEquip029_C",
+                    "SubPathString": ""
+                }
+            },
+            {
+                "TypeB": {
+                    "AssetPathName": "/Game/Pal/Blueprint/Character/Player/HairAttachAccessory/ABP_HeadEquip029.ABP_HeadEquip029_C",
+                    "SubPathString": ""
+                }
+            }
+        ],
+        "IsHairAttachAccessory": false,
+        "HairAttachSocketNameMap": []
+    },
+    "HeadEquip030": {
+        "SkeletalMeshMap": [
+            {
+                "TypeA": {
+                    "AssetPathName": "/Game/Pal/Model/Character/Player/HeadEquip/HeadEquip030/SK_HeadEquip030.SK_HeadEquip030",
+                    "SubPathString": ""
+                }
+            },
+            {
+                "TypeB": {
+                    "AssetPathName": "/Game/Pal/Model/Character/Player/HeadEquip/HeadEquip030/SK_HeadEquip030.SK_HeadEquip030",
+                    "SubPathString": ""
+                }
+            }
+        ],
+        "ABPAssetMap": [
+            {
+                "TypeA": {
+                    "AssetPathName": "/Game/Pal/Blueprint/Character/Player/HairAttachAccessory/ABP_HeadEquip030.ABP_HeadEquip030_C",
+                    "SubPathString": ""
+                }
+            },
+            {
+                "TypeB": {
+                    "AssetPathName": "/Game/Pal/Blueprint/Character/Player/HairAttachAccessory/ABP_HeadEquip030.ABP_HeadEquip030_C",
+                    "SubPathString": ""
+                }
+            }
+        ],
+        "IsHairAttachAccessory": false,
+        "HairAttachSocketNameMap": []
+    },
+    "HeadEquip031": {
+        "SkeletalMeshMap": [
+            {
+                "TypeA": {
+                    "AssetPathName": "/Game/Pal/Model/Character/Player/HeadEquip/HeadEquip031/SK_HeadEquip031.SK_HeadEquip031",
+                    "SubPathString": ""
+                }
+            },
+            {
+                "TypeB": {
+                    "AssetPathName": "/Game/Pal/Model/Character/Player/HeadEquip/HeadEquip031/SK_HeadEquip031.SK_HeadEquip031",
+                    "SubPathString": ""
+                }
+            }
+        ],
+        "ABPAssetMap": [
+            {
+                "TypeA": {
+                    "AssetPathName": "/Game/Pal/Blueprint/Character/Player/HairAttachAccessory/ABP_HeadEquip031.ABP_HeadEquip031_C",
+                    "SubPathString": ""
+                }
+            },
+            {
+                "TypeB": {
+                    "AssetPathName": "/Game/Pal/Blueprint/Character/Player/HairAttachAccessory/ABP_HeadEquip031.ABP_HeadEquip031_C",
+                    "SubPathString": ""
+                }
+            }
+        ],
+        "IsHairAttachAccessory": false,
+        "HairAttachSocketNameMap": []
+    },
+    "HeadEquip032": {
+        "SkeletalMeshMap": [
+            {
+                "TypeA": {
+                    "AssetPathName": "/Game/Pal/Model/Character/Player/HeadEquip/HeadEquip032/SK_HeadEquip032.SK_HeadEquip032",
+                    "SubPathString": ""
+                }
+            },
+            {
+                "TypeB": {
+                    "AssetPathName": "/Game/Pal/Model/Character/Player/HeadEquip/HeadEquip032/SK_HeadEquip032.SK_HeadEquip032",
+                    "SubPathString": ""
+                }
+            }
+        ],
+        "ABPAssetMap": [
+            {
+                "TypeA": {
+                    "AssetPathName": "/Game/Pal/Blueprint/Character/Player/HairAttachAccessory/ABP_HeadEquip032.ABP_HeadEquip032_C",
+                    "SubPathString": ""
+                }
+            },
+            {
+                "TypeB": {
+                    "AssetPathName": "/Game/Pal/Blueprint/Character/Player/HairAttachAccessory/ABP_HeadEquip032.ABP_HeadEquip032_C",
+                    "SubPathString": ""
+                }
+            }
+        ],
+        "IsHairAttachAccessory": false,
+        "HairAttachSocketNameMap": []
+    },
+    "HeadEquip033": {
+        "SkeletalMeshMap": [
+            {
+                "TypeA": {
+                    "AssetPathName": "/Game/Pal/Model/Character/Player/HeadEquip/HeadEquip033/SK_HeadEquip033.SK_HeadEquip033",
+                    "SubPathString": ""
+                }
+            },
+            {
+                "TypeB": {
+                    "AssetPathName": "/Game/Pal/Model/Character/Player/HeadEquip/HeadEquip033/SK_HeadEquip033.SK_HeadEquip033",
+                    "SubPathString": ""
+                }
+            }
+        ],
+        "ABPAssetMap": [
+            {
+                "TypeA": {
+                    "AssetPathName": "/Game/Pal/Blueprint/Character/Player/HairAttachAccessory/ABP_HeadEquip033.ABP_HeadEquip033_C",
+                    "SubPathString": ""
+                }
+            },
+            {
+                "TypeB": {
+                    "AssetPathName": "/Game/Pal/Blueprint/Character/Player/HairAttachAccessory/ABP_HeadEquip033.ABP_HeadEquip033_C",
+                    "SubPathString": ""
+                }
+            }
+        ],
+        "IsHairAttachAccessory": false,
+        "HairAttachSocketNameMap": []
+    },
+    "PlasticHelmet": {
+        "SkeletalMeshMap": [
+            {
+                "TypeA": {
+                    "AssetPathName": "/Game/Pal/Model/Character/Player/HeadEquip/HeadEquip034/SK_HeadEquip034_test.SK_HeadEquip034_test",
+                    "SubPathString": ""
+                }
+            },
+            {
+                "TypeB": {
+                    "AssetPathName": "/Game/Pal/Model/Character/Player/HeadEquip/HeadEquip034/SK_HeadEquip034_test.SK_HeadEquip034_test",
+                    "SubPathString": ""
+                }
+            }
+        ],
+        "ABPAssetMap": [],
+        "IsHairAttachAccessory": true,
+        "HairAttachSocketNameMap": [
+            {
+                "TypeA": "Socket_HairAttach_HeadEquip_front03"
+            },
+            {
+                "TypeB": "Socket_HairAttach_HeadEquip_front03"
+            }
+        ]
+    },
+    "HeadEquip001_purple": {
+        "SkeletalMeshMap": [
+            {
+                "TypeA": {
+                    "AssetPathName": "/Game/Pal/Model/Character/Player/HeadEquip/HeadEquip001/SK_HeadEquip001_purple.SK_HeadEquip001_purple",
+                    "SubPathString": ""
+                }
+            },
+            {
+                "TypeB": {
+                    "AssetPathName": "/Game/Pal/Model/Character/Player/HeadEquip/HeadEquip001/SK_HeadEquip001_purple.SK_HeadEquip001_purple",
+                    "SubPathString": ""
+                }
+            }
+        ],
+        "ABPAssetMap": [],
+        "IsHairAttachAccessory": true,
+        "HairAttachSocketNameMap": [
+            {
+                "TypeA": "Socket_HairAttach_HeadEquip_top01"
+            },
+            {
+                "TypeB": "Socket_HairAttach_HeadEquip_top01"
+            }
+        ]
     }
 }

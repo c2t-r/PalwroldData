@@ -422,5 +422,85 @@
             "SourceString": "諦観した島民",
             "LocalizedString": "諦観した島民"
         }
+    },
+    "BattlePaltamer001": {
+        "TextData": {
+            "Namespace": "DT_UniqueNPCText",
+            "Key": "BattlePaltamer001_TextData",
+            "SourceString": "かけだしパルテイマー",
+            "LocalizedString": "かけだしパルテイマー"
+        }
+    },
+    "BattlePaltamer002": {
+        "TextData": {
+            "Namespace": "DT_UniqueNPCText",
+            "Key": "BattlePaltamer002_TextData",
+            "SourceString": "伸び盛りのパルテイマー",
+            "LocalizedString": "伸び盛りのパルテイマー"
+        }
+    },
+    "BattlePaltamer003": {
+        "TextData": {
+            "Namespace": "DT_UniqueNPCText",
+            "Key": "BattlePaltamer003_TextData",
+            "SourceString": "冷酷なパルテイマー",
+            "LocalizedString": "冷酷なパルテイマー"
+        }
+    },
+    "BattlePaltamer004": {
+        "TextData": {
+            "Namespace": "DT_UniqueNPCText",
+            "Key": "BattlePaltamer004_TextData",
+            "SourceString": "ベテランパルテイマー",
+            "LocalizedString": "ベテランパルテイマー"
+        }
+    },
+    "BattlePaltamer005": {
+        "TextData": {
+            "Namespace": "DT_UniqueNPCText",
+            "Key": "BattlePaltamer005_TextData",
+            "SourceString": "闘魂のパルテイマー",
+            "LocalizedString": "闘魂のパルテイマー"
+        }
+    },
+    "BattlePaltamer006": {
+        "TextData": {
+            "Namespace": "DT_UniqueNPCText",
+            "Key": "BattlePaltamer006_TextData",
+            "SourceString": "熟達したパルテイマー",
+            "LocalizedString": "熟達したパルテイマー"
+        }
+    },
+    "MerchantwithPAL": {
+        "TextData": {
+            "Namespace": "DT_UniqueNPCText",
+            "Key": "MerchantwithPAL_TextData",
+            "SourceString": "目つきの悪いパル商人",
+            "LocalizedString": "目つきの悪いパル商人"
+        }
+    },
+    "Assassin001": {
+        "TextData": {
+            "Namespace": "DT_UniqueNPCText",
+            "Key": "Assassin001_TextData",
+            "SourceString": "笑顔を崩さない商人",
+            "LocalizedString": "笑顔を崩さない商人"
+        }
+    },
+    "Assassin002": {
+        "TextData": {
+            "Namespace": "DT_UniqueNPCText",
+            "Key": "Assassin002_TextData",
+            "SourceString": "誠実そうな商人",
+            "LocalizedString": "誠実そうな商人"
+        }
+    },
+    "Assassin003": {
+        "TextData": {
+            "Namespace": "DT_UniqueNPCText",
+            "Key": "Assassin003_TextData",
+            "SourceString": "眼光の鋭い商人",
+            "LocalizedString": "眼光の鋭い商人"
+        }
     }
 }

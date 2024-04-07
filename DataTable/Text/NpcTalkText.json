@@ -1214,5 +1214,253 @@
             "SourceString": "ここは雪山に近いから、少し寒い土地なの。\r\nあなたも早く、たき火や小屋を作って、\r\nベッドで夜を過ごせるよう準備した方がいいわよ。",
             "LocalizedString": "ここは雪山に近いから、少し寒い土地なの。\r\nあなたも早く、たき火や小屋を作って、\r\nベッドで夜を過ごせるよう準備した方がいいわよ。"
         }
+    },
+    "BattlePaltamer001_1_1": {
+        "TextData": {
+            "Namespace": "DT_NpcTalkText",
+            "Key": "BattlePaltamer001_1_1_TextData",
+            "SourceString": "お、めずらしいな。\r\n君もパルテイマーだな！",
+            "LocalizedString": "お、めずらしいな。\r\n君もパルテイマーだな！"
+        }
+    },
+    "BattlePaltamer001_1_2": {
+        "TextData": {
+            "Namespace": "DT_NpcTalkText",
+            "Key": "BattlePaltamer001_1_2_TextData",
+            "SourceString": "私は最強のパルテイマーを目指していてね。\r\n腕試しに決闘を受けてくれないか？\r\nこの島の流儀では、パルテイマー同士の決闘は常に死合いだ。",
+            "LocalizedString": "私は最強のパルテイマーを目指していてね。\r\n腕試しに決闘を受けてくれないか？\r\nこの島の流儀では、パルテイマー同士の決闘は常に死合いだ。"
+        }
+    },
+    "BattlePaltamer001_1_3": {
+        "TextData": {
+            "Namespace": "DT_NpcTalkText",
+            "Key": "BattlePaltamer001_1_3_TextData",
+            "SourceString": "つまり、お互いの命を懸けて…ということだ。\r\nどうだ？決闘を受けてくれるかい？",
+            "LocalizedString": "つまり、お互いの命を懸けて…ということだ。\r\nどうだ？決闘を受けてくれるかい？"
+        }
+    },
+    "BattlePaltamer001_2_1": {
+        "TextData": {
+            "Namespace": "DT_NpcTalkText",
+            "Key": "BattlePaltamer001_2_1_TextData",
+            "SourceString": "ありがとう！良き戦いにしよう！",
+            "LocalizedString": "ありがとう！良き戦いにしよう！"
+        }
+    },
+    "BattlePaltamer001_3_1": {
+        "TextData": {
+            "Namespace": "DT_NpcTalkText",
+            "Key": "BattlePaltamer001_3_1_TextData",
+            "SourceString": "賢明だな。\r\n覚悟が決まったら、また話しかけてくれ。",
+            "LocalizedString": "賢明だな。\r\n覚悟が決まったら、また話しかけてくれ。"
+        }
+    },
+    "BattlePaltamer002_1_1": {
+        "TextData": {
+            "Namespace": "DT_NpcTalkText",
+            "Key": "BattlePaltamer002_1_1_TextData",
+            "SourceString": "見つけた！パルテイマー！\r\n力試ししたくて、うずうずしてたところなの！",
+            "LocalizedString": "見つけた！パルテイマー！\r\n力試ししたくて、うずうずしてたところなの！"
+        }
+    },
+    "BattlePaltamer002_1_2": {
+        "TextData": {
+            "Namespace": "DT_NpcTalkText",
+            "Key": "BattlePaltamer002_1_2_TextData",
+            "SourceString": "私の経験値となってもらうよ。\r\nさぁ、闘いましょう！",
+            "LocalizedString": "私の経験値となってもらうよ。\r\nさぁ、闘いましょう！"
+        }
+    },
+    "BattlePaltamer002_2_1": {
+        "TextData": {
+            "Namespace": "DT_NpcTalkText",
+            "Key": "BattlePaltamer002_2_1_TextData",
+            "SourceString": "意気込みだけじゃ勝てないよ！",
+            "LocalizedString": "意気込みだけじゃ勝てないよ！"
+        }
+    },
+    "BattlePaltamer002_3_1": {
+        "TextData": {
+            "Namespace": "DT_NpcTalkText",
+            "Key": "BattlePaltamer002_3_1_TextData",
+            "SourceString": "とんだ臆病者ね。\r\nそれでもパルテイマーなの？",
+            "LocalizedString": "とんだ臆病者ね。\r\nそれでもパルテイマーなの？"
+        }
+    },
+    "BattlePaltamer003_1_1": {
+        "TextData": {
+            "Namespace": "DT_NpcTalkText",
+            "Key": "BattlePaltamer003_1_1_TextData",
+            "SourceString": "クックック…\r\n貴様が最近、噂になっているパルテイマーか。\r\n急成長している新人らしいな。",
+            "LocalizedString": "クックック…\r\n貴様が最近、噂になっているパルテイマーか。\r\n急成長している新人らしいな。"
+        }
+    },
+    "BattlePaltamer003_1_2": {
+        "TextData": {
+            "Namespace": "DT_NpcTalkText",
+            "Key": "BattlePaltamer003_1_2_TextData",
+            "SourceString": "目障りなんだよ。\r\nここで潰させてもらうぞ。\r\nさぁ、パルスフィアを構えろ。",
+            "LocalizedString": "目障りなんだよ。\r\nここで潰させてもらうぞ。\r\nさぁ、パルスフィアを構えろ。"
+        }
+    },
+    "BattlePaltamer003_2_1": {
+        "TextData": {
+            "Namespace": "DT_NpcTalkText",
+            "Key": "BattlePaltamer003_2_1_TextData",
+            "SourceString": "フッ、勝てると思ったのか？\r\n身の程をわからせてやるよ。",
+            "LocalizedString": "フッ、勝てると思ったのか？\r\n身の程をわからせてやるよ。"
+        }
+    },
+    "BattlePaltamer003_3_1": {
+        "TextData": {
+            "Namespace": "DT_NpcTalkText",
+            "Key": "BattlePaltamer003_3_1_TextData",
+            "SourceString": "二度とパルテイマーを名乗るなよ、腰抜け。",
+            "LocalizedString": "二度とパルテイマーを名乗るなよ、腰抜け。"
+        }
+    },
+    "BattlePaltamer004_1_1": {
+        "TextData": {
+            "Namespace": "DT_NpcTalkText",
+            "Key": "BattlePaltamer004_1_1_TextData",
+            "SourceString": "ハァイ、ルーキーさん！\r\nパルの扱いが様になっているね。",
+            "LocalizedString": "ハァイ、ルーキーさん！\r\nパルの扱いが様になっているね。"
+        }
+    },
+    "BattlePaltamer004_1_2": {
+        "TextData": {
+            "Namespace": "DT_NpcTalkText",
+            "Key": "BattlePaltamer004_1_2_TextData",
+            "SourceString": "でも、アタシに会ったのが運の尽き。\r\nここでどっちが本物のパルテイマーなのか、\r\n決闘して確かめましょう。",
+            "LocalizedString": "でも、アタシに会ったのが運の尽き。\r\nここでどっちが本物のパルテイマーなのか、\r\n決闘して確かめましょう。"
+        }
+    },
+    "BattlePaltamer004_2_1": {
+        "TextData": {
+            "Namespace": "DT_NpcTalkText",
+            "Key": "BattlePaltamer004_2_1_TextData",
+            "SourceString": "ベテランの戦い方を見せてあげる！",
+            "LocalizedString": "ベテランの戦い方を見せてあげる！"
+        }
+    },
+    "BattlePaltamer004_3_1": {
+        "TextData": {
+            "Namespace": "DT_NpcTalkText",
+            "Key": "BattlePaltamer004_3_1_TextData",
+            "SourceString": "期待外れもいいところね。",
+            "LocalizedString": "期待外れもいいところね。"
+        }
+    },
+    "BattlePaltamer005_1_1": {
+        "TextData": {
+            "Namespace": "DT_NpcTalkText",
+            "Key": "BattlePaltamer005_1_1_TextData",
+            "SourceString": "うおおお、アツいぜええええ！！\r\nお前、めっちゃ強そうだなああああ！！",
+            "LocalizedString": "うおおお、アツいぜええええ！！\r\nお前、めっちゃ強そうだなああああ！！"
+        }
+    },
+    "BattlePaltamer005_1_2": {
+        "TextData": {
+            "Namespace": "DT_NpcTalkText",
+            "Key": "BattlePaltamer005_1_2_TextData",
+            "SourceString": "俺と決闘しようぜええええ！！\r\nもちろん本気の殴り合いだああああ！！",
+            "LocalizedString": "俺と決闘しようぜええええ！！\r\nもちろん本気の殴り合いだああああ！！"
+        }
+    },
+    "BattlePaltamer005_2_1": {
+        "TextData": {
+            "Namespace": "DT_NpcTalkText",
+            "Key": "BattlePaltamer005_2_1_TextData",
+            "SourceString": "最高の勝負にしようぜええええ！！",
+            "LocalizedString": "最高の勝負にしようぜええええ！！"
+        }
+    },
+    "BattlePaltamer005_3_1": {
+        "TextData": {
+            "Namespace": "DT_NpcTalkText",
+            "Key": "BattlePaltamer005_3_1_TextData",
+            "SourceString": "悲しいぜええええ！！",
+            "LocalizedString": "悲しいぜええええ！！"
+        }
+    },
+    "BattlePaltamer006_1_1": {
+        "TextData": {
+            "Namespace": "DT_NpcTalkText",
+            "Key": "BattlePaltamer006_1_1_TextData",
+            "SourceString": "ハァ…またパルテイマーにゃん？\r\nあまりにも弱いパルテイマーが増えすぎにゃ。\r\nボク以外のパルテイマーには滅んでほしいにゃん。",
+            "LocalizedString": "ハァ…またパルテイマーにゃん？\r\nあまりにも弱いパルテイマーが増えすぎにゃ。\r\nボク以外のパルテイマーには滅んでほしいにゃん。"
+        }
+    },
+    "BattlePaltamer006_1_2": {
+        "TextData": {
+            "Namespace": "DT_NpcTalkText",
+            "Key": "BattlePaltamer006_1_2_TextData",
+            "SourceString": "ボクと決闘して、少しは度胸があるところを見せてほしいにゃん。\r\nそして、最後には跪いてほしいのにゃ。",
+            "LocalizedString": "ボクと決闘して、少しは度胸があるところを見せてほしいにゃん。\r\nそして、最後には跪いてほしいのにゃ。"
+        }
+    },
+    "BattlePaltamer006_2_1": {
+        "TextData": {
+            "Namespace": "DT_NpcTalkText",
+            "Key": "BattlePaltamer006_2_1_TextData",
+            "SourceString": "勝てるわけにゃいのに、お馬鹿さん猫にゃん。",
+            "LocalizedString": "勝てるわけにゃいのに、お馬鹿さん猫にゃん。"
+        }
+    },
+    "BattlePaltamer006_3_1": {
+        "TextData": {
+            "Namespace": "DT_NpcTalkText",
+            "Key": "BattlePaltamer006_3_1_TextData",
+            "SourceString": "弱い上に勇気もにゃいなんて、どうしようもないにゃん。",
+            "LocalizedString": "弱い上に勇気もにゃいなんて、どうしようもないにゃん。"
+        }
+    },
+    "MerchantwithPAL_1_1": {
+        "TextData": {
+            "Namespace": "DT_NpcTalkText",
+            "Key": "MerchantwithPAL_1_1_TextData",
+            "SourceString": "このパルとかいうやつら、本当にクサいな…吐きそうだ。\r\nあんたもそう思わねーか？",
+            "LocalizedString": "このパルとかいうやつら、本当にクサいな…吐きそうだ。\r\nあんたもそう思わねーか？"
+        }
+    },
+    "MerchantwithPAL_1_2": {
+        "TextData": {
+            "Namespace": "DT_NpcTalkText",
+            "Key": "MerchantwithPAL_1_2_TextData",
+            "SourceString": "･･･うん？ 同業じゃないなお前、放浪者か。\r\n悪いが、あんたに売れるモノは無い。\r\nこれを村へ輸送している最中なんでね。",
+            "LocalizedString": "･･･うん？ 同業じゃないなお前、放浪者か。\r\n悪いが、あんたに売れるモノは無い。\r\nこれを村へ輸送している最中なんでね。"
+        }
+    },
+    "MerchantwithPAL_1_3": {
+        "TextData": {
+            "Namespace": "DT_NpcTalkText",
+            "Key": "MerchantwithPAL_1_3_TextData",
+            "SourceString": "いるよな、ゴミに金出す物好きって。\r\nさっさと売り払って\r\nこんな危険な島からはおさらばしたいね。",
+            "LocalizedString": "いるよな、ゴミに金出す物好きって。\r\nさっさと売り払って\r\nこんな危険な島からはおさらばしたいね。"
+        }
+    },
+    "MerchantwithPAL_Loop": {
+        "TextData": {
+            "Namespace": "DT_NpcTalkText",
+            "Key": "MerchantwithPAL_Loop_TextData",
+            "SourceString": "このゴミどもがどうなろうと知ったこっちゃないが\r\n今だけは大事な商品だ。\r\n傷でもつけてみろ、後悔させてやるぞ。",
+            "LocalizedString": "このゴミどもがどうなろうと知ったこっちゃないが\r\n今だけは大事な商品だ。\r\n傷でもつけてみろ、後悔させてやるぞ。"
+        }
+    },
+    "Assassin_1_1": {
+        "TextData": {
+            "Namespace": "DT_NpcTalkText",
+            "Key": "Assassin_1_1_TextData",
+            "SourceString": "こんにちは、パルテイマーさん。\r\n私たちは、あなたの旅をサポートする商人グループ…\r\n…ではない。",
+            "LocalizedString": "こんにちは、パルテイマーさん。\r\n私たちは、あなたの旅をサポートする商人グループ…\r\n…ではない。"
+        }
+    },
+    "Assassin_1_2": {
+        "TextData": {
+            "Namespace": "DT_NpcTalkText",
+            "Key": "Assassin_1_2_TextData",
+            "SourceString": "貴様は、ほんの少しだけ恨みを買い過ぎたようだ。\r\n悪く思うなよ。これも仕事なんでな。\r\n消えてもらう。",
+            "LocalizedString": "貴様は、ほんの少しだけ恨みを買い過ぎたようだ。\r\n悪く思うなよ。これも仕事なんでな。\r\n消えてもらう。"
+        }
     }
 }

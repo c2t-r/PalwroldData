@@ -388,5 +388,75 @@
         "ParentTribeA": "EPalTribeID::BlueberryFairy",
         "ParentTribeB": "EPalTribeID::BlueberryFairy",
         "ChildCharacterID": "BlueberryFairy"
+    },
+    "80": {
+        "ParentTribeA": "EPalTribeID::Umihebi",
+        "ParentTribeB": "EPalTribeID::Manticore",
+        "ChildCharacterID": "Umihebi_Fire"
+    },
+    "81": {
+        "ParentTribeA": "EPalTribeID::Human",
+        "ParentTribeB": "EPalTribeID::Human",
+        "ChildCharacterID": "NightLady"
+    },
+    "82": {
+        "ParentTribeA": "EPalTribeID::177",
+        "ParentTribeB": "EPalTribeID::177",
+        "ChildCharacterID": "NightLady_Dark"
+    },
+    "83": {
+        "ParentTribeA": "EPalTribeID::Human",
+        "ParentTribeB": "EPalTribeID::177",
+        "ChildCharacterID": "NightLady"
+    },
+    "84": {
+        "ParentTribeA": "EPalTribeID::184",
+        "ParentTribeB": "EPalTribeID::184",
+        "ChildCharacterID": "Gorilla_Ground"
+    },
+    "85": {
+        "ParentTribeA": "EPalTribeID::182",
+        "ParentTribeB": "EPalTribeID::182",
+        "ChildCharacterID": "KingBahamut_Dragon"
+    },
+    "86": {
+        "ParentTribeA": "EPalTribeID::190",
+        "ParentTribeB": "EPalTribeID::190",
+        "ChildCharacterID": "FoxMage_Dark"
+    },
+    "87": {
+        "ParentTribeA": "EPalTribeID::189",
+        "ParentTribeB": "EPalTribeID::189",
+        "ChildCharacterID": "CatMage_Fire"
+    },
+    "88": {
+        "ParentTribeA": "EPalTribeID::183",
+        "ParentTribeB": "EPalTribeID::183",
+        "ChildCharacterID": "HerculesBeetle_Ground"
+    },
+    "89": {
+        "ParentTribeA": "EPalTribeID::192",
+        "ParentTribeB": "EPalTribeID::192",
+        "ChildCharacterID": "WeaselDragon_Fire"
+    },
+    "90": {
+        "ParentTribeA": "EPalTribeID::191",
+        "ParentTribeB": "EPalTribeID::191",
+        "ChildCharacterID": "SkyDragon_Grass"
+    },
+    "91": {
+        "ParentTribeA": "EPalTribeID::185",
+        "ParentTribeB": "EPalTribeID::185",
+        "ChildCharacterID": "HadesBird_Electric"
+    },
+    "92": {
+        "ParentTribeA": "EPalTribeID::188",
+        "ParentTribeB": "EPalTribeID::188",
+        "ChildCharacterID": "Ronin_Dark"
+    },
+    "93": {
+        "ParentTribeA": "EPalTribeID::187",
+        "ParentTribeB": "EPalTribeID::187",
+        "ChildCharacterID": "DarkScorpion_Ground"
     }
 }

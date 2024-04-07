@@ -1,4 +1,10 @@
 {
+    "UnlockFastTravel": {
+        "QuestData": {
+            "AssetPathName": "/Game/Pal/Blueprint/Quest/Tutorial/BP_PalQuestData_UnlockFasttTavel.BP_PalQuestData_UnlockFasttTavel_C",
+            "SubPathString": ""
+        }
+    },
     "OpenSurvivalGuide": {
         "QuestData": {
             "AssetPathName": "/Game/Pal/Blueprint/Quest/Tutorial/BP_PalQuestData_TutorialOpenSurvivalGuide.BP_PalQuestData_TutorialOpenSurvivalGuide_C",
@@ -41,6 +47,12 @@
             "SubPathString": ""
         }
     },
+    "EquipClothArmor": {
+        "QuestData": {
+            "AssetPathName": "/Game/Pal/Blueprint/Quest/Tutorial/BP_PalQuestData_EquipArmor.BP_PalQuestData_EquipArmor_C",
+            "SubPathString": ""
+        }
+    },
     "BuildBaseCamp": {
         "QuestData": {
             "AssetPathName": "/Game/Pal/Blueprint/Quest/Tutorial/BP_PalQuestData_TutorialBaseCamp.BP_PalQuestData_TutorialBaseCamp_C",
@@ -71,9 +83,45 @@
             "SubPathString": ""
         }
     },
+    "EquipShield": {
+        "QuestData": {
+            "AssetPathName": "/Game/Pal/Blueprint/Quest/Tutorial/BP_PalQuestData_TutorialCraftShield.BP_PalQuestData_TutorialCraftShield_C",
+            "SubPathString": ""
+        }
+    },
+    "UseGlider": {
+        "QuestData": {
+            "AssetPathName": "/Game/Pal/Blueprint/Quest/Tutorial/BP_PalQuestData_TutorialGlider.BP_PalQuestData_TutorialGlider_C",
+            "SubPathString": ""
+        }
+    },
     "CapturePal_AnyOne": {
         "QuestData": {
             "AssetPathName": "/Game/Pal/Blueprint/Quest/Tutorial/BP_PalQuestData_TutorialCaptureCountAnyone.BP_PalQuestData_TutorialCaptureCountAnyone_C",
+            "SubPathString": ""
+        }
+    },
+    "CraftKitsunebiGear": {
+        "QuestData": {
+            "AssetPathName": "/Game/Pal/Blueprint/Quest/Tutorial/BP_PalQuestData_CraftKitsunebiGear.BP_PalQuestData_CraftKitsunebiGear_C",
+            "SubPathString": ""
+        }
+    },
+    "DefeatWildBoss": {
+        "QuestData": {
+            "AssetPathName": "/Game/Pal/Blueprint/Quest/Tutorial/BP_PalQuestData_TutorialDefeatWildBoss.BP_PalQuestData_TutorialDefeatWildBoss_C",
+            "SubPathString": ""
+        }
+    },
+    "BuildHatchingMachine": {
+        "QuestData": {
+            "AssetPathName": "/Game/Pal/Blueprint/Quest/Tutorial/BP_PalQuestData_TutorialBuildHatchingMachine.BP_PalQuestData_TutorialBuildHatchingMachine_C",
+            "SubPathString": ""
+        }
+    },
+    "DefeatImprisonmentBoss": {
+        "QuestData": {
+            "AssetPathName": "/Game/Pal/Blueprint/Quest/Tutorial/BP_PalQuestData_TutorialDefeatImprisonmentBoss.BP_PalQuestData_TutorialDefeatImprisonmentBoss_C",
             "SubPathString": ""
         }
     },
@@ -85,7 +133,43 @@
     },
     "DefeatGrassBoss": {
         "QuestData": {
-            "AssetPathName": "/Game/Pal/Blueprint/Quest/Tutorial/BP_PalQuestData_TutorialDefeatBoss.BP_PalQuestData_TutorialDefeatBoss_C",
+            "AssetPathName": "/Game/Pal/Blueprint/Quest/Tutorial/BP_PalQuestData_TutorialDefeatGrassBoss.BP_PalQuestData_TutorialDefeatGrassBoss_C",
+            "SubPathString": ""
+        }
+    },
+    "CraftMealPouch": {
+        "QuestData": {
+            "AssetPathName": "/Game/Pal/Blueprint/Quest/Tutorial/BP_PalQuestData_TutorialCraftMealPouch.BP_PalQuestData_TutorialCraftMealPouch_C",
+            "SubPathString": ""
+        }
+    },
+    "CaptureDeerGround": {
+        "QuestData": {
+            "AssetPathName": "/Game/Pal/Blueprint/Quest/Tutorial/BP_PalQuestData_CaptureDeerGround.BP_PalQuestData_CaptureDeerGround_C",
+            "SubPathString": ""
+        }
+    },
+    "DefeatForestBoss": {
+        "QuestData": {
+            "AssetPathName": "/Game/Pal/Blueprint/Quest/Tutorial/BP_PalQuestData_TutorialDefeatForestBoss.BP_PalQuestData_TutorialDefeatForestBoss_C",
+            "SubPathString": ""
+        }
+    },
+    "DefeatDesertBoss": {
+        "QuestData": {
+            "AssetPathName": "/Game/Pal/Blueprint/Quest/Tutorial/BP_PalQuestData_TutorialDefeatDesertBoss.BP_PalQuestData_TutorialDefeatDesertBoss_C",
+            "SubPathString": ""
+        }
+    },
+    "DefeatVolcanoBoss": {
+        "QuestData": {
+            "AssetPathName": "/Game/Pal/Blueprint/Quest/Tutorial/BP_PalQuestData_TutorialDefeatVolcanoBoss.BP_PalQuestData_TutorialDefeatVolcanoBoss_C",
+            "SubPathString": ""
+        }
+    },
+    "DefeatSnowyMountainBoss": {
+        "QuestData": {
+            "AssetPathName": "/Game/Pal/Blueprint/Quest/Tutorial/BP_PalQuestData_TutorialDefeatSnowyMountainBoss.BP_PalQuestData_TutorialDefeatSnowyMountainBoss_C",
             "SubPathString": ""
         }
     }

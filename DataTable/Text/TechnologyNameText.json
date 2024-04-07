@@ -4078,5 +4078,53 @@
             "SourceString": "<mapObjectName id=|Altar|/>",
             "LocalizedString": "<mapObjectName id=|Altar|/>"
         }
+    },
+    "NAME_RECIPE_Accessory_Nonkilling": {
+        "TextData": {
+            "Namespace": "DT_TechnologyNameText",
+            "Key": "NAME_RECIPE_Accessory_Nonkilling_TextData",
+            "SourceString": "<itemName id=|Accessory_Nonkilling|/>",
+            "LocalizedString": "<itemName id=|Accessory_Nonkilling|/>"
+        }
+    },
+    "NAME_RECIPE_Accessory_TalentChecker": {
+        "TextData": {
+            "Namespace": "DT_TechnologyNameText",
+            "Key": "NAME_RECIPE_Accessory_TalentChecker_TextData",
+            "SourceString": "<itemName id=|Accessory_TalentChecker|/>",
+            "LocalizedString": "<itemName id=|Accessory_TalentChecker|/>"
+        }
+    },
+    "NAME_RECIPE_CopperPit": {
+        "TextData": {
+            "Namespace": "DT_TechnologyNameText",
+            "Key": "NAME_RECIPE_CopperPit_TextData",
+            "SourceString": "<mapObjectName id=|CopperPit|/>",
+            "LocalizedString": "<mapObjectName id=|CopperPit|/>"
+        }
+    },
+    "NAME_RECIPE_CopperPit_2": {
+        "TextData": {
+            "Namespace": "DT_TechnologyNameText",
+            "Key": "NAME_RECIPE_CopperPit_2_TextData",
+            "SourceString": "<mapObjectName id=|CopperPit_2|/>",
+            "LocalizedString": "<mapObjectName id=|CopperPit_2|/>"
+        }
+    },
+    "NAME_RECIPE_ElectricHatchingPalEgg": {
+        "TextData": {
+            "Namespace": "DT_TechnologyNameText",
+            "Key": "NAME_RECIPE_ElectricHatchingPalEgg_TextData",
+            "SourceString": "<mapObjectName id=|ElectricHatchingPalEgg|/>",
+            "LocalizedString": "<mapObjectName id=|ElectricHatchingPalEgg|/>"
+        }
+    },
+    "NAME_RECIPE_Homeward": {
+        "TextData": {
+            "Namespace": "DT_TechnologyNameText",
+            "Key": "NAME_RECIPE_Homeward_TextData",
+            "SourceString": "<itemName id=|Homeward|/>",
+            "LocalizedString": "<itemName id=|Homeward|/>"
+        }
     }
 }
