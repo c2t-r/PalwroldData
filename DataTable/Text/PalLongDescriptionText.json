@@ -1051,8 +1051,8 @@
         "TextData": {
             "Namespace": "DT_PalLongDescriptionText",
             "Key": "PAL_LONG_DESC_SweetsSheep_TextData",
-            "SourceString": "全身が、砂糖の18000倍の甘さ。\r\n匂いに釣られてかぶりついた肉食パルは\r\nあまりの甘さに、白目を向いて卒倒する。",
-            "LocalizedString": "全身が、砂糖の18000倍の甘さ。\r\n匂いに釣られてかぶりついた肉食パルは\r\nあまりの甘さに、白目を向いて卒倒する。"
+            "SourceString": "全身が、砂糖の18000倍の甘さ。\r\n匂いに釣られてかぶりついた肉食パルは\r\nあまりの甘さに、白目をむいて卒倒する。",
+            "LocalizedString": "全身が、砂糖の18000倍の甘さ。\r\n匂いに釣られてかぶりついた肉食パルは\r\nあまりの甘さに、白目をむいて卒倒する。"
         }
     },
     "PAL_LONG_DESC_TentacleTurtle": {

@@ -1019,8 +1019,8 @@
         "TextData": {
             "Namespace": "DT_SkillNameText",
             "Key": "PASSIVE_ElementResist_Dragon_1_TextData",
-            "SourceString": "龍属性ダメージ軽減Lv1",
-            "LocalizedString": "龍属性ダメージ軽減Lv1"
+            "SourceString": "竜属性ダメージ軽減Lv1",
+            "LocalizedString": "竜属性ダメージ軽減Lv1"
         }
     },
     "PASSIVE_ElementResist_Normal_2": {
@@ -1091,8 +1091,8 @@
         "TextData": {
             "Namespace": "DT_SkillNameText",
             "Key": "PASSIVE_ElementResist_Dragon_2_TextData",
-            "SourceString": "龍属性ダメージ軽減Lv2",
-            "LocalizedString": "龍属性ダメージ軽減Lv2"
+            "SourceString": "竜属性ダメージ軽減Lv2",
+            "LocalizedString": "竜属性ダメージ軽減Lv2"
         }
     },
     "PASSIVE_ElementResist_Normal_3": {
@@ -1163,8 +1163,8 @@
         "TextData": {
             "Namespace": "DT_SkillNameText",
             "Key": "PASSIVE_ElementResist_Dragon_3_TextData",
-            "SourceString": "龍属性ダメージ軽減Lv3",
-            "LocalizedString": "龍属性ダメージ軽減Lv3"
+            "SourceString": "竜属性ダメージ軽減Lv3",
+            "LocalizedString": "竜属性ダメージ軽減Lv3"
         }
     },
     "COOP_RIDE": {

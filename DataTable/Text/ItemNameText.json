@@ -7190,5 +7190,29 @@
             "SourceString": "古代の技術書",
             "LocalizedString": "古代の技術書"
         }
+    },
+    "ITEM_NAME_FlamethrowerBullet": {
+        "TextData": {
+            "Namespace": "DT_ItemNameText",
+            "Key": "ITEM_NAME_FlamethrowerBullet_TextData",
+            "SourceString": "火炎放射器燃料",
+            "LocalizedString": "火炎放射器燃料"
+        }
+    },
+    "ITEM_NAME_MissileBullet": {
+        "TextData": {
+            "Namespace": "DT_ItemNameText",
+            "Key": "ITEM_NAME_MissileBullet_TextData",
+            "SourceString": "ミサイル弾",
+            "LocalizedString": "ミサイル弾"
+        }
+    },
+    "ITEM_NAME_GrenadeBullet": {
+        "TextData": {
+            "Namespace": "DT_ItemNameText",
+            "Key": "ITEM_NAME_GrenadeBullet_TextData",
+            "SourceString": "グレネード弾",
+            "LocalizedString": "グレネード弾"
+        }
     }
 }

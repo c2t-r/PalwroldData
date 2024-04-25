@@ -4935,6 +4935,14 @@
             "LocalizedString": "ボス戦に参加する"
         }
     },
+    "INTERACT_INDICATOR_EntryBossBattleHard": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "INTERACT_INDICATOR_EntryBossBattleHard_TextData",
+            "SourceString": "ボス戦(Hard)に参加する",
+            "LocalizedString": "ボス戦(Hard)に参加する"
+        }
+    },
     "INTERACT_INDICATOR_EntryBossBattleFullMember": {
         "TextData": {
             "Namespace": "DT_UI_Common_Text",
@@ -12245,6 +12253,70 @@
             "Key": "ANCIENT_TECHNOLOGY_ITEM_CONSUME_NOTICE_TextData",
             "SourceString": "{ItemName}を消費して\r\n古代テクノロジーポイントを {TechnologyPoint} 入手します。\r\nよろしいですか？",
             "LocalizedString": "{ItemName}を消費して\r\n古代テクノロジーポイントを {TechnologyPoint} 入手します。\r\nよろしいですか？"
+        }
+    },
+    "MAPOBJECT_OPERATION_FailedUnderOceanPlane": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "MAPOBJECT_OPERATION_FailedUnderOceanPlane_TextData",
+            "SourceString": "海面より低い位置には建築できません",
+            "LocalizedString": "海面より低い位置には建築できません"
+        }
+    },
+    "WORLDSSETTING_RANDOMIZER_MODE": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "WORLDSSETTING_RANDOMIZER_MODE_TextData",
+            "SourceString": "出現パルランダムモード ※この項目はワールド生成後は変更できません",
+            "LocalizedString": "出現パルランダムモード ※この項目はワールド生成後は変更できません"
+        }
+    },
+    "WORLDSSETTING_RANDOMIZER_MODE_NO": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "WORLDSSETTING_RANDOMIZER_MODE_NO_TextData",
+            "SourceString": "ランダムなし",
+            "LocalizedString": "ランダムなし"
+        }
+    },
+    "WORLDSSETTING_RANDOMIZER_MODE_REGION": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "WORLDSSETTING_RANDOMIZER_MODE_REGION_TextData",
+            "SourceString": "地域ごとでランダム",
+            "LocalizedString": "地域ごとでランダム"
+        }
+    },
+    "WORLDSSETTING_RANDOMIZER_MODE_ALL": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "WORLDSSETTING_RANDOMIZER_MODE_ALL_TextData",
+            "SourceString": "完全にランダム",
+            "LocalizedString": "完全にランダム"
+        }
+    },
+    "WORLDSSETTING_RANDOMIZER_SEED": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "WORLDSSETTING_RANDOMIZER_SEED_TextData",
+            "SourceString": "シード値",
+            "LocalizedString": "シード値"
+        }
+    },
+    "BUILDING_MENU_GUIDE_CHANGE_SNAP_MODE": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "BUILDING_MENU_GUIDE_CHANGE_SNAP_MODE_TextData",
+            "SourceString": "軸合わせモード変更",
+            "LocalizedString": "軸合わせモード変更"
+        }
+    },
+    "BOSSBATTLE_ENTRY_HARD_SUFFIX": {
+        "TextData": {
+            "Namespace": "DT_UI_Common_Text",
+            "Key": "BOSSBATTLE_ENTRY_HARD_SUFFIX_TextData",
+            "SourceString": "（Hard）",
+            "LocalizedString": "（Hard）"
         }
     }
 }

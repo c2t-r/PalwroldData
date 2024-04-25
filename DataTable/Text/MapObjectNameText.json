@@ -2766,5 +2766,37 @@
             "SourceString": "ガラスの柱",
             "LocalizedString": "ガラスの柱"
         }
+    },
+    "MAPOBJECT_NAME_MeteorFall": {
+        "TextData": {
+            "Namespace": "DT_MapObjectNameText",
+            "Key": "MAPOBJECT_NAME_MeteorFall_TextData",
+            "SourceString": "隕石（落下中）",
+            "LocalizedString": "隕石（落下中）"
+        }
+    },
+    "MAPOBJECT_NAME_MeteorDrop": {
+        "TextData": {
+            "Namespace": "DT_MapObjectNameText",
+            "Key": "MAPOBJECT_NAME_MeteorDrop_TextData",
+            "SourceString": "隕石（落下後）",
+            "LocalizedString": "隕石（落下後）"
+        }
+    },
+    "MAPOBJECT_NAME_SupplyFall": {
+        "TextData": {
+            "Namespace": "DT_MapObjectNameText",
+            "Key": "MAPOBJECT_NAME_SupplyFall_TextData",
+            "SourceString": "補給物資（落下中）",
+            "LocalizedString": "補給物資（落下中）"
+        }
+    },
+    "MAPOBJECT_NAME_SupplyDrop": {
+        "TextData": {
+            "Namespace": "DT_MapObjectNameText",
+            "Key": "MAPOBJECT_NAME_SupplyDrop_TextData",
+            "SourceString": "補給物資（落下後）",
+            "LocalizedString": "補給物資（落下後）"
+        }
     }
 }
